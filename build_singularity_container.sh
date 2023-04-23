@@ -9,4 +9,4 @@
 # ./scripts/build_singularity_container.sh
 #
 #
-sudo -E singularity build ticket_272562.sif Singularity
+sudo -E singularity build pytorch.sif Singularity
