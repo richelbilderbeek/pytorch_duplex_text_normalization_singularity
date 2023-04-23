@@ -10,8 +10,8 @@ From: pytorch/pytorch:latest
     echo 'export LANG=en_US.UTF-8 LANGUAGE=C LC_ALL=C LC_CTYPE=C LC_COLLATE=C  LC_TIME=C LC_MONETARY=C LC_PAPER=C LC_MEASUREMENT=C' >> $SINGULARITY_ENVIRONMENT
 
     apt-get -y update
-    apt-get -y install git wget gcc
-    gcc --version
+    apt-get -y install git wget g++
+    g++ --version
 
     pip install Cython 
     pip install pytorch-lightning omegaconf nemo_toolkit[all]
