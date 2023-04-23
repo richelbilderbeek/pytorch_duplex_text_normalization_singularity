@@ -12,7 +12,7 @@ From: pytorch/pytorch:latest
     apt-get -y update
     apt-get -y install git
 
-    git clone https://github.com/NVIDIA/NeMo /opt/NeMo --clone-depth 1
+    git clone https://github.com/NVIDIA/NeMo /opt/NeMo --depth 1
     cp validation_10000.txt /opt/NeMo/examples/nlp/duplex_text_normalization
     cp train_10000.txt /opt/NeMo/examples/nlp/duplex_text_normalization
 
