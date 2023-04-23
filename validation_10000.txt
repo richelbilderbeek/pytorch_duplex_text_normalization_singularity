@@ -1,0 +1,10000 @@
+PLAIN	Wheels	<self>
+PLAIN	of	<self>
+PLAIN	Pierre	<self>
+PLAIN	Robert	<self>
+PLAIN	are	<self>
+PLAIN	physically	<self>
+PLAIN	smaller	<self>
+PUNCT	(	sil
+PLAIN	due	<self>
+PLAIN	to	<self>
+PLAIN	loss	<self>
+PLAIN	of	<self>
+PLAIN	moisture	<self>
+PUNCT	)	sil
+PUNCT	,	sil
+PLAIN	yet	<self>
+PLAIN	creamier	<self>
+PLAIN	than	<self>
+PLAIN	the	<self>
+PLAIN	regular	<self>
+PLAIN	aged	<self>
+PLAIN	Brillat	<self>
+PLAIN	Savarin	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	14 March 2016	the fourteenth of march twenty sixteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Brilliance	<self>
+PLAIN	is	<self>
+PLAIN	the	<self>
+PLAIN	fourth	<self>
+PLAIN	studio	<self>
+PLAIN	album	<self>
+PLAIN	by	<self>
+PLAIN	Atlantic	<self>
+PLAIN	Starr	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	February 25, 2016	february twenty fifth twenty sixteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Prior	<self>
+PLAIN	to	<self>
+PLAIN	its	<self>
+PLAIN	public	<self>
+PLAIN	launch	<self>
+PUNCT	,	sil
+PLAIN	it	<self>
+PLAIN	was	<self>
+PLAIN	named	<self>
+PLAIN	Brilliance	<self>
+CARDINAL	1	one
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	two	<self>
+PLAIN	other	<self>
+PLAIN	major	<self>
+PLAIN	output	<self>
+PLAIN	subsystems	<self>
+PLAIN	are	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	direction	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	thalamus	<self>
+PLAIN	and	<self>
+PLAIN	from	<self>
+PLAIN	there	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	cortex	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Kikuta	<self>
+PLAIN	master	<self>
+PUNCT	,	sil
+PLAIN	Kotaro	<self>
+PUNCT	,	sil
+PLAIN	sneaks	<self>
+PLAIN	into	<self>
+PLAIN	Takeo's	<self>
+PLAIN	house	<self>
+PLAIN	to	<self>
+PLAIN	assassinate	<self>
+PLAIN	him	<self>
+PUNCT	,	sil
+PLAIN	as	<self>
+PLAIN	he	<self>
+PLAIN	did	<self>
+PLAIN	to	<self>
+PLAIN	his	<self>
+PLAIN	father	<self>
+PLAIN	years	<self>
+PLAIN	before	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Toronto	<self>
+PLAIN	Star	<self>
+PUNCT	—	sil
+LETTERS	A&E	a and e
+PUNCT	.	sil
+PLAIN	Retrieved	<self>
+DATE	2006-08-05	the fifth of august two thousand six
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Downloaded	<self>
+PLAIN	on	<self>
+DATE	7 August 2007	the seventh of august two thousand seven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Cornwall	<self>
+PLAIN	College	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	prominent	<self>
+PLAIN	public	<self>
+PLAIN	high	<self>
+PLAIN	school	<self>
+PLAIN	for	<self>
+PLAIN	boys	<self>
+PLAIN	located	<self>
+PLAIN	on	<self>
+PLAIN	Orange	<self>
+PLAIN	Street	<self>
+PLAIN	in	<self>
+PLAIN	Montego	<self>
+PLAIN	Bay	<self>
+PUNCT	,	sil
+PLAIN	Saint	<self>
+PLAIN	James	<self>
+PUNCT	,	sil
+PLAIN	Jamaica	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Profile	<self>
+PLAIN	Oxford	<self>
+PLAIN	Index	<self>
+VERBATIM	#	number
+CARDINAL	101059254	one hundred one million fifty nine thousand two hundred fifty four
+PUNCT	;	sil
+PLAIN	accessed	<self>
+DATE	17 May 2014	the seventeenth of may twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Jones	<self>
+PLAIN	set	<self>
+PLAIN	records	<self>
+PLAIN	for	<self>
+PLAIN	receiving	<self>
+PLAIN	yards	<self>
+PLAIN	and	<self>
+PLAIN	longest	<self>
+PLAIN	reception	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Harris	<self>
+PUNCT	,	sil
+PLAIN	Craig	<self>
+PUNCT	(	sil
+DATE	August 23, 2002	august twenty third two thousand two
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Official	<self>
+PLAIN	Charts	<self>
+PLAIN	Company	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	November 24, 2014	november twenty fourth twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Nikhil	<self>
+PLAIN	Swaminathan	<self>
+PUNCT	(	sil
+DATE	2008-06-10	the tenth of june two thousand eight
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	final	<self>
+PLAIN	storm	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	year	<self>
+PUNCT	,	sil
+PLAIN	Tropical	<self>
+PLAIN	Depression	<self>
+PLAIN	Fourteen	<self>
+PUNCT	,	sil
+PLAIN	merged	<self>
+PLAIN	with	<self>
+PLAIN	a	<self>
+PLAIN	weak	<self>
+PLAIN	extratropical	<self>
+PLAIN	low	<self>
+PLAIN	on	<self>
+DATE	November 4	november fourth
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Operationally	<self>
+PUNCT	,	sil
+PLAIN	it	<self>
+PLAIN	was	<self>
+PLAIN	upgraded	<self>
+PLAIN	two	<self>
+PLAIN	days	<self>
+PLAIN	earlier	<self>
+PUNCT	,	sil
+PLAIN	based	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	appearance	<self>
+PLAIN	of	<self>
+PLAIN	an	<self>
+PLAIN	eye	<self>
+PLAIN	feature	<self>
+PLAIN	on	<self>
+PLAIN	satellite	<self>
+PLAIN	imagery	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Game	<self>
+CARDINAL	4	four
+PLAIN	was	<self>
+PLAIN	a	<self>
+CARDINAL	4000	four thousand
+VERBATIM	-	sil
+PLAIN	plus	<self>
+PLAIN	Saturday	<self>
+PLAIN	night	<self>
+PLAIN	crowd	<self>
+PLAIN	ready	<self>
+PLAIN	to	<self>
+PLAIN	see	<self>
+PLAIN	the	<self>
+PLAIN	Comets	<self>
+PLAIN	win	<self>
+PLAIN	the	<self>
+PLAIN	title	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	REV	<self>
+PLAIN	ERBa	<self>
+PLAIN	and	<self>
+PLAIN	RORa	<self>
+PLAIN	subsequently	<self>
+PLAIN	compete	<self>
+PLAIN	to	<self>
+PLAIN	bind	<self>
+PLAIN	retinoic	<self>
+PLAIN	acid	<self>
+PLAIN	related	<self>
+PLAIN	orphan	<self>
+PLAIN	receptor	<self>
+PLAIN	response	<self>
+PLAIN	elements	<self>
+PUNCT	(	sil
+LETTERS	ROREs	r o r e's
+PUNCT	)	sil
+PLAIN	present	<self>
+PLAIN	in	<self>
+LETTERS	Bmal	b m a l
+CARDINAL	1	one
+PLAIN	promoter	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Another	<self>
+PLAIN	release	<self>
+PLAIN	Hansen	<self>
+PLAIN	contributes	<self>
+PLAIN	in	<self>
+PLAIN	is	<self>
+PLAIN	the	<self>
+PLAIN	album	<self>
+PLAIN	Monk	<self>
+PLAIN	Moods	<self>
+PUNCT	(	sil
+DATE	1994	nineteen ninety four
+PUNCT	)	sil
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	pianist	<self>
+PLAIN	Knut	<self>
+PLAIN	Kristiansen	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	One	<self>
+PLAIN	problem	<self>
+PLAIN	is	<self>
+PLAIN	that	<self>
+PLAIN	there	<self>
+PLAIN	is	<self>
+PLAIN	no	<self>
+PLAIN	standard	<self>
+PLAIN	training	<self>
+PLAIN	or	<self>
+PLAIN	degree	<self>
+PLAIN	required	<self>
+PLAIN	to	<self>
+PLAIN	market	<self>
+PLAIN	oneself	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	color	<self>
+PLAIN	analyst	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	29 July 2008	the twenty ninth of july two thousand eight
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Urban	<self>
+PLAIN	acupuncture	<self>
+PLAIN	is	<self>
+PLAIN	intended	<self>
+PLAIN	to	<self>
+PLAIN	produce	<self>
+PLAIN	small	<self>
+PLAIN	scale	<self>
+PLAIN	but	<self>
+PLAIN	socially	<self>
+PLAIN	catalytic	<self>
+PLAIN	interventions	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	urban	<self>
+PLAIN	fabric	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+LETTERS	LCCA	l c c a
+PLAIN	is	<self>
+PLAIN	part	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Henry	<self>
+PLAIN	Shaw	<self>
+PLAIN	Ozark	<self>
+PLAIN	Corridor	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Gold	<self>
+PLAIN	Prospecting	<self>
+PLAIN	and	<self>
+PLAIN	Gold	<self>
+PLAIN	Mining	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Block	<self>
+PLAIN	I	<self>
+LETTERS	ATACMS	a t a c m s
+PLAIN	missiles	<self>
+PLAIN	have	<self>
+PLAIN	a	<self>
+PLAIN	range	<self>
+PLAIN	of	<self>
+MEASURE	128 km	one hundred twenty eight kilometers
+PLAIN	or	<self>
+PLAIN	more	<self>
+PUNCT	,	sil
+PLAIN	but	<self>
+PLAIN	Block	<self>
+CARDINAL	II	two
+PLAIN	was	<self>
+PLAIN	cancelled	<self>
+PLAIN	in	<self>
+DATE	2003	two thousand three
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+LETTERS	LCCA	l c c a
+PLAIN	has	<self>
+PLAIN	a	<self>
+MEASURE	3 mi	three miles
+PUNCT	(	sil
+MEASURE	4.8 km	four point eight kilometers
+PUNCT	)	sil
+PLAIN	loop	<self>
+PLAIN	trail	<self>
+PLAIN	on	<self>
+PLAIN	its	<self>
+PLAIN	eastern	<self>
+PLAIN	side	<self>
+PLAIN	open	<self>
+PLAIN	to	<self>
+PLAIN	hiking	<self>
+PLAIN	only	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	South	<self>
+PLAIN	Carolina	<self>
+PLAIN	Department	<self>
+PLAIN	of	<self>
+PLAIN	Archives	<self>
+PLAIN	and	<self>
+PLAIN	History	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Dan	<self>
+PLAIN	Rogerson	<self>
+PLAIN	official	<self>
+PLAIN	site	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	1008	one thousand eight
+PLAIN	was	<self>
+PLAIN	used	<self>
+PLAIN	starting	<self>
+PLAIN	the	<self>
+DATE	1976	nineteen seventy six
+PLAIN	season	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	June 20, 2014	june twentieth twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Two	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	app	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	GPS	g p s
+PLAIN	technology	<self>
+PLAIN	to	<self>
+PLAIN	identify	<self>
+PLAIN	the	<self>
+PLAIN	location	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	infected	<self>
+PLAIN	person	<self>
+PLAIN	and	<self>
+PLAIN	then	<self>
+PLAIN	the	<self>
+PLAIN	server	<self>
+PLAIN	will	<self>
+PLAIN	tell	<self>
+PLAIN	the	<self>
+PLAIN	police	<self>
+PLAIN	station	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	A	<self>
+PLAIN	genome	<self>
+PLAIN	wide	<self>
+LETTERS	RNAi	r n a i
+PLAIN	screen	<self>
+PLAIN	for	<self>
+PLAIN	modifiers	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	circadian	<self>
+PLAIN	clock	<self>
+PLAIN	in	<self>
+PLAIN	human	<self>
+PLAIN	cells	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Tropical	<self>
+PLAIN	Depression	<self>
+PLAIN	Strengthens	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	received	<self>
+PLAIN	a	<self>
+PLAIN	nursing	<self>
+PLAIN	diploma	<self>
+PLAIN	from	<self>
+PLAIN	Michael	<self>
+PLAIN	Reese	<self>
+PLAIN	Hospital	<self>
+PLAIN	in	<self>
+PLAIN	Chicago	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Chinese	<self>
+PLAIN	Medical	<self>
+PLAIN	Journal	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	The	<self>
+PLAIN	Pines	<self>
+PLAIN	And	<self>
+PLAIN	The	<self>
+PLAIN	Devil	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	For	<self>
+PLAIN	every	<self>
+CARDINAL	100	one hundred
+PLAIN	females	<self>
+PLAIN	age	<self>
+CARDINAL	18	eighteen
+PLAIN	and	<self>
+PLAIN	over	<self>
+PUNCT	,	sil
+PLAIN	there	<self>
+PLAIN	were	<self>
+DECIMAL	99.8	ninety nine point eight
+PLAIN	males	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Between	<self>
+DATE	1973	nineteen seventy three
+PLAIN	and	<self>
+DATE	1975	nineteen seventy five
+PLAIN	he	<self>
+PLAIN	made	<self>
+PLAIN	postgraduate	<self>
+PLAIN	studies	<self>
+PLAIN	in	<self>
+PLAIN	France	<self>
+PLAIN	under	<self>
+PLAIN	a	<self>
+PLAIN	scholarship	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	French	<self>
+PLAIN	Government	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Herry's	<self>
+PLAIN	gruff	<self>
+PLAIN	voice	<self>
+PLAIN	was	<self>
+PLAIN	patterned	<self>
+PLAIN	after	<self>
+PLAIN	that	<self>
+PLAIN	of	<self>
+PLAIN	Jimmy	<self>
+PLAIN	Durante	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	There	<self>
+PLAIN	are	<self>
+PLAIN	also	<self>
+PLAIN	a	<self>
+PLAIN	band	<self>
+PUNCT	,	sil
+PLAIN	sea	<self>
+PLAIN	cadet	<self>
+PLAIN	and	<self>
+PLAIN	medical	<self>
+PLAIN	units	<self>
+PLAIN	along	<self>
+PLAIN	with	<self>
+PLAIN	a	<self>
+PLAIN	shooting	<self>
+PLAIN	programme	program
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+LETTERS	Q	<self>
+CARDINAL	10	ten
+PLAIN	Temperature	<self>
+PLAIN	Coefficient	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	measure	<self>
+PLAIN	of	<self>
+PLAIN	this	<self>
+PLAIN	compensating	<self>
+PLAIN	effect	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	25 November 2011	the twenty fifth of november twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	attended	<self>
+PLAIN	Radcliffe	<self>
+PLAIN	College	<self>
+PLAIN	where	<self>
+PLAIN	she	<self>
+PLAIN	sang	<self>
+PLAIN	soprano	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Mabel	<self>
+PLAIN	was	<self>
+PLAIN	appointed	<self>
+PLAIN	head	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	music	<self>
+PLAIN	program	<self>
+PLAIN	at	<self>
+PLAIN	Simmons	<self>
+PLAIN	from	<self>
+DATE	1913	nineteen thirteen
+PLAIN	-	to
+DATE	1918	nineteen eighteen
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	A	<self>
+PLAIN	Manifesto	<self>
+PLAIN	to	<self>
+PLAIN	Self	<self>
+PLAIN	Publishing	<self>
+PLAIN	Your	<self>
+PLAIN	Own	<self>
+PLAIN	Photobooks	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+VERBATIM	К	sil
+VERBATIM	о	sil
+VERBATIM	н	sil
+VERBATIM	ц	sil
+VERBATIM	е	sil
+VERBATIM	п	sil
+VERBATIM	т	sil
+PLAIN	Chevrolet	<self>
+PLAIN	NIVA	<self>
+VERBATIM	н	sil
+VERBATIM	о	sil
+VERBATIM	в	sil
+VERBATIM	о	sil
+VERBATIM	г	sil
+VERBATIM	о	sil
+VERBATIM	п	sil
+VERBATIM	о	sil
+VERBATIM	к	sil
+VERBATIM	о	sil
+VERBATIM	л	sil
+VERBATIM	е	sil
+VERBATIM	н	sil
+VERBATIM	и	sil
+VERBATIM	я	sil
+VERBATIM	н	sil
+VERBATIM	а	sil
+VERBATIM	М	sil
+VERBATIM	М	sil
+VERBATIM	А	sil
+VERBATIM	С	sil
+DATE	2014	twenty fourteen
+PUNCT	"	sil
+PUNCT	(	sil
+PLAIN	in	<self>
+PLAIN	Russian	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PUNCT	:	sil
+PLAIN	Reinhold	<self>
+PLAIN	Publishing	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	National	<self>
+PLAIN	Park	<self>
+PLAIN	Service	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	Limehouse	<self>
+PUNCT	,	sil
+PLAIN	Chang	<self>
+PLAIN	opened	<self>
+PLAIN	the	<self>
+PLAIN	Shanghai	<self>
+PLAIN	Restaurant	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	25 July 2012	the twenty fifth of july twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Want	<self>
+PLAIN	to	<self>
+PLAIN	publish	<self>
+PLAIN	your	<self>
+PLAIN	own	<self>
+PLAIN	photo	<self>
+PLAIN	books	<self>
+PUNCT	?	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Miami	<self>
+PLAIN	Herald	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Trondenes	<self>
+PLAIN	kirke	<self>
+PUNCT	"	sil
+PUNCT	(	sil
+PLAIN	in	<self>
+PLAIN	Norwegian	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kennedy	<self>
+PUNCT	,	sil
+PLAIN	Lindsay	<self>
+PUNCT	(	sil
+DATE	4 November 2013	the fourth of november twenty thirteen
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+CARDINAL	5000	five thousand
+PLAIN	dolares	<self>
+PLAIN	de	<self>
+PLAIN	multa	<self>
+PLAIN	y	<self>
+PLAIN	un	<self>
+PLAIN	ano	<self>
+PLAIN	de	<self>
+PLAIN	suspension	<self>
+PLAIN	a	<self>
+PLAIN	Costa	<self>
+PLAIN	Rica	<self>
+PLAIN	acordo	<self>
+PLAIN	el	<self>
+PLAIN	congreso	<self>
+PLAIN	de	<self>
+PLAIN	CONCACAF	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Dope	<self>
+PLAIN	Girls	<self>
+PUNCT	:	sil
+PLAIN	The	<self>
+PLAIN	Birth	<self>
+PLAIN	Of	<self>
+PLAIN	The	<self>
+PLAIN	British	<self>
+PLAIN	Drug	<self>
+PLAIN	Underground	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Thomas	<self>
+PLAIN	brothers	<self>
+PLAIN	also	<self>
+PLAIN	co	<self>
+PLAIN	wrote	<self>
+PUNCT	"	sil
+PLAIN	The	<self>
+PLAIN	Fives	<self>
+PUNCT	"	sil
+PUNCT	,	sil
+PLAIN	which	<self>
+PLAIN	Ammons	<self>
+PLAIN	and	<self>
+PLAIN	Lewis	<self>
+PLAIN	cited	<self>
+PLAIN	as	<self>
+PLAIN	an	<self>
+PLAIN	essential	<self>
+PLAIN	boogie	<self>
+PLAIN	woogie	<self>
+PLAIN	number	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	1926	nineteen twenty six
+PUNCT	,	sil
+PLAIN	he	<self>
+PLAIN	recorded	<self>
+PLAIN	a	<self>
+PLAIN	session	<self>
+PLAIN	with	<self>
+PLAIN	Hociel	<self>
+PLAIN	Thomas	<self>
+PLAIN	and	<self>
+PLAIN	Louis	<self>
+PLAIN	Armstrong	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Russell	<self>
+PLAIN	T	<self>
+PLAIN	Davies	<self>
+PLAIN	confirmed	<self>
+PLAIN	this	<self>
+PLAIN	in	<self>
+PLAIN	Doctor	<self>
+PLAIN	Who	<self>
+PLAIN	Confidential	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Joe	<self>
+PLAIN	Walcott's	<self>
+PLAIN	Professional	<self>
+PLAIN	Boxing	<self>
+PLAIN	Record	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Harrold	<self>
+LETTERS	P.	p
+PLAIN	Gerrish	<self>
+PUNCT	(	sil
+DATE	November 12, 1987	november twelfth nineteen eighty seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	final	<self>
+PLAIN	was	<self>
+PLAIN	between	<self>
+CARDINAL	6	six
+PLAIN	pack	<self>
+PLAIN	and	<self>
+PLAIN	Lex	<self>
+PLAIN	Talions	<self>
+PUNCT	,	sil
+PLAIN	with	<self>
+CARDINAL	6	six
+PLAIN	pack	<self>
+PLAIN	being	<self>
+PLAIN	victorious	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	CitationsChrestomanci	<self>
+PLAIN	series	<self>
+PLAIN	listing	<self>
+PLAIN	at	<self>
+PLAIN	the	<self>
+PLAIN	Internet	<self>
+PLAIN	Speculative	<self>
+PLAIN	Fiction	<self>
+PLAIN	Database	<self>
+PUNCT	(	sil
+LETTERS	ISFDB	i s f d b
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Julie	<self>
+PLAIN	looks	<self>
+PLAIN	in	<self>
+PLAIN	disgust	<self>
+PLAIN	and	<self>
+PLAIN	quickly	<self>
+PLAIN	leaves	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	2000	two thousand
+PUNCT	,	sil
+PLAIN	there	<self>
+PLAIN	were	<self>
+CARDINAL	136	one hundred thirty six
+PLAIN	workers	<self>
+PLAIN	who	<self>
+PLAIN	commuted	<self>
+PLAIN	away	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	municipality	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Historic	<self>
+PLAIN	Landmark	<self>
+PLAIN	Plaques	<self>
+DATE	1968	nineteen sixty eight
+PLAIN	-	to
+DATE	2009	two thousand nine
+PUNCT	(	sil
+LETTERS	PDF	p d f
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	arcade	<self>
+PLAIN	version	<self>
+PLAIN	of	<self>
+PLAIN	Cyber	<self>
+PLAIN	Sled	<self>
+PLAIN	was	<self>
+PLAIN	only	<self>
+PLAIN	available	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	dedicated	<self>
+PLAIN	red	<self>
+PLAIN	and	<self>
+PLAIN	blue	<self>
+PLAIN	sit	<self>
+PLAIN	down	<self>
+PLAIN	cabinet	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	22 November 2011	the twenty second of november twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	striking	<self>
+PLAIN	back	<self>
+PLAIN	at	<self>
+PLAIN	her	<self>
+PLAIN	critics	<self>
+PUNCT	,	sil
+PLAIN	Madonna	<self>
+PLAIN	simply	<self>
+PLAIN	sounds	<self>
+PLAIN	self	<self>
+PLAIN	righteous	<self>
+PLAIN	and	<self>
+PLAIN	smug	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	album's	<self>
+PLAIN	first	<self>
+PLAIN	single	<self>
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	The	<self>
+PLAIN	Devil's	<self>
+PLAIN	Beat	<self>
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	reached	<self>
+VERBATIM	#	number
+CARDINAL	58	fifty eight
+PLAIN	in	<self>
+PLAIN	the	<self>
+LETTERS	UK	u k
+PLAIN	Singles	<self>
+PLAIN	Chart	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Francisca	<self>
+PLAIN	Nunez	<self>
+PLAIN	de	<self>
+PLAIN	Carabajal	<self>
+PUNCT	(	sil
+PLAIN	Portuguese	<self>
+PUNCT	:	sil
+PLAIN	Francisca	<self>
+PLAIN	Nunes	<self>
+PLAIN	de	<self>
+PLAIN	Carvalhal	<self>
+PUNCT	)	sil
+PUNCT	(	sil
+PLAIN	california	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Sao	<self>
+PLAIN	Caetano	<self>
+PLAIN	do	<self>
+PLAIN	Sul	<self>
+PUNCT	:	sil
+PLAIN	General	<self>
+PLAIN	Motors	<self>
+PLAIN	do	<self>
+PLAIN	Brasil	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	By	<self>
+PLAIN	late	<self>
+DATE	October 2015	october twenty fifteen
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	Self	<self>
+PLAIN	Reliance	<self>
+PLAIN	faction	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	Rada	<self>
+PLAIN	had	<self>
+PLAIN	shrunk	<self>
+PLAIN	from	<self>
+CARDINAL	33	thirty three
+PLAIN	seats	<self>
+PLAIN	to	<self>
+CARDINAL	26	twenty six
+PLAIN	seats	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Mugenninin	<self>
+PLAIN	resmi	<self>
+PLAIN	saytinda	<self>
+DATE	1965	nineteen sixty five
+VERBATIM	-	sil
+LETTERS	ci	c i
+LETTERS	ilde	i l d e
+PLAIN	anadan	<self>
+PLAIN	oldugu	<self>
+PLAIN	gosterilib	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Western	<self>
+PLAIN	Morning	<self>
+PLAIN	News	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Cases	<self>
+PLAIN	include	<self>
+PLAIN	night	<self>
+PLAIN	or	<self>
+PLAIN	underwater	<self>
+PLAIN	photography	<self>
+PUNCT	,	sil
+PLAIN	or	<self>
+PLAIN	where	<self>
+PLAIN	a	<self>
+PLAIN	bright	<self>
+PLAIN	light	<self>
+PLAIN	source	<self>
+PLAIN	is	<self>
+PLAIN	near	<self>
+PLAIN	the	<self>
+PLAIN	camera	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Whether	<self>
+PLAIN	or	<self>
+PLAIN	not	<self>
+PLAIN	it	<self>
+PLAIN	is	<self>
+PLAIN	true	<self>
+PLAIN	is	<self>
+PLAIN	often	<self>
+PLAIN	a	<self>
+PLAIN	subject	<self>
+PLAIN	of	<self>
+PLAIN	heated	<self>
+PLAIN	debate	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	self	<self>
+PLAIN	presentation	<self>
+PLAIN	of	<self>
+PLAIN	Pepyankh	<self>
+PLAIN	the	<self>
+PLAIN	Middle	<self>
+PLAIN	at	<self>
+PLAIN	Meir	<self>
+PUNCT	:	sil
+PLAIN	Scandal	<self>
+PUNCT	,	sil
+PLAIN	Religious	<self>
+PLAIN	Institutions	<self>
+PLAIN	and	<self>
+PLAIN	Participation	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	Next	<self>
+PLAIN	World	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	BBC	b b c
+PLAIN	News	<self>
+PLAIN	Online	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Sverresborg	<self>
+PUNCT	,	sil
+PLAIN	also	<self>
+PLAIN	named	<self>
+PLAIN	Zion	<self>
+PLAIN	after	<self>
+PLAIN	King	<self>
+PLAIN	David's	<self>
+PLAIN	castle	<self>
+PLAIN	in	<self>
+PLAIN	Jerusalem	<self>
+PUNCT	,	sil
+PLAIN	was	<self>
+PLAIN	a	<self>
+PLAIN	fortification	<self>
+PLAIN	built	<self>
+PLAIN	by	<self>
+PLAIN	Sverre	<self>
+PLAIN	Sigurdsson	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	April 19	april nineteenth
+PUNCT	:	sil
+PLAIN	The	<self>
+PLAIN	Knicks	<self>
+PLAIN	clinched	<self>
+PLAIN	a	<self>
+PLAIN	spot	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+DATE	2012	twenty twelve
+LETTERS	NBA	n b a
+PLAIN	Playoffs	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	John	<self>
+PLAIN	Wiley	<self>
+VERBATIM	&	and
+PLAIN	Sons	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Griffith	<self>
+PLAIN	met	<self>
+PLAIN	Jewish	<self>
+PLAIN	solicitor	<self>
+PLAIN	Michael	<self>
+PLAIN	Noyk	<self>
+PLAIN	in	<self>
+DATE	1909	nineteen o nine
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	pair	<self>
+PLAIN	would	<self>
+PLAIN	become	<self>
+PLAIN	close	<self>
+PLAIN	friends	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Keel	<self>
+PLAIN	M	<self>
+PUNCT	,	sil
+PLAIN	Meier	<self>
+PLAIN	C	<self>
+PUNCT	(	sil
+DATE	December 2007	december two thousand seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Moscow	<self>
+PLAIN	Pullman	<self>
+PLAIN	Daily	<self>
+PLAIN	News	<self>
+PUNCT	—	sil
+PLAIN	Google	<self>
+PLAIN	News	<self>
+PLAIN	Archive	<self>
+PLAIN	Search	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	light	<self>
+PLAIN	planes	<self>
+PLAIN	used	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	parked	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	grass	<self>
+PLAIN	alongside	<self>
+PLAIN	the	<self>
+CARDINAL	50 	fifty
+PLAIN	road	<self>
+PUNCT	,	sil
+PLAIN	opposite	<self>
+PLAIN	the	<self>
+PLAIN	Airport	<self>
+PLAIN	Garage	<self>
+PUNCT	,	sil
+PLAIN	which	<self>
+PLAIN	remains	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Stability	<self>
+PLAIN	of	<self>
+PLAIN	Melatonin	<self>
+PLAIN	and	<self>
+PLAIN	Temperature	<self>
+PLAIN	as	<self>
+PLAIN	Circadian	<self>
+PLAIN	Phase	<self>
+PLAIN	Markers	<self>
+PLAIN	and	<self>
+PLAIN	Their	<self>
+PLAIN	Relation	<self>
+PLAIN	to	<self>
+PLAIN	Sleep	<self>
+PLAIN	Times	<self>
+PLAIN	in	<self>
+PLAIN	Humans	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	post	<self>
+PLAIN	office	<self>
+PLAIN	was	<self>
+PLAIN	discontinued	<self>
+PLAIN	about	<self>
+DATE	1962	nineteen sixty two
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	winding	<self>
+PLAIN	motor	<self>
+PLAIN	is	<self>
+PLAIN	attached	<self>
+PLAIN	to	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	mounted	<self>
+PLAIN	below	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	conventional	<self>
+PLAIN	clock	<self>
+PLAIN	works	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	U.S.	u s
+PLAIN	Census	<self>
+PLAIN	Bureau	<self>
+PUNCT	,	sil
+PLAIN	American	<self>
+PLAIN	Factfinder	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Meir	<self>
+PLAIN	is	<self>
+PLAIN	situated	<self>
+PLAIN	along	<self>
+PLAIN	the	<self>
+CARDINAL	50	fifty
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+LETTERS	ASACP's	a s a c p's
+PLAIN	Educational	<self>
+PLAIN	Materials	<self>
+PLAIN	Utilized	<self>
+PLAIN	Internationally	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	championship	<self>
+PLAIN	was	<self>
+PLAIN	contested	<self>
+PLAIN	over	<self>
+PLAIN	a	<self>
+PLAIN	six	<self>
+PLAIN	round	<self>
+PLAIN	series	<self>
+PLAIN	with	<self>
+PLAIN	one	<self>
+PLAIN	race	<self>
+PLAIN	per	<self>
+PLAIN	round	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	July 31, 2015	july thirty first twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	On	<self>
+DATE	May 2	may second
+PUNCT	,	sil
+PLAIN	Tyson	<self>
+PLAIN	Chandler	<self>
+PLAIN	was	<self>
+PLAIN	named	<self>
+PLAIN	Defensive	<self>
+PLAIN	Player	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Year	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+CARDINAL	2011	two thousand eleven
+PUNCT	-	sil
+CARDINAL	2012	two thousand twelve
+PLAIN	season	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Arthur	<self>
+PLAIN	Griffith	<self>
+PLAIN	Dies	<self>
+PLAIN	Suddenly	<self>
+PUNCT	"	sil
+PUNCT	(	sil
+LETTERS	PDF	p d f
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	EBSCO	<self>
+PLAIN	Publishing	<self>
+PLAIN	Service	<self>
+PLAIN	Selection	<self>
+PLAIN	Page	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	13 January 2014	the thirteenth of january twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	World	<self>
+PLAIN	Cars	<self>
+DATE	1972	nineteen seventy two
+PUNCT	.	sil
+<eos>	<eos>
+DATE	19 April 2009	the nineteenth of april two thousand nine
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Mabelle	<self>
+PLAIN	and	<self>
+PLAIN	William	<self>
+PLAIN	Corey	<self>
+PLAIN	married	<self>
+PLAIN	on	<self>
+DATE	May 14, 1907	may fourteenth nineteen o seven
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Green	<self>
+PLAIN	Roofs	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	Means	<self>
+PLAIN	of	<self>
+PLAIN	Pollution	<self>
+PLAIN	Abatement	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Circadian	<self>
+PLAIN	rhythm	<self>
+PLAIN	sleep	<self>
+PLAIN	disorders	<self>
+PUNCT	(	sil
+LETTERS	CRSD	c r s d
+PUNCT	)	sil
+PUNCT	,	sil
+PLAIN	a	<self>
+PLAIN	family	<self>
+PLAIN	of	<self>
+PLAIN	sleep	<self>
+PLAIN	disorders	<self>
+PUNCT	,	sil
+PLAIN	affect	<self>
+PUNCT	(	sil
+PLAIN	among	<self>
+PLAIN	other	<self>
+PLAIN	bodily	<self>
+PLAIN	processes	<self>
+PUNCT	)	sil
+PLAIN	the	<self>
+PLAIN	timing	<self>
+PLAIN	of	<self>
+PLAIN	sleep	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Hellenic	<self>
+PLAIN	Statistical	<self>
+PLAIN	Authority	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	also	<self>
+PLAIN	met	<self>
+LETTERS	Hwan	h w a n
+PUNCT	,	sil
+PLAIN	who	<self>
+PLAIN	caused	<self>
+PLAIN	her	<self>
+PLAIN	to	<self>
+PLAIN	lose	<self>
+PLAIN	contact	<self>
+PLAIN	with	<self>
+PLAIN	Eun	<self>
+PLAIN	woo	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	As	<self>
+PLAIN	part	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Chevrolet	<self>
+PLAIN	Orlando	<self>
+PLAIN	launch	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+LETTERS	UK	u k
+PUNCT	,	sil
+PLAIN	a	<self>
+PLAIN	life	<self>
+PLAIN	sized	<self>
+PLAIN	Play	<self>
+PLAIN	Doh	<self>
+PLAIN	clay	<self>
+PLAIN	model	<self>
+PLAIN	replica	<self>
+PLAIN	was	<self>
+PLAIN	unveiled	<self>
+PLAIN	in	<self>
+PLAIN	London	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	incoming	<self>
+PLAIN	representative	<self>
+PLAIN	of	<self>
+PLAIN	Barbados	<self>
+PLAIN	to	<self>
+PLAIN	CARICOM	<self>
+PLAIN	is	<self>
+PLAIN	Robert	<self>
+PLAIN	Bobby	<self>
+PLAIN	Morris	<self>
+PUNCT	,	sil
+PLAIN	who	<self>
+PLAIN	will	<self>
+PLAIN	replace	<self>
+PLAIN	Dennis	<self>
+PLAIN	Kellman	<self>
+PLAIN	on	<self>
+DATE	1 December 2011	the first of december twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	The	<self>
+PLAIN	Self	<self>
+PLAIN	Winding	<self>
+PLAIN	Clock	<self>
+PLAIN	Company	<self>
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	Ubiquitous	<self>
+PLAIN	Style	<self>
+PUNCT	"	sil
+PLAIN	F	<self>
+PUNCT	"	sil
+PLAIN	Vibrator	<self>
+PLAIN	Movement	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Reid	<self>
+PUNCT	,	sil
+PLAIN	John	<self>
+PLAIN	G	<self>
+PUNCT	;	sil
+PLAIN	Maine	<self>
+PUNCT	,	sil
+PLAIN	Charles	<self>
+ORDINAL	II	the second
+PLAIN	and	<self>
+PLAIN	Massachusetts	<self>
+PUNCT	:	sil
+PLAIN	Governmental	<self>
+PLAIN	Relationships	<self>
+PLAIN	in	<self>
+PLAIN	Early	<self>
+PLAIN	Northern	<self>
+PLAIN	New	<self>
+PLAIN	England	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	9 July 2014	the ninth of july twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kim	<self>
+PUNCT	,	sil
+PLAIN	Yoon	<self>
+PLAIN	mi	<self>
+PUNCT	(	sil
+DATE	20 April 2011	the twentieth of april twenty eleven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	PDF	p d f
+PUNCT	,	sil
+CARDINAL	18	eighteen
+PLAIN	pages	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+PLAIN	on	<self>
+DATE	2015-07-20	the twentieth of july twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Environmental	<self>
+PLAIN	Justice	<self>
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	Green	<self>
+PLAIN	Economy	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	aircraft	<self>
+PLAIN	was	<self>
+PLAIN	present	<self>
+PLAIN	at	<self>
+PUNCT	"	sil
+PLAIN	The	<self>
+PLAIN	Flying	<self>
+PLAIN	Legends	<self>
+PUNCT	"	sil
+PUNCT	(	sil
+PLAIN	Duxford	<self>
+PUNCT	,	sil
+LETTERS	UK	u k
+PUNCT	)	sil
+PLAIN	air	<self>
+PLAIN	display	<self>
+PLAIN	on	<self>
+CARDINAL	12	twelve
+VERBATIM	&	and
+DATE	13 July 2008	the thirteenth of july two thousand eight
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	History	<self>
+PUNCT	—	sil
+PLAIN	World	<self>
+PLAIN	Darts	<self>
+PLAIN	Champions	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	C	<self>
+PUNCT	.	sil
+PLAIN	alpina	<self>
+PLAIN	can	<self>
+PLAIN	reproduce	<self>
+PLAIN	vegetaively	<self>
+PLAIN	and	<self>
+PLAIN	via	<self>
+PLAIN	stolons	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	fire	<self>
+PLAIN	caused	<self>
+PLAIN	the	<self>
+PLAIN	complete	<self>
+PLAIN	closure	<self>
+PLAIN	of	<self>
+PLAIN	Nathan	<self>
+PLAIN	Road	<self>
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	evacuation	<self>
+PLAIN	of	<self>
+PLAIN	residents	<self>
+PLAIN	from	<self>
+PLAIN	nearby	<self>
+PLAIN	buildings	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Circaea	<self>
+PLAIN	lutetiana	<self>
+PUNCT	,	sil
+PLAIN	known	<self>
+PLAIN	as	<self>
+PLAIN	enchanter's	<self>
+PLAIN	nightshade	<self>
+PUNCT	,	sil
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	plant	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	evening	<self>
+PLAIN	primrose	<self>
+PLAIN	family	<self>
+PUNCT	,	sil
+PLAIN	Onagraceae	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	LaCie	<self>
+PLAIN	developed	<self>
+PLAIN	the	<self>
+PLAIN	first	<self>
+PLAIN	universal	<self>
+PLAIN	disk	<self>
+PLAIN	formatting	<self>
+PLAIN	software	<self>
+PLAIN	for	<self>
+LETTERS	SCSI	s c s i
+PLAIN	drives	<self>
+PUNCT	,	sil
+PLAIN	Silverlining	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+DATE	1987	nineteen eighty seven
+PLAIN	Bandy	<self>
+PLAIN	World	<self>
+PLAIN	Championship	<self>
+PLAIN	was	<self>
+PLAIN	contested	<self>
+PLAIN	between	<self>
+PLAIN	five	<self>
+PLAIN	men's	<self>
+PLAIN	bandy	<self>
+PLAIN	playing	<self>
+PLAIN	nations	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	flowers	<self>
+PLAIN	are	<self>
+PLAIN	white	<self>
+PUNCT	,	sil
+PLAIN	borne	<self>
+PLAIN	in	<self>
+PLAIN	summer	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	After	<self>
+PLAIN	the	<self>
+PLAIN	Royal	<self>
+PLAIN	Rumble	<self>
+PLAIN	Cena	<self>
+PLAIN	and	<self>
+PLAIN	Umaga's	<self>
+PLAIN	feud	<self>
+PLAIN	ended	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	is	<self>
+PLAIN	located	<self>
+PLAIN	within	<self>
+PLAIN	Central	<self>
+PLAIN	Province	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	17 January 2006	the seventeenth of january two thousand six
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Robins	<self>
+PUNCT	,	sil
+PLAIN	Steven	<self>
+PUNCT	;	sil
+PLAIN	Madzudzo	<self>
+PLAIN	Elias	<self>
+PUNCT	;	sil
+PLAIN	Brenzinger	<self>
+PUNCT	,	sil
+PLAIN	Matthias	<self>
+PUNCT	(	sil
+DATE	2001	two thousand one
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	has	<self>
+PLAIN	been	<self>
+PLAIN	live	<self>
+PLAIN	since	<self>
+DATE	May 2012	may twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Dee	<self>
+PUNCT	,	sil
+PLAIN	Louie	<self>
+PUNCT	(	sil
+DATE	2006-10-09	the ninth of october two thousand six
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	They	<self>
+PLAIN	later	<self>
+PLAIN	added	<self>
+PLAIN	that	<self>
+PLAIN	the	<self>
+PLAIN	song	<self>
+PLAIN	was	<self>
+PLAIN	a	<self>
+PUNCT	"	sil
+PLAIN	soft	<self>
+PLAIN	rocker	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	A	<self>
+PLAIN	Wolfpack	<self>
+PLAIN	Member	<self>
+PLAIN	makes	<self>
+PLAIN	an	<self>
+PLAIN	appearance	<self>
+PLAIN	in	<self>
+PLAIN	Salt	<self>
+PLAIN	Lake	<self>
+PLAIN	City	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	was	<self>
+PLAIN	briefly	<self>
+PLAIN	a	<self>
+PLAIN	minister	<self>
+PLAIN	without	<self>
+PLAIN	portfolio	<self>
+PLAIN	assisting	<self>
+PLAIN	the	<self>
+PLAIN	Minister	<self>
+PLAIN	for	<self>
+PLAIN	Agriculture	<self>
+PLAIN	from	<self>
+PLAIN	February	<self>
+PLAIN	to	<self>
+DATE	April 1920	april nineteen twenty
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Hardouin	<self>
+PLAIN	Mansart's	<self>
+PLAIN	assistant	<self>
+PUNCT	,	sil
+PLAIN	Francois	<self>
+PLAIN	d'Orbay	<self>
+PUNCT	,	sil
+PLAIN	prepared	<self>
+PLAIN	a	<self>
+PLAIN	general	<self>
+PLAIN	site	<self>
+PLAIN	plan	<self>
+PUNCT	,	sil
+PLAIN	showing	<self>
+PLAIN	the	<self>
+PLAIN	Palais	<self>
+PLAIN	Royal	<self>
+PLAIN	before	<self>
+PLAIN	these	<self>
+PLAIN	alterations	<self>
+PLAIN	were	<self>
+PLAIN	made	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	PROFILE	<self>
+PUNCT	:	sil
+PLAIN	ESKE	<self>
+LETTERS	WILLERSLEV	w i l l e r s l e v
+PUNCT	:	sil
+PLAIN	Ancient	<self>
+LETTERS	DNA's	d n a's
+PLAIN	Intrepid	<self>
+PLAIN	Explorer	<self>
+PUNCT	,	sil
+PLAIN	Science	<self>
+PUNCT	,	sil
+DATE	6 July 2007	the sixth of july two thousand seven
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Bevolkerung	<self>
+PLAIN	der	<self>
+PLAIN	Gemeinden	<self>
+PUNCT	,	sil
+PLAIN	erfullenden	<self>
+PLAIN	Gemeinden	<self>
+PLAIN	und	<self>
+PLAIN	Verwaltungsgemeinschaften	<self>
+PLAIN	nach	<self>
+PLAIN	Geschlecht	<self>
+PLAIN	in	<self>
+PLAIN	Thuringen	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Joseph	<self>
+PLAIN	Williams	<self>
+PLAIN	was	<self>
+PLAIN	the	<self>
+PLAIN	lead	<self>
+PLAIN	vocalist	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	has	<self>
+PLAIN	six	<self>
+PLAIN	siblings	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	The	<self>
+PLAIN	Champ	<self>
+PLAIN	is	<self>
+PLAIN	ready	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Dogs	<self>
+PLAIN	On	<self>
+PLAIN	Acid	<self>
+PUNCT	(	sil
+DATE	1 March 2006	the first of march two thousand six
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Since	<self>
+PLAIN	it	<self>
+PLAIN	is	<self>
+PLAIN	not	<self>
+PLAIN	possible	<self>
+PLAIN	to	<self>
+PLAIN	go	<self>
+PLAIN	through	<self>
+PLAIN	all	<self>
+PLAIN	the	<self>
+PLAIN	combinations	<self>
+PUNCT	,	sil
+LETTERS	png	p n g
+PLAIN	crush	<self>
+PLAIN	uses	<self>
+PLAIN	heuristics	<self>
+PLAIN	to	<self>
+PLAIN	choose	<self>
+PLAIN	the	<self>
+PLAIN	methods	<self>
+PLAIN	to	<self>
+PLAIN	try	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	helped	<self>
+PLAIN	to	<self>
+PLAIN	increase	<self>
+PLAIN	the	<self>
+PLAIN	availability	<self>
+PLAIN	of	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	access	<self>
+PLAIN	to	<self>
+PUNCT	,	sil
+PLAIN	fresh	<self>
+PLAIN	food	<self>
+PLAIN	within	<self>
+PLAIN	the	<self>
+PLAIN	city	<self>
+PLAIN	of	<self>
+PLAIN	Oakland	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Divide	<self>
+PLAIN	and	<self>
+PLAIN	conquer	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	was	<self>
+PLAIN	born	<self>
+PLAIN	in	<self>
+PLAIN	hialeah	<self>
+PLAIN	florida	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	died	<self>
+PLAIN	in	<self>
+PLAIN	office	<self>
+PLAIN	in	<self>
+DATE	1963	nineteen sixty three
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Runciman	<self>
+DATE	1990	nineteen ninety
+PUNCT	,	sil
+VERBATIM	pp	p p
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Archived	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	on	<self>
+DATE	February 8, 2011	february eighth twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	They	<self>
+PLAIN	received	<self>
+PLAIN	this	<self>
+PLAIN	grant	<self>
+PLAIN	because	<self>
+PLAIN	of	<self>
+PLAIN	California's	<self>
+PLAIN	Prop	<self>
+CARDINAL	84	eighty four
+PLAIN	which	<self>
+PLAIN	passed	<self>
+PLAIN	in	<self>
+DATE	2006	two thousand six
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Founder	<self>
+PLAIN	and	<self>
+PLAIN	Donors	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	card	<self>
+PLAIN	is	<self>
+PLAIN	then	<self>
+PLAIN	quickly	<self>
+PLAIN	placed	<self>
+PLAIN	in	<self>
+PLAIN	front	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	player's	<self>
+PLAIN	pile	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	May 6, 2013	may sixth twenty thirteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Individuals	<self>
+PLAIN	conduct	<self>
+PLAIN	self	<self>
+PLAIN	care	<self>
+PLAIN	and	<self>
+PLAIN	experts	<self>
+PLAIN	and	<self>
+PLAIN	professionals	<self>
+PLAIN	support	<self>
+PLAIN	self	<self>
+PLAIN	care	<self>
+PLAIN	to	<self>
+PLAIN	enable	<self>
+PLAIN	individuals	<self>
+PLAIN	to	<self>
+PLAIN	undertake	<self>
+PLAIN	enhanced	<self>
+PLAIN	self	<self>
+PLAIN	care	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Some	<self>
+PLAIN	sources	<self>
+PLAIN	do	<self>
+PLAIN	not	<self>
+PLAIN	consider	<self>
+PLAIN	these	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	true	<self>
+PLAIN	color	<self>
+PLAIN	blindness	<self>
+PUNCT	,	sil
+PLAIN	because	<self>
+PLAIN	the	<self>
+PLAIN	failure	<self>
+PLAIN	is	<self>
+PLAIN	of	<self>
+PLAIN	perception	<self>
+PUNCT	,	sil
+PLAIN	not	<self>
+PLAIN	of	<self>
+PLAIN	vision	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	self	<self>
+PLAIN	care	<self>
+PLAIN	deficit	<self>
+PLAIN	nursing	<self>
+PLAIN	theory	<self>
+PLAIN	was	<self>
+PLAIN	developed	<self>
+PLAIN	by	<self>
+PLAIN	Dorothea	<self>
+PLAIN	Orem	<self>
+PLAIN	between	<self>
+DATE	1959	nineteen fifty nine
+PLAIN	and	<self>
+DATE	2001	two thousand one
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Auto	<self>
+PLAIN	Trac	<self>
+PUNCT	"	sil
+PLAIN	all	<self>
+PLAIN	wheel	<self>
+PLAIN	drive	<self>
+PLAIN	also	<self>
+PLAIN	became	<self>
+PLAIN	an	<self>
+PLAIN	option	<self>
+PLAIN	starting	<self>
+PLAIN	in	<self>
+DATE	1999	nineteen ninety nine
+PLAIN	for	<self>
+PLAIN	the	<self>
+DIGIT	4	four
+LETTERS	WD	w d
+PLAIN	Blazers	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Mitsuki	<self>
+PLAIN	FujikawaMitsuki	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	high	<self>
+PLAIN	school	<self>
+PLAIN	student	<self>
+PLAIN	but	<self>
+PLAIN	people	<self>
+PLAIN	often	<self>
+PLAIN	mistake	<self>
+PLAIN	her	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	an	<self>
+PLAIN	elementary	<self>
+PLAIN	school	<self>
+PLAIN	student	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	main	<self>
+PLAIN	feud	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	SmackDown	<self>
+PUNCT	!	sil
+<eos>	<eos>
+CARDINAL	1	one
+PLAIN	-	to
+CARDINAL	32	thirty two
+PUNCT	)	sil
+PLAIN	p	<self>
+PUNCT	.	sil
+CARDINAL	1	one
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	GISCorps	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	URISA	<self>
+PLAIN	program	<self>
+PLAIN	that	<self>
+PLAIN	provides	<self>
+PLAIN	volunteer	<self>
+LETTERS	GIS	g i s
+PLAIN	services	<self>
+PLAIN	for	<self>
+PLAIN	underdeveloped	<self>
+PLAIN	countries	<self>
+PLAIN	worldwide	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Barbados	<self>
+PLAIN	has	<self>
+PLAIN	received	<self>
+PLAIN	a	<self>
+PLAIN	wildcard	<self>
+PLAIN	to	<self>
+PLAIN	send	<self>
+PLAIN	one	<self>
+PLAIN	male	<self>
+PLAIN	cyclist	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	the	<self>
+PLAIN	earlier	<self>
+PLAIN	series	<self>
+PUNCT	,	sil
+PLAIN	Cato	<self>
+PLAIN	was	<self>
+PLAIN	played	<self>
+PLAIN	by	<self>
+PLAIN	Burt	<self>
+PLAIN	Kwouk	<self>
+PUNCT	.	sil
+<eos>	<eos>
+CARDINAL	47	forty seven
+PLAIN	on	<self>
+PLAIN	Billboard's	<self>
+PLAIN	Hot	<self>
+PLAIN	Country	<self>
+PLAIN	Songs	<self>
+PLAIN	chart	<self>
+PLAIN	in	<self>
+DATE	2006	two thousand six
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	So	<self>
+PLAIN	when	<self>
+PLAIN	you	<self>
+PLAIN	look	<self>
+PLAIN	at	<self>
+PLAIN	it	<self>
+PLAIN	this	<self>
+PLAIN	wayAnd	<self>
+PLAIN	others	<self>
+PLAIN	stated	<self>
+PLAIN	hereLet	<self>
+PLAIN	us	<self>
+PLAIN	enjoy	<self>
+PLAIN	our	<self>
+PLAIN	heritageThe	<self>
+PLAIN	place	<self>
+PLAIN	we	<self>
+PLAIN	love	<self>
+PLAIN	so	<self>
+PLAIN	dear	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	VEKE's	v e k e's
+PLAIN	headquarters	<self>
+PLAIN	are	<self>
+PLAIN	located	<self>
+PLAIN	in	<self>
+PLAIN	Budapest	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kyo	<self>
+PLAIN	visits	<self>
+PLAIN	her	<self>
+PLAIN	a	<self>
+PLAIN	lot	<self>
+PLAIN	anytime	<self>
+PUNCT	,	sil
+PLAIN	anywhere	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Manchester	<self>
+PUNCT	:	sil
+PLAIN	Manchester	<self>
+PLAIN	University	<self>
+PLAIN	Press	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	If	<self>
+PLAIN	Joey	<self>
+PLAIN	and	<self>
+PLAIN	his	<self>
+PLAIN	governmentWould	<self>
+PLAIN	lend	<self>
+PLAIN	a	<self>
+PLAIN	helping	<self>
+PLAIN	handWe'd	<self>
+PLAIN	make	<self>
+PLAIN	this	<self>
+PLAIN	place	<self>
+PLAIN	a	<self>
+PLAIN	paradiseThe	<self>
+PLAIN	best	<self>
+PLAIN	in	<self>
+PLAIN	Newfoundland	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	October 2012	october twenty twelve
+PLAIN	version	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	July 2, 1964	july second nineteen sixty four
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	st	saint
+PLAIN	Columb	<self>
+PUNCT	:	sil
+LETTERS	I.	i
+PLAIN	Rabey	<self>
+DATE	1998	nineteen ninety eight
+PUNCT	:	sil
+PLAIN	Cornwall	<self>
+PLAIN	County	<self>
+PLAIN	Fire	<self>
+PLAIN	Brigade	<self>
+DATE	1948	nineteen forty eight
+PLAIN	-	to
+DATE	1998	nineteen ninety eight
+PUNCT	:	sil
+PLAIN	the	<self>
+PLAIN	first	<self>
+CARDINAL	50	fifty
+PLAIN	years	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Reba	<self>
+PLAIN	McEntire	<self>
+PLAIN	covered	<self>
+PUNCT	"	sil
+PLAIN	I	<self>
+PLAIN	Want	<self>
+PLAIN	a	<self>
+PLAIN	Cowboy	<self>
+PUNCT	"	sil
+PLAIN	on	<self>
+PLAIN	her	<self>
+DATE	2009	two thousand nine
+PLAIN	album	<self>
+PLAIN	Keep	<self>
+PLAIN	on	<self>
+PLAIN	Loving	<self>
+PLAIN	You	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	2008	two thousand eight
+PUNCT	,	sil
+PLAIN	he	<self>
+PLAIN	ran	<self>
+PLAIN	again	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	presidency	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+DATE	2008	two thousand eight
+PLAIN	presidential	<self>
+PLAIN	election	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	st	saint
+PLAIN	Columb	<self>
+PUNCT	:	sil
+LETTERS	I.	i
+PLAIN	Rabey	<self>
+DATE	2003	two thousand three
+PUNCT	:	sil
+PLAIN	The	<self>
+PLAIN	Centenary	<self>
+PLAIN	of	<self>
+PLAIN	st	saint
+PLAIN	Columb	<self>
+PLAIN	Fire	<self>
+PLAIN	Brigade	<self>
+PUNCT	,	sil
+DATE	1903	nineteen o three
+PLAIN	-	to
+DATE	2003	two thousand three
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Most	<self>
+PLAIN	clinical	<self>
+PLAIN	tests	<self>
+PLAIN	are	<self>
+PLAIN	designed	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	fast	<self>
+PUNCT	,	sil
+PLAIN	simple	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	effective	<self>
+PLAIN	at	<self>
+PLAIN	identifying	<self>
+PLAIN	broad	<self>
+PLAIN	categories	<self>
+PLAIN	of	<self>
+PLAIN	color	<self>
+PLAIN	blindness	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Palais	<self>
+CARDINAL	12	twelve
+PLAIN	is	<self>
+PLAIN	an	<self>
+PLAIN	indoor	<self>
+PLAIN	arena	<self>
+PLAIN	in	<self>
+PLAIN	Brussels	<self>
+PLAIN	used	<self>
+PLAIN	for	<self>
+PLAIN	concerts	<self>
+PLAIN	and	<self>
+PLAIN	spectacles	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+LETTERS	BCN	b c n
+DATE	2013	twenty thirteen
+PLAIN	Barbados'	<self>
+PLAIN	Swimming	<self>
+PLAIN	Team	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	huge	<self>
+PLAIN	asset	<self>
+PLAIN	for	<self>
+PLAIN	Palais	<self>
+CARDINAL	12	twelve
+PUNCT	,	sil
+PLAIN	Belgium's	<self>
+PLAIN	only	<self>
+PLAIN	venue	<self>
+PLAIN	to	<self>
+PLAIN	boast	<self>
+PLAIN	such	<self>
+PLAIN	a	<self>
+PLAIN	high	<self>
+PLAIN	prospect	<self>
+PLAIN	of	<self>
+PLAIN	spectators	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	24 May 2012	the twenty fourth of may twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+DATE	1998	nineteen ninety eight
+PLAIN	Marjory	<self>
+PLAIN	Stephenson	<self>
+PLAIN	Prize	<self>
+PLAIN	Lecture	<self>
+PUNCT	"	sil
+PUNCT	(	sil
+PLAIN	Free	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	One	<self>
+PLAIN	Reddit	<self>
+PLAIN	user	<self>
+PUNCT	,	sil
+PLAIN	attempted	<self>
+PLAIN	to	<self>
+PLAIN	play	<self>
+PLAIN	the	<self>
+PLAIN	game	<self>
+PLAIN	from	<self>
+PLAIN	a	<self>
+PLAIN	Live	<self>
+LETTERS	USB	u s b
+PLAIN	instead	<self>
+PLAIN	of	<self>
+PLAIN	their	<self>
+PLAIN	computer's	<self>
+PLAIN	main	<self>
+PLAIN	hard	<self>
+PLAIN	drive	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Barbados	<self>
+PLAIN	qualified	<self>
+PLAIN	five	<self>
+PLAIN	athletes	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Julie	<self>
+PLAIN	Andrews	<self>
+PUNCT	,	sil
+CARDINAL	79	seventy nine
+PUNCT	,	sil
+PLAIN	finds	<self>
+PLAIN	new	<self>
+PLAIN	favorite	<self>
+PLAIN	things	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	NASA	<self>
+PLAIN	total	<self>
+PLAIN	was	<self>
+CARDINAL	17	seventeen
+VERBATIM	ppmv	p p m v
+PLAIN	over	<self>
+MEASURE	100%	one hundred percent
+PUNCT	,	sil
+PLAIN	and	<self>
+LETTERS	CO	c o
+CARDINAL	2	two
+PLAIN	was	<self>
+PLAIN	increased	<self>
+PLAIN	here	<self>
+PLAIN	by	<self>
+CARDINAL	15	fifteen
+VERBATIM	ppmv	p p m v
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Also	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PUNCT	"	sil
+LETTERS	S-	s
+CARDINAL	15	fifteen
+PUNCT	"	sil
+PLAIN	name	<self>
+PLAIN	was	<self>
+PLAIN	dropped	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	Jimmy	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Accessed	<self>
+DATE	September 9, 2015	september ninth twenty fifteen
+PLAIN	New	<self>
+PLAIN	York	<self>
+PLAIN	Times	<self>
+PLAIN	article	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	London	<self>
+PUNCT	:	sil
+PLAIN	Smith	<self>
+PUNCT	,	sil
+PLAIN	Elder	<self>
+VERBATIM	&	and
+PLAIN	Co	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Brilliant	<self>
+PLAIN	Cresyl	<self>
+PLAIN	Blue	<self>
+LETTERS	ALD	a l d
+PUNCT	,	sil
+PLAIN	Sigma	<self>
+PLAIN	AldrichClark	<self>
+PUNCT	,	sil
+LETTERS	G.	g
+PUNCT	,	sil
+PLAIN	ed	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Don	<self>
+PLAIN	Herbison	<self>
+PLAIN	Evans	<self>
+VERBATIM	&	and
+PLAIN	Stella	<self>
+PLAIN	Crossley	<self>
+PUNCT	(	sil
+DATE	August 21, 2008	august twenty first two thousand eight
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PLAIN	Times	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	term	<self>
+PUNCT	"	sil
+PLAIN	pnictogen	<self>
+PUNCT	"	sil
+PLAIN	was	<self>
+PLAIN	suggested	<self>
+PLAIN	by	<self>
+PLAIN	the	<self>
+PLAIN	Dutch	<self>
+PLAIN	chemist	<self>
+PLAIN	Anton	<self>
+PLAIN	Eduard	<self>
+PLAIN	van	<self>
+PLAIN	Arkel	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	early	<self>
+DATE	1950s	nineteen fifties
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Catholic	<self>
+PLAIN	Encyclopedia	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	May 26, 2011	may twenty sixth twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	was	<self>
+PLAIN	born	<self>
+PLAIN	in	<self>
+PLAIN	Killamarsh	<self>
+PUNCT	,	sil
+PLAIN	England	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	August 31, 2015	august thirty first twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Syrie	<self>
+PUNCT	:	sil
+PLAIN	les	<self>
+PLAIN	Kurdes	<self>
+PLAIN	chassent	<self>
+PLAIN	des	<self>
+PLAIN	jihadistes	<self>
+LETTERS	d'un	d u n
+PLAIN	village	<self>
+PLAIN	du	<self>
+PLAIN	nord	<self>
+PLAIN	est	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Loic	<self>
+PLAIN	Courteau	<self>
+PLAIN	and	<self>
+PLAIN	Horst	<self>
+PLAIN	Skoff	<self>
+PLAIN	were	<self>
+PLAIN	the	<self>
+PLAIN	defending	<self>
+PLAIN	champions	<self>
+PUNCT	,	sil
+PLAIN	but	<self>
+PLAIN	did	<self>
+PLAIN	not	<self>
+PLAIN	participate	<self>
+PLAIN	this	<self>
+PLAIN	year	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	vol	volume
+CARDINAL	2	two
+PUNCT	,	sil
+PLAIN	p	<self>
+PUNCT	.	sil
+CARDINAL	583	five hundred eighty three
+PLAIN	Brauer	<self>
+PUNCT	,	sil
+PLAIN	Georg	<self>
+PUNCT	(	sil
+DATE	1963	nineteen sixty three
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+LETTERS	FC	f c
+PLAIN	Kansas	<self>
+PLAIN	City	<self>
+PLAIN	Earns	<self>
+DATE	2014	twenty fourteen
+LETTERS	NWSL	n w s l
+PLAIN	Championship	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Short	<self>
+PLAIN	vowels	<self>
+PLAIN	are	<self>
+PLAIN	unmarked	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+LETTERS	OJM	o j m
+PLAIN	has	<self>
+PLAIN	been	<self>
+PLAIN	led	<self>
+PLAIN	by	<self>
+PLAIN	politician	<self>
+PLAIN	Mety	<self>
+PLAIN	Gondola	<self>
+PLAIN	since	<self>
+DATE	November 2015	november twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Henderson	<self>
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	Myths	<self>
+PUNCT	"	sil
+PLAIN	p	<self>
+PUNCT	.	sil
+CARDINAL	120	one hundred twenty
+PLAIN	Henderson	<self>
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	Myths	<self>
+PUNCT	"	sil
+PLAIN	p	<self>
+PUNCT	.	sil
+CARDINAL	120	one hundred twenty
+LETTERS	M	<self>
+VERBATIM	-	sil
+PLAIN	L	<self>
+PLAIN	von	<self>
+PLAIN	Franz	<self>
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	The	<self>
+PLAIN	Process	<self>
+PLAIN	of	<self>
+PLAIN	Individuation	<self>
+PUNCT	"	sil
+PLAIN	in	<self>
+PLAIN	Jung	<self>
+PLAIN	ed	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Eskelhem	<self>
+PLAIN	GoIF	<self>
+PLAIN	have	<self>
+PLAIN	competed	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	Svenska	<self>
+PLAIN	Cupen	<self>
+PLAIN	on	<self>
+CARDINAL	2	two
+PLAIN	occasions	<self>
+PLAIN	and	<self>
+PLAIN	have	<self>
+PLAIN	played	<self>
+CARDINAL	2	two
+PLAIN	matches	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	competition	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	furnace	<self>
+PLAIN	went	<self>
+PLAIN	into	<self>
+PLAIN	production	<self>
+PLAIN	in	<self>
+PLAIN	either	<self>
+PLAIN	late	<self>
+DATE	1862	eighteen sixty two
+PLAIN	or	<self>
+PLAIN	early	<self>
+DATE	1863	eighteen sixty three
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kiowa	<self>
+PLAIN	has	<self>
+PLAIN	four	<self>
+PLAIN	noun	<self>
+PLAIN	classes	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	His	<self>
+PLAIN	father	<self>
+PLAIN	left	<self>
+PLAIN	the	<self>
+PLAIN	family	<self>
+PLAIN	when	<self>
+PLAIN	Tomlinson	<self>
+PLAIN	was	<self>
+PLAIN	seven	<self>
+PLAIN	years	<self>
+PLAIN	old	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Michael	<self>
+PLAIN	Wines	<self>
+PUNCT	(	sil
+DATE	September 1999	september nineteen ninety nine
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Janet	<self>
+PLAIN	Leigh	<self>
+PLAIN	turned	<self>
+PLAIN	down	<self>
+PLAIN	the	<self>
+PLAIN	lead	<self>
+PLAIN	female	<self>
+PLAIN	role	<self>
+PUNCT	,	sil
+PLAIN	as	<self>
+PLAIN	it	<self>
+PLAIN	meant	<self>
+PLAIN	being	<self>
+PLAIN	away	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	United	<self>
+PLAIN	States	<self>
+PLAIN	for	<self>
+PLAIN	too	<self>
+PLAIN	long	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Archived	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	on	<self>
+DATE	9 July 2014	the ninth of july twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+MONEY	$1,000	one thousand dollars
+PLAIN	Genome	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	20 January 2016	the twentieth of january twenty sixteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Otago	<self>
+PLAIN	Daily	<self>
+PLAIN	Times	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Head	<self>
+PLAIN	scarves	<self>
+PLAIN	to	<self>
+PLAIN	topple	<self>
+PLAIN	secular	<self>
+PLAIN	Turkey	<self>
+PUNCT	?	sil
+PUNCT	"	sil
+<eos>	<eos>
+PLAIN	As	<self>
+PLAIN	a	<self>
+PLAIN	result	<self>
+PUNCT	,	sil
+PLAIN	water	<self>
+PLAIN	with	<self>
+PLAIN	a	<self>
+PLAIN	free	<self>
+PLAIN	surface	<self>
+PLAIN	is	<self>
+PLAIN	generally	<self>
+PLAIN	considered	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	a	<self>
+PLAIN	dispersive	<self>
+PLAIN	medium	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	American	<self>
+PLAIN	Indian	<self>
+PLAIN	languages	<self>
+PUNCT	:	sil
+PLAIN	The	<self>
+PLAIN	historical	<self>
+PLAIN	linguistics	<self>
+PLAIN	of	<self>
+PLAIN	Native	<self>
+PLAIN	America	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	At	<self>
+PLAIN	the	<self>
+PLAIN	time	<self>
+PUNCT	,	sil
+PLAIN	thirteen	<self>
+PLAIN	year	<self>
+PLAIN	old	<self>
+PLAIN	Keita	<self>
+PLAIN	Furuya	<self>
+PLAIN	and	<self>
+PLAIN	another	<self>
+PLAIN	contestant	<self>
+PLAIN	were	<self>
+PLAIN	declared	<self>
+PLAIN	winners	<self>
+PLAIN	out	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+CARDINAL	8,751	eight thousand seven hundred fifty one
+PLAIN	hopefuls	<self>
+PLAIN	that	<self>
+PLAIN	had	<self>
+PLAIN	auditioned	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Acta	<self>
+PLAIN	Neurobiol	<self>
+LETTERS	Exp	e x p
+CARDINAL	58	fifty eight
+PUNCT	,	sil
+CARDINAL	287	two hundred eighty seven
+PLAIN	-	to
+CARDINAL	290	two hundred ninety
+PLAIN	Uezono	<self>
+PLAIN	K	<self>
+PLAIN	et	<self>
+PLAIN	al	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Chickasha	<self>
+PUNCT	,	sil
+PLAIN	OK	okay
+PUNCT	:	sil
+PLAIN	University	<self>
+PLAIN	of	<self>
+PLAIN	Science	<self>
+PLAIN	and	<self>
+PLAIN	Arts	<self>
+PLAIN	of	<self>
+PLAIN	Oklahoma	<self>
+PLAIN	Foundation	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	idea	<self>
+PLAIN	of	<self>
+PLAIN	settlement	<self>
+PLAIN	follows	<self>
+PLAIN	a	<self>
+PLAIN	principle	<self>
+PUNCT	,	sil
+PLAIN	that	<self>
+PLAIN	settlement	<self>
+PLAIN	is	<self>
+PLAIN	made	<self>
+PLAIN	where	<self>
+PLAIN	resources	<self>
+PLAIN	are	<self>
+PLAIN	conveniently	<self>
+PLAIN	accessed	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	27 July 2013	the twenty seventh of july twenty thirteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Walsh	<self>
+PUNCT	,	sil
+PLAIN	Christopher	<self>
+LETTERS	J.	j
+PUNCT	(	sil
+DATE	2006	two thousand six
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+DATE	10 January 2012	the tenth of january twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Zappi	<self>
+PUNCT	,	sil
+PLAIN	Lucrecia	<self>
+PUNCT	(	sil
+DATE	2006	two thousand six
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	November 15, 2012	november fifteenth twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	integrated	<self>
+PLAIN	exhaust	<self>
+PLAIN	pipes	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	bumpers	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+LETTERS	SS	s s
+PLAIN	were	<self>
+PLAIN	similar	<self>
+PLAIN	to	<self>
+PLAIN	those	<self>
+PLAIN	of	<self>
+PLAIN	historical	<self>
+PLAIN	muscle	<self>
+PLAIN	cars	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Sybil	<self>
+PLAIN	Ludington	<self>
+PLAIN	helped	<self>
+PLAIN	rally	<self>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PLAIN	militia	<self>
+PLAIN	to	<self>
+PLAIN	aid	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	defense	<self>
+PLAIN	of	<self>
+PLAIN	Danbury	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	played	<self>
+PLAIN	collegiately	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	Pennsylvania	<self>
+PLAIN	State	<self>
+PLAIN	University	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	served	<self>
+PLAIN	three	<self>
+PLAIN	times	<self>
+PLAIN	as	<self>
+PLAIN	Prime	<self>
+PLAIN	Minister	<self>
+PLAIN	and	<self>
+PLAIN	five	<self>
+PLAIN	times	<self>
+PLAIN	as	<self>
+PLAIN	Minister	<self>
+PLAIN	of	<self>
+PLAIN	Foreign	<self>
+PLAIN	Affairs	<self>
+PUNCT	.	sil
+<eos>	<eos>
+CARDINAL	8	eight
+PUNCT	)	sil
+PLAIN	sailed	<self>
+PLAIN	for	<self>
+PLAIN	Manila	<self>
+PLAIN	within	<self>
+PLAIN	the	<self>
+PLAIN	allotted	<self>
+PLAIN	time	<self>
+PLAIN	to	<self>
+PLAIN	avoid	<self>
+PLAIN	forced	<self>
+PLAIN	internment	<self>
+PUNCT	,	sil
+PLAIN	Palos	<self>
+PUNCT	(	sil
+PLAIN	River	<self>
+PLAIN	Gunboat	<self>
+PLAIN	no	<self>
+<eos>	<eos>
+PLAIN	Sao	<self>
+PLAIN	Paulo	<self>
+PUNCT	,	sil
+PLAIN	Brazil	<self>
+PUNCT	:	sil
+PLAIN	Museu	<self>
+PLAIN	de	<self>
+PLAIN	Arte	<self>
+PLAIN	Contemporanea	<self>
+PLAIN	da	<self>
+PLAIN	Universidade	<self>
+PLAIN	de	<self>
+PLAIN	Sao	<self>
+PLAIN	Paulo	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Hiroki	<self>
+PLAIN	Nakadoi	<self>
+PUNCT	/	sil
+VERBATIM	中	sil
+VERBATIM	土	sil
+VERBATIM	居	sil
+VERBATIM	宏	sil
+VERBATIM	宜	sil
+LETTERS	D.O.B.	d o b
+PUNCT	:	sil
+DATE	July 26, 1985	july twenty sixth nineteen eighty five
+PLAIN	Birthplace	<self>
+PUNCT	:	sil
+PLAIN	Hiroshima	<self>
+PUNCT	,	sil
+PLAIN	Japan	<self>
+PUNCT	(	sil
+PLAIN	But	<self>
+PLAIN	he	<self>
+PLAIN	grew	<self>
+PLAIN	up	<self>
+PLAIN	in	<self>
+PLAIN	Osaka	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	died	<self>
+PLAIN	in	<self>
+DATE	January 1931	january nineteen thirty one
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Bulletin	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	American	<self>
+PLAIN	Geographical	<self>
+PLAIN	Society	<self>
+PUNCT	,	sil
+PLAIN	Volume	<self>
+CARDINAL	34	thirty four
+PLAIN	Volumes	<self>
+CARDINAL	712	seven hundred twelve
+PLAIN	-	to
+CARDINAL	716	seven hundred sixteen
+PLAIN	of	<self>
+PLAIN	American	<self>
+PLAIN	periodical	<self>
+PLAIN	series	<self>
+PUNCT	,	sil
+DATE	1850	eighteen fifty
+PLAIN	-	to
+DATE	1900	nineteen hundred
+PUNCT	(	sil
+PLAIN	Digitized	<self>
+DATE	Dec 19, 2008	december nineteenth two thousand eight
+PLAIN	ed	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	20 September 2014	the twentieth of september twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	World	<self>
+PLAIN	Wrestling	<self>
+PLAIN	Entertainment	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	16 September 2010	the sixteenth of september twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+CARDINAL	14	fourteen
+PUNCT	)	sil
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	Don't	<self>
+PLAIN	Cry	<self>
+PUNCT	"	sil
+PUNCT	(	sil
+PLAIN	July	<self>
+PUNCT	,	sil
+PLAIN	no	<self>
+<eos>	<eos>
+PLAIN	Gaillemin	<self>
+DATE	1994	nineteen ninety four
+PUNCT	,	sil
+PLAIN	p	<self>
+PUNCT	.	sil
+CARDINAL	269	two hundred sixty nine
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PLAIN	Times	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	North	<self>
+PLAIN	Division	<self>
+PLAIN	One	<self>
+PLAIN	winners	<self>
+PLAIN	Inverness	<self>
+PLAIN	City	<self>
+PLAIN	were	<self>
+PLAIN	ineligible	<self>
+PLAIN	for	<self>
+PLAIN	promotion	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	Superleague	<self>
+PLAIN	on	<self>
+PLAIN	ground	<self>
+PLAIN	criteria	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Katrina	<self>
+PLAIN	HACKER	<self>
+PUNCT	:	sil
+CARDINAL	2007	two thousand seven
+PUNCT	/	sil
+CARDINAL	2008	two thousand eight
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Mary	<self>
+PLAIN	Pickford	<self>
+PLAIN	Rediscovered	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	new	<self>
+PLAIN	york	<self>
+PLAIN	new	<self>
+PLAIN	york	<self>
+PUNCT	:	sil
+PLAIN	HarperCollins	<self>
+PLAIN	Publishers	<self>
+PUNCT	,	sil
+PLAIN	inc	<self>
+PLAIN	Lambert	<self>
+PUNCT	,	sil
+LETTERS	L.	l
+PUNCT	(	sil
+DATE	2003	two thousand three
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Wladimir	<self>
+PLAIN	van	<self>
+PLAIN	Wilgenburg	<self>
+PUNCT	(	sil
+DATE	13 March 2014	the thirteenth of march twenty fourteen
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Campbell	<self>
+DATE	2000	two thousand
+PUNCT	,	sil
+PLAIN	p	<self>
+PUNCT	.	sil
+CARDINAL	99	ninety nine
+PUNCT	.	sil
+<eos>	<eos>
+DECIMAL	23.24	twenty three point two four
+PLAIN	births	<self>
+PUNCT	/	sil
+CARDINAL	1,000	one thousand
+PLAIN	population	<self>
+PUNCT	(	sil
+DATE	2015	twenty fifteen
+PLAIN	est	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PUNCT	:	sil
+PLAIN	Farrar	<self>
+PUNCT	,	sil
+PLAIN	Straus	<self>
+PLAIN	and	<self>
+PLAIN	Giroux	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Davis	<self>
+PUNCT	,	sil
+PLAIN	Barry	<self>
+PUNCT	(	sil
+DATE	2007-10-25	the twenty fifth of october two thousand seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Data	<self>
+PLAIN	is	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+DATE	2010	twenty ten
+PLAIN	United	<self>
+PLAIN	States	<self>
+PLAIN	Census	<self>
+PLAIN	and	<self>
+PLAIN	the	<self>
+DATE	2006	two thousand six
+PLAIN	-	to
+DATE	2010	twenty ten
+PLAIN	American	<self>
+PLAIN	Community	<self>
+PLAIN	Survey	<self>
+CARDINAL	5	five
+VERBATIM	-	sil
+PLAIN	Year	<self>
+PLAIN	Estimates	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Can't	<self>
+PLAIN	buy	<self>
+PLAIN	me	<self>
+PLAIN	album	<self>
+PLAIN	sales	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	three	<self>
+PLAIN	middle	<self>
+PLAIN	arbors	<self>
+PLAIN	are	<self>
+PLAIN	bulged	<self>
+PLAIN	and	<self>
+PLAIN	incorporate	<self>
+PLAIN	a	<self>
+PLAIN	continuous	<self>
+PLAIN	balcony	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	24 October 2004	the twenty fourth of october two thousand four
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	car	<self>
+PLAIN	is	<self>
+PLAIN	about	<self>
+MEASURE	3947 mm	three thousand nine hundred forty seven millimeters
+PLAIN	long	<self>
+PUNCT	,	sil
+PLAIN	but	<self>
+PLAIN	its	<self>
+PLAIN	trunk	<self>
+PLAIN	area	<self>
+PLAIN	has	<self>
+PLAIN	up	<self>
+PLAIN	to	<self>
+CARDINAL	1,215	one thousand two hundred fifteen
+PLAIN	liters	<self>
+PLAIN	of	<self>
+PLAIN	space	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Fossi	<self>
+DATE	1998	nineteen ninety eight
+PUNCT	,	sil
+PLAIN	p	<self>
+PUNCT	.	sil
+CARDINAL	5	five
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Tenant	<self>
+PLAIN	farmers	<self>
+PLAIN	had	<self>
+PLAIN	started	<self>
+PLAIN	a	<self>
+PLAIN	rent	<self>
+PLAIN	strike	<self>
+PLAIN	against	<self>
+PLAIN	absentee	<self>
+PLAIN	landlords	<self>
+PLAIN	who	<self>
+PLAIN	cared	<self>
+PLAIN	little	<self>
+PLAIN	about	<self>
+PLAIN	their	<self>
+PLAIN	estates	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Blog	<self>
+PLAIN	Archive	<self>
+PUNCT	»	sil
+PLAIN	Tieh	<self>
+PLAIN	Kuan	<self>
+PLAIN	Yin	<self>
+PLAIN	Roasting	<self>
+PUNCT	(	sil
+PLAIN	Second	<self>
+PLAIN	Round	<self>
+PUNCT	)	sil
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	fourth	<self>
+PLAIN	match	<self>
+PLAIN	was	<self>
+PLAIN	between	<self>
+PLAIN	Santino	<self>
+PLAIN	Marella	<self>
+PLAIN	and	<self>
+PLAIN	The	<self>
+PLAIN	Honky	<self>
+PLAIN	Tonk	<self>
+PLAIN	Man	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	Intercontinental	<self>
+PLAIN	Championship	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	11 April 2012	the eleventh of april twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Jungle	<self>
+PLAIN	Action	<self>
+PUNCT	,	sil
+PLAIN	Marvel	<self>
+PUNCT	,	sil
+DATE	1954	nineteen fifty four
+PLAIN	Series	<self>
+PUNCT	,	sil
+PLAIN	at	<self>
+PLAIN	the	<self>
+PLAIN	Grand	<self>
+PLAIN	Comics	<self>
+PLAIN	Database	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	However	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	magazine	<self>
+PLAIN	failed	<self>
+PLAIN	to	<self>
+PLAIN	explode	<self>
+PUNCT	;	sil
+PLAIN	and	<self>
+PUNCT	,	sil
+PLAIN	after	<self>
+PLAIN	the	<self>
+PLAIN	Confederate	<self>
+PLAIN	vessels	<self>
+PLAIN	withdrew	<self>
+PLAIN	early	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	afternoon	<self>
+PUNCT	,	sil
+PLAIN	Vincennes	<self>
+PLAIN	was	<self>
+PLAIN	refloated	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	16 July 2010	the sixteenth of july twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+DATE	22 June 2005	the twenty second of june two thousand five
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Before	<self>
+PLAIN	the	<self>
+PLAIN	election	<self>
+PLAIN	Labour	labor
+PLAIN	had	<self>
+CARDINAL	44	forty four
+PLAIN	seats	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	Conservatives	<self>
+CARDINAL	10	ten
+PUNCT	,	sil
+PLAIN	independents	<self>
+CARDINAL	6	six
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	Liberal	<self>
+PLAIN	Democrats	<self>
+CARDINAL	3	three
+PLAIN	seats	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Bernie	<self>
+PLAIN	Brillstein	<self>
+PLAIN	Biography	<self>
+PUNCT	"	sil
+PUNCT	(	sil
+LETTERS	PDF	p d f
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	had	<self>
+PLAIN	also	<self>
+PLAIN	worked	<self>
+PLAIN	with	<self>
+PLAIN	Lionel	<self>
+PLAIN	Hampton	<self>
+PLAIN	and	<self>
+PLAIN	Buck	<self>
+PLAIN	Clayton	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Palais	<self>
+PLAIN	Equitable	<self>
+PLAIN	was	<self>
+PLAIN	damaged	<self>
+PLAIN	in	<self>
+PLAIN	World	<self>
+PLAIN	War	<self>
+CARDINAL	II	two
+PLAIN	but	<self>
+PLAIN	was	<self>
+PLAIN	restored	<self>
+PLAIN	in	<self>
+DATE	1949	nineteen forty nine
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Overall	<self>
+PLAIN	turnout	<self>
+PLAIN	was	<self>
+MEASURE	32.28%	thirty two point two eight percent
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	By	<self>
+PLAIN	his	<self>
+PLAIN	death	<self>
+PLAIN	in	<self>
+DATE	1855	eighteen fifty five
+PUNCT	,	sil
+PLAIN	st	saint
+PLAIN	James's	<self>
+PLAIN	Gate	<self>
+PLAIN	was	<self>
+PLAIN	brewing	<self>
+PLAIN	and	<self>
+PLAIN	selling	<self>
+CARDINAL	78,000	seventy eight thousand
+PLAIN	hogsheads	<self>
+PLAIN	annually	<self>
+PUNCT	,	sil
+PLAIN	equivalent	<self>
+PLAIN	to	<self>
+CARDINAL	4,212,000	four million two hundred twelve thousand
+PLAIN	gallons	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	1997	nineteen ninety seven
+PLAIN	Leslie	<self>
+LETTERS	G.	g
+PLAIN	Carr	<self>
+PLAIN	published	<self>
+PLAIN	Color	<self>
+PLAIN	Blind	<self>
+PLAIN	Racism	<self>
+PLAIN	which	<self>
+PLAIN	reviewed	<self>
+PLAIN	the	<self>
+PLAIN	history	<self>
+PLAIN	of	<self>
+PLAIN	racist	<self>
+PLAIN	ideologies	<self>
+PLAIN	in	<self>
+PLAIN	America	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	There	<self>
+PLAIN	was	<self>
+PLAIN	a	<self>
+PLAIN	wide	<self>
+PLAIN	gap	<self>
+PLAIN	between	<self>
+PLAIN	the	<self>
+PLAIN	classes	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	As	<self>
+PLAIN	of	<self>
+DATE	2000	two thousand
+PUNCT	,	sil
+CARDINAL	2,103	two thousand one hundred three
+PLAIN	people	<self>
+PLAIN	were	<self>
+PLAIN	single	<self>
+PLAIN	and	<self>
+PLAIN	never	<self>
+PLAIN	married	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	municipality	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Infrared	<self>
+PLAIN	Studies	<self>
+PLAIN	of	<self>
+PLAIN	Carbon	<self>
+PLAIN	Monoxide	<self>
+PLAIN	Binding	<self>
+PLAIN	to	<self>
+PLAIN	Carbon	<self>
+PLAIN	Monoxide	<self>
+PLAIN	Dehydrogenase	<self>
+PUNCT	/	sil
+PLAIN	Acetyl	<self>
+PLAIN	CoA	<self>
+PLAIN	Synthase	<self>
+PLAIN	from	<self>
+PLAIN	Moorella	<self>
+PLAIN	thermoacetica	<self>
+VERBATIM	%	percent
+LETTERS	u	<self>
+DIGIT	2020	two o two o
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Since	<self>
+DATE	2001	two thousand one
+PUNCT	,	sil
+PLAIN	Mozambique's	<self>
+PLAIN	annual	<self>
+PLAIN	average	<self>
+LETTERS	GDP	g d p
+PLAIN	growth	<self>
+PLAIN	has	<self>
+PLAIN	been	<self>
+PLAIN	among	<self>
+PLAIN	the	<self>
+PLAIN	world's	<self>
+PLAIN	highest	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	2000	two thousand
+PUNCT	,	sil
+CARDINAL	529	five hundred twenty nine
+PLAIN	of	<self>
+PLAIN	a	<self>
+PLAIN	total	<self>
+PLAIN	of	<self>
+CARDINAL	968	nine hundred sixty eight
+PLAIN	inhabited	<self>
+PLAIN	buildings	<self>
+PLAIN	were	<self>
+PLAIN	single	<self>
+PLAIN	family	<self>
+PLAIN	homes	<self>
+PUNCT	(	sil
+MEASURE	54.6%	fifty four point six percent
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Lewiston	<self>
+PLAIN	Morning	<self>
+PLAIN	Tribune	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Friday	<self>
+PLAIN	would	<self>
+PLAIN	later	<self>
+PLAIN	be	<self>
+PLAIN	a	<self>
+PLAIN	benefactor	<self>
+PLAIN	of	<self>
+PLAIN	Governor	<self>
+PLAIN	and	<self>
+PLAIN	President	<self>
+PLAIN	Bill	<self>
+PLAIN	Clinton	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Victory	<self>
+PLAIN	Army	<self>
+PLAIN	and	<self>
+LETTERS	YPG	y p g
+PLAIN	trade	<self>
+PLAIN	accusations	<self>
+PLAIN	over	<self>
+PLAIN	Sheikh	<self>
+PLAIN	Maqsoud	<self>
+PLAIN	crossing	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+DATE	24 May 2012	the twenty fourth of may twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Iraqi	<self>
+PLAIN	Circassians	<self>
+PLAIN	mainly	<self>
+PLAIN	speak	<self>
+PLAIN	Mesopotamian	<self>
+PLAIN	Arabic	<self>
+PLAIN	and	<self>
+PLAIN	West	<self>
+PLAIN	Circassian	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Thanh	<self>
+PLAIN	Nien	<self>
+PLAIN	News	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	About	<self>
+PLAIN	the	<self>
+PLAIN	Stages	<self>
+PLAIN	Theatre	theater
+PLAIN	Center	<self>
+PUNCT	(	sil
+PLAIN	Accessed	<self>
+DATE	2007-05-23	the twenty third of may two thousand seven
+PUNCT	)	sil
+PLAIN	Edoardo	<self>
+PLAIN	Erba	<self>
+PLAIN	Playwright	<self>
+PLAIN	the	<self>
+PLAIN	Miracle	<self>
+PLAIN	Players	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Between	<self>
+DATE	1950	nineteen fifty
+PLAIN	and	<self>
+DATE	1959	nineteen fifty nine
+PUNCT	,	sil
+PLAIN	Primavera	<self>
+PLAIN	becomes	<self>
+PLAIN	an	<self>
+PLAIN	artistic	<self>
+PLAIN	centre	center
+PLAIN	for	<self>
+PLAIN	fine	<self>
+PLAIN	textiles	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Media	<self>
+PLAIN	Guardian	<self>
+PUNCT	(	sil
+PLAIN	London	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	McFarlane	<self>
+PUNCT	,	sil
+PLAIN	Ian	<self>
+PUNCT	(	sil
+DATE	1999	nineteen ninety nine
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Freedland	<self>
+PUNCT	,	sil
+PLAIN	Michael	<self>
+PUNCT	(	sil
+DATE	August 7, 2009	august seventh two thousand nine
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	New	<self>
+PLAIN	York	<self>
+PLAIN	Jets	<self>
+PLAIN	vs	versus
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	main	<self>
+PLAIN	hangar	<self>
+PLAIN	was	<self>
+PLAIN	located	<self>
+PLAIN	next	<self>
+PLAIN	to	<self>
+PLAIN	Leangen	<self>
+PLAIN	Station	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	hyllys	<self>
+PLAIN	of	<self>
+PLAIN	Armonye	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Greater	<self>
+PLAIN	Bridgeport	<self>
+PLAIN	Symphony	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	series	<self>
+PLAIN	was	<self>
+PLAIN	created	<self>
+PLAIN	by	<self>
+PLAIN	writer	<self>
+PLAIN	Gaylord	<self>
+PLAIN	Du	<self>
+PLAIN	Bois	<self>
+PLAIN	and	<self>
+PLAIN	artist	<self>
+PLAIN	Paul	<self>
+PLAIN	Norris	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Rainfall	<self>
+PLAIN	is	<self>
+PLAIN	heavy	<self>
+PLAIN	along	<self>
+PLAIN	the	<self>
+PLAIN	coast	<self>
+PLAIN	and	<self>
+PLAIN	decreases	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	north	<self>
+PLAIN	and	<self>
+PLAIN	south	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Rebels	<self>
+PLAIN	Make	<self>
+PLAIN	Gains	<self>
+PLAIN	in	<self>
+PLAIN	Blunting	<self>
+PLAIN	Syrian	<self>
+PLAIN	Air	<self>
+PLAIN	Attacks	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	term	<self>
+PUNCT	"	sil
+PLAIN	samhalle	<self>
+PUNCT	"	sil
+PLAIN	is	<self>
+PLAIN	also	<self>
+PLAIN	used	<self>
+PLAIN	in	<self>
+PLAIN	Swedish	<self>
+PLAIN	to	<self>
+PLAIN	denote	<self>
+PUNCT	"	sil
+PLAIN	society	<self>
+PUNCT	"	sil
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	community	<self>
+PUNCT	"	sil
+PLAIN	or	<self>
+PUNCT	"	sil
+PLAIN	state	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	was	<self>
+PLAIN	fluent	<self>
+PLAIN	in	<self>
+PLAIN	Arabic	<self>
+PLAIN	and	<self>
+PLAIN	very	<self>
+PLAIN	familiar	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	culture	<self>
+PLAIN	of	<self>
+PLAIN	her	<self>
+PLAIN	patients	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	RENAMO	<self>
+LETTERS	UE	u e
+PLAIN	coalition	<self>
+PLAIN	won	<self>
+CARDINAL	116	one hundred sixteen
+PLAIN	seats	<self>
+PUNCT	,	sil
+PLAIN	one	<self>
+PLAIN	went	<self>
+PLAIN	independent	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	no	<self>
+PLAIN	third	<self>
+PLAIN	parties	<self>
+PLAIN	are	<self>
+PLAIN	represented	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Pennsylvania	<self>
+PLAIN	House	<self>
+PLAIN	Democratic	<self>
+PLAIN	Caucus	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	His	<self>
+PLAIN	first	<self>
+PLAIN	royalty	<self>
+PLAIN	check	<self>
+PUNCT	,	sil
+PLAIN	received	<self>
+PLAIN	that	<self>
+PLAIN	same	<self>
+PLAIN	year	<self>
+PUNCT	,	sil
+PLAIN	was	<self>
+PLAIN	for	<self>
+MONEY	$6,500	six thousand five hundred dollars
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	large	<self>
+PLAIN	power	<self>
+PLAIN	demand	<self>
+PLAIN	of	<self>
+PLAIN	this	<self>
+PLAIN	sensor	<self>
+PLAIN	means	<self>
+PLAIN	that	<self>
+PLAIN	it	<self>
+PLAIN	is	<self>
+PLAIN	usually	<self>
+PLAIN	powered	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	mains	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Primavera	<self>
+PLAIN	also	<self>
+PLAIN	produced	<self>
+PLAIN	Bryony	<self>
+PLAIN	Lavery's	<self>
+PLAIN	play	<self>
+PLAIN	Origin	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Species	<self>
+PLAIN	later	<self>
+PLAIN	that	<self>
+PLAIN	year	<self>
+PLAIN	at	<self>
+PLAIN	the	<self>
+PLAIN	Arcola	<self>
+PLAIN	Theatre	theater
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	US	u s
+PLAIN	Naval	<self>
+PLAIN	Department	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	7 November 2010	the seventh of november twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Inaugural	<self>
+PLAIN	Speech	<self>
+PUNCT	:	sil
+PLAIN	Ms	<self>
+PLAIN	Katrina	<self>
+PLAIN	Hodgkinson	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	is	<self>
+PLAIN	best	<self>
+PLAIN	known	<self>
+PLAIN	as	<self>
+PLAIN	Lead	<self>
+PLAIN	Belly	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	is	<self>
+PLAIN	located	<self>
+PLAIN	about	<self>
+CARDINAL	500	five hundred
+PLAIN	meters	<self>
+PLAIN	northwest	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Monastery	<self>
+PLAIN	of	<self>
+PLAIN	Saint	<self>
+PLAIN	Pishoy	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	client	<self>
+PLAIN	did	<self>
+PLAIN	not	<self>
+PLAIN	actually	<self>
+PLAIN	receive	<self>
+PLAIN	any	<self>
+PLAIN	money	<self>
+PLAIN	after	<self>
+PLAIN	the	<self>
+PLAIN	initial	<self>
+PLAIN	verdict	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Lead	<self>
+PLAIN	Belly	<self>
+PLAIN	was	<self>
+PLAIN	born	<self>
+PLAIN	Huddie	<self>
+PLAIN	William	<self>
+PLAIN	Ledbetter	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	Jeter	<self>
+PLAIN	Plantation	<self>
+PLAIN	near	<self>
+PLAIN	Mooringsport	<self>
+PUNCT	,	sil
+PLAIN	Louisiana	<self>
+PUNCT	,	sil
+PLAIN	in	<self>
+PLAIN	either	<self>
+DATE	January 1888	january eighteen eighty eight
+PLAIN	or	<self>
+DATE	1889	eighteen eighty nine
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	There	<self>
+PLAIN	were	<self>
+PLAIN	several	<self>
+PLAIN	women	<self>
+PUNCT	,	sil
+PLAIN	but	<self>
+PLAIN	no	<self>
+PLAIN	children	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Timofey	<self>
+PLAIN	Pnin	<self>
+PUNCT	,	sil
+PLAIN	Vladimir	<self>
+PLAIN	Nabokov	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	Marc	<self>
+PLAIN	Szeftel	<self>
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	Nabokov	<self>
+PLAIN	Studies	<self>
+PUNCT	,	sil
+PLAIN	vol	volume
+<eos>	<eos>
+PLAIN	National	<self>
+PLAIN	Geographic	<self>
+PLAIN	Almanac	<self>
+PLAIN	of	<self>
+PLAIN	Geography	<self>
+PUNCT	,	sil
+DATE	2005	two thousand five
+PUNCT	,	sil
+PLAIN	page	<self>
+CARDINAL	155	one hundred fifty five
+PUNCT	,	sil
+LETTERS	ISBN	i s b n
+TELEPHONE	0-7922-3877	o sil seven nine two two sil three eight seven seven
+VERBATIM	-	sil
+VERBATIM	Xhttp	x h t t p
+PUNCT	:	sil
+ELECTRONIC	//web2.geo	s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter  _letter t_letter w_letter o_letter dot g_letter e_letter o_letter
+PUNCT	.	sil
+ELECTRONIC	msu.edu/geogmich/eskers.htmlGray	m_letter  _letter s_letter  _letter u_letter dot e_letter  _letter d_letter  _letter u_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter g_letter e_letter o_letter g_letter m_letter i_letter c_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter e_letter s_letter k_letter e_letter r_letter s_letter dot h_letter t_letter m_letter l_letter g_letter r_letter a_letter y_letter
+PUNCT	,	sil
+PLAIN	Charlotte	<self>
+PUNCT	(	sil
+DATE	2004	two thousand four
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	man	<self>
+PLAIN	who	<self>
+PLAIN	had	<self>
+PLAIN	taken	<self>
+PLAIN	over	<self>
+PLAIN	her	<self>
+PLAIN	father's	<self>
+PLAIN	medical	<self>
+PLAIN	practice	<self>
+PLAIN	became	<self>
+PLAIN	Mary's	<self>
+PLAIN	husband	<self>
+PLAIN	in	<self>
+DATE	1786	seventeen eighty six
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	custom	<self>
+PLAIN	designed	<self>
+PLAIN	letters	<self>
+PLAIN	were	<self>
+PLAIN	not	<self>
+PLAIN	ready	<self>
+PLAIN	in	<self>
+PLAIN	time	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	unveiling	<self>
+PLAIN	and	<self>
+PLAIN	were	<self>
+PLAIN	replaced	<self>
+PLAIN	with	<self>
+PLAIN	commercially	<self>
+PLAIN	available	<self>
+PLAIN	substitutes	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Ships	<self>
+PLAIN	and	<self>
+PLAIN	Aircraft	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+LETTERS	U.S.	u s
+PLAIN	Fleet	<self>
+PUNCT	,	sil
+PLAIN	Two	<self>
+PLAIN	Ocean	<self>
+PLAIN	Fleet	<self>
+PLAIN	Edition	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Como	<self>
+PLAIN	entender	<self>
+PLAIN	la	<self>
+PLAIN	economia	<self>
+PLAIN	politica	<self>
+PUNCT	,	sil
+PLAIN	Planeta	<self>
+PUNCT	,	sil
+DIGIT	2012	two o one two
+LETTERS	ZAIAT	z a i a t
+PUNCT	,	sil
+PLAIN	Alfredo	<self>
+PUNCT	,	sil
+PLAIN	et	<self>
+PLAIN	al	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	These	<self>
+CARDINAL	17	seventeen
+PLAIN	areas	<self>
+PLAIN	mostly	<self>
+PLAIN	correspond	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	places	<self>
+PLAIN	known	<self>
+PLAIN	by	<self>
+PLAIN	New	<self>
+PLAIN	Zealanders	<self>
+PLAIN	as	<self>
+PLAIN	cities	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Uruguay	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	multiethnic	<self>
+PLAIN	society	<self>
+PUNCT	,	sil
+PLAIN	which	<self>
+PLAIN	means	<self>
+PLAIN	that	<self>
+PLAIN	it	<self>
+PLAIN	is	<self>
+PLAIN	home	<self>
+PLAIN	to	<self>
+PLAIN	people	<self>
+PLAIN	of	<self>
+PLAIN	many	<self>
+PLAIN	different	<self>
+PLAIN	ethnic	<self>
+PLAIN	backgrounds	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Local	<self>
+PLAIN	geography	<self>
+PLAIN	may	<self>
+PLAIN	substantially	<self>
+PLAIN	modify	<self>
+PLAIN	these	<self>
+PLAIN	climate	<self>
+PLAIN	patterns	<self>
+PUNCT	,	sil
+PLAIN	however	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Koloale	<self>
+PLAIN	qualify	<self>
+PLAIN	for	<self>
+PLAIN	third	<self>
+PLAIN	O	<self>
+PLAIN	League	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	is	<self>
+PLAIN	one	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	few	<self>
+PLAIN	Chevrolets	<self>
+PLAIN	made	<self>
+PLAIN	while	<self>
+PLAIN	record	<self>
+PLAIN	setting	<self>
+PLAIN	Buick	<self>
+PLAIN	race	<self>
+PLAIN	car	<self>
+PLAIN	driver	<self>
+PLAIN	Louis	<self>
+PLAIN	Chevrolet	<self>
+PLAIN	was	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	company	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	is	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	bank	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Rokel	<self>
+PLAIN	River	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	largest	<self>
+PLAIN	river	<self>
+PLAIN	in	<self>
+PLAIN	Sierra	<self>
+PLAIN	Leone	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Will	<self>
+PLAIN	Durant	<self>
+PUNCT	(	sil
+DATE	1967	nineteen sixty seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	was	<self>
+PLAIN	also	<self>
+PLAIN	the	<self>
+PLAIN	president	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Junior	<self>
+PLAIN	League	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	City	<self>
+PLAIN	of	<self>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PLAIN	from	<self>
+DATE	1936	nineteen thirty six
+PLAIN	to	<self>
+DATE	1938	nineteen thirty eight
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Choudhury	<self>
+PUNCT	,	sil
+PLAIN	Sujit	<self>
+PUNCT	(	sil
+DATE	2007	two thousand seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Story	<self>
+PLAIN	of	<self>
+PLAIN	Civilization	<self>
+PLAIN	Volume	<self>
+CARDINAL	10	ten
+PUNCT	:	sil
+PLAIN	Rousseau	<self>
+PLAIN	and	<self>
+PLAIN	Revolution	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	ISBN	i s b n
+CARDINAL	0	zero
+PLAIN	-	to
+CARDINAL	691	six hundred ninety one
+VERBATIM	-	sil
+DIGIT	06797-	o six seven nine seven
+LETTERS	X	<self>
+PUNCT	.	sil
+PLAIN	Nabokov	<self>
+PUNCT	,	sil
+PLAIN	Vladimir	<self>
+PLAIN	Vladimirovich	<self>
+PUNCT	(	sil
+DATE	1957	nineteen fifty seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Martha	<self>
+PLAIN	also	<self>
+PLAIN	performed	<self>
+PLAIN	at	<self>
+PLAIN	that	<self>
+PLAIN	concert	<self>
+PUNCT	,	sil
+PLAIN	singing	<self>
+PLAIN	spirituals	<self>
+PLAIN	with	<self>
+PLAIN	her	<self>
+PLAIN	husband	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	resides	<self>
+PLAIN	in	<self>
+PLAIN	los	<self>
+PLAIN	angeles	<self>
+PLAIN	california	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	10 October 2011	the tenth of october twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Archived	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	on	<self>
+DATE	2006-12-06	the sixth of december two thousand six
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Subsequent	<self>
+PLAIN	editions	<self>
+PUNCT	,	sil
+PLAIN	including	<self>
+PLAIN	the	<self>
+PLAIN	latest	<self>
+PUNCT	,	sil
+PLAIN	preserve	<self>
+PLAIN	his	<self>
+PLAIN	legacy	<self>
+PLAIN	within	<self>
+PLAIN	the	<self>
+PLAIN	title	<self>
+PUNCT	,	sil
+PLAIN	Guyton	<self>
+PLAIN	and	<self>
+PLAIN	Hall	<self>
+PLAIN	Textbook	<self>
+PLAIN	of	<self>
+PLAIN	Medical	<self>
+PLAIN	Physiology	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Trondelag	<self>
+PLAIN	Commuter	<self>
+PLAIN	Rail	<self>
+PLAIN	offers	<self>
+PLAIN	hourly	<self>
+PLAIN	services	<self>
+PLAIN	in	<self>
+PLAIN	each	<self>
+PLAIN	direction	<self>
+PUNCT	:	sil
+PLAIN	northbound	<self>
+PLAIN	to	<self>
+PLAIN	Steinkjer	<self>
+PLAIN	and	<self>
+PLAIN	southbound	<self>
+PLAIN	to	<self>
+PLAIN	Trondheim	<self>
+PLAIN	and	<self>
+PLAIN	Lerkendal	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	13 July 2013	the thirteenth of july twenty thirteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	had	<self>
+PLAIN	an	<self>
+PLAIN	easy	<self>
+PLAIN	access	<self>
+PLAIN	via	<self>
+PLAIN	the	<self>
+PLAIN	single	<self>
+PLAIN	right	<self>
+PLAIN	hand	<self>
+PLAIN	door	<self>
+PLAIN	even	<self>
+PLAIN	without	<self>
+PLAIN	a	<self>
+PLAIN	folding	<self>
+PLAIN	forward	<self>
+PLAIN	right	<self>
+PLAIN	front	<self>
+PLAIN	seat	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+LETTERS	GWR	g w r
+PLAIN	was	<self>
+PLAIN	to	<self>
+PLAIN	receive	<self>
+MEASURE	53.11%	fifty three point one one percent
+PLAIN	of	<self>
+PLAIN	gross	<self>
+PLAIN	receipts	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Three	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	six	<self>
+PLAIN	centers	<self>
+PLAIN	had	<self>
+PLAIN	to	<self>
+PLAIN	shut	<self>
+PLAIN	down	<self>
+PLAIN	in	<self>
+DATE	2007	two thousand seven
+PLAIN	for	<self>
+PLAIN	lack	<self>
+PLAIN	of	<self>
+PLAIN	funds	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	closed	<self>
+PLAIN	cars	<self>
+PLAIN	that	<self>
+PLAIN	Chevrolet	<self>
+PLAIN	had	<self>
+PLAIN	started	<self>
+PLAIN	offering	<self>
+PLAIN	lacked	<self>
+PLAIN	the	<self>
+PLAIN	fresh	<self>
+PLAIN	air	<self>
+PLAIN	ventilation	<self>
+PLAIN	of	<self>
+PLAIN	topless	<self>
+PLAIN	roadsters	<self>
+PLAIN	and	<self>
+PLAIN	touring	<self>
+PLAIN	cars	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	other	<self>
+PLAIN	wavelengths	<self>
+PLAIN	would	<self>
+PLAIN	be	<self>
+PLAIN	scattered	<self>
+PLAIN	in	<self>
+PLAIN	all	<self>
+PLAIN	directions	<self>
+PLAIN	by	<self>
+PLAIN	the	<self>
+PLAIN	particles	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	liquid	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	They	<self>
+PLAIN	provide	<self>
+PLAIN	rehabilitation	<self>
+PLAIN	services	<self>
+PLAIN	and	<self>
+PLAIN	basic	<self>
+PLAIN	skills	<self>
+PLAIN	training	<self>
+PLAIN	for	<self>
+PLAIN	youngsters	<self>
+PLAIN	who	<self>
+PLAIN	are	<self>
+PLAIN	not	<self>
+PLAIN	able	<self>
+PLAIN	to	<self>
+PLAIN	attend	<self>
+PLAIN	regular	<self>
+PLAIN	school	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+LETTERS	SNC	s n c
+PUNCT	,	sil
+PLAIN	despite	<self>
+PLAIN	having	<self>
+PLAIN	had	<self>
+PLAIN	a	<self>
+PLAIN	Kurdish	<self>
+PLAIN	chairman	<self>
+PUNCT	,	sil
+PLAIN	does	<self>
+PLAIN	not	<self>
+PLAIN	have	<self>
+PLAIN	Kurdish	<self>
+PLAIN	nationalist	<self>
+PLAIN	members	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	is	<self>
+PLAIN	famous	<self>
+PLAIN	not	<self>
+PLAIN	only	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	cult	<self>
+PLAIN	goalkeeper	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Barbagallo	<self>
+PLAIN	Raceway	<self>
+PLAIN	Wanneroo	<self>
+MEASURE	2.42366 km	two point four two three six six kilometers
+PLAIN	Long	<self>
+PLAIN	Circuit	<self>
+PUNCT	"	sil
+PUNCT	(	sil
+VERBATIM	pdf	p d f
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Johnny	<self>
+PLAIN	Depp	<self>
+PLAIN	made	<self>
+PLAIN	honorary	<self>
+PLAIN	member	<self>
+PLAIN	of	<self>
+PLAIN	Comanche	<self>
+PLAIN	Native	<self>
+PLAIN	American	<self>
+PLAIN	tribe	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Sakai	<self>
+PLAIN	et	<self>
+PLAIN	al	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	As	<self>
+PLAIN	a	<self>
+PLAIN	writer	<self>
+PLAIN	his	<self>
+PLAIN	published	<self>
+PLAIN	works	<self>
+PLAIN	include	<self>
+PUNCT	:	sil
+PLAIN	Pintura	<self>
+PLAIN	incomoda	<self>
+PUNCT	(	sil
+DATE	1965	nineteen sixty five
+PUNCT	)	sil
+PUNCT	,	sil
+PLAIN	Almada	<self>
+PLAIN	e	<self>
+PLAIN	o	<self>
+PLAIN	numero	<self>
+PUNCT	(	sil
+DATE	1977	nineteen seventy seven
+PUNCT	)	sil
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	Imagens	<self>
+PLAIN	da	<self>
+PLAIN	imagem	<self>
+PUNCT	(	sil
+DATE	1977	nineteen seventy seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	United	<self>
+PLAIN	States	<self>
+PLAIN	Census	<self>
+PLAIN	Bureau	<self>
+PUNCT	,	sil
+PLAIN	Population	<self>
+PLAIN	Division	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	parasite	<self>
+PLAIN	was	<self>
+PLAIN	found	<self>
+PLAIN	to	<self>
+PLAIN	have	<self>
+PLAIN	been	<self>
+PLAIN	transmitted	<self>
+PLAIN	through	<self>
+PLAIN	the	<self>
+PLAIN	public	<self>
+PLAIN	water	<self>
+PLAIN	supply	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	the	<self>
+PLAIN	United	<self>
+PLAIN	States	<self>
+PUNCT	,	sil
+PLAIN	approximately	<self>
+CARDINAL	200	two hundred
+PLAIN	people	<self>
+PLAIN	die	<self>
+PLAIN	each	<self>
+PLAIN	year	<self>
+PLAIN	from	<self>
+PLAIN	carbon	<self>
+PLAIN	monoxide	<self>
+PLAIN	poisoning	<self>
+PLAIN	associated	<self>
+PLAIN	with	<self>
+PLAIN	home	<self>
+PLAIN	fuel	<self>
+PLAIN	burning	<self>
+PLAIN	heating	<self>
+PLAIN	equipment	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Oakland	<self>
+PLAIN	dropped	<self>
+PLAIN	the	<self>
+PLAIN	air	<self>
+PLAIN	cooled	<self>
+PLAIN	idea	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	returned	<self>
+PLAIN	to	<self>
+PLAIN	liquid	<self>
+PLAIN	cooling	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	28 December 2010	the twenty eighth of december twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Pinij	<self>
+PLAIN	unwillingly	<self>
+PLAIN	marries	<self>
+PLAIN	Jampee	<self>
+PLAIN	but	<self>
+PLAIN	he	<self>
+PLAIN	is	<self>
+PLAIN	obliged	<self>
+PLAIN	to	<self>
+PLAIN	do	<self>
+PLAIN	because	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	needs	<self>
+PLAIN	of	<self>
+PLAIN	his	<self>
+PLAIN	mother	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	London	<self>
+PUNCT	:	sil
+PLAIN	Wesleyan	<self>
+PLAIN	University	<self>
+PLAIN	Press	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	his	<self>
+PLAIN	deposition	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	police	<self>
+PUNCT	,	sil
+PLAIN	he	<self>
+PLAIN	remembered	<self>
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	She	<self>
+PLAIN	was	<self>
+PLAIN	really	<self>
+PLAIN	strong	<self>
+PUNCT	,	sil
+PLAIN	a	<self>
+PLAIN	real	<self>
+PLAIN	powerful	<self>
+PLAIN	one	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	that	<self>
+PLAIN	time	<self>
+PUNCT	,	sil
+CARDINAL	6	six
+PLAIN	players	<self>
+PLAIN	have	<self>
+PLAIN	won	<self>
+PLAIN	the	<self>
+PLAIN	award	<self>
+PLAIN	while	<self>
+PLAIN	playing	<self>
+PLAIN	for	<self>
+LETTERS	WCHA	w c h a
+PLAIN	schools	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Mary	<self>
+PLAIN	Pinchot	<self>
+PLAIN	Meyer	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Archived	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	on	<self>
+DATE	May 9, 2013	may ninth twenty thirteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Former	<self>
+PLAIN	race	<self>
+PLAIN	rufescens	<self>
+PLAIN	of	<self>
+PLAIN	Sri	<self>
+PLAIN	Lanka	<self>
+PLAIN	is	<self>
+PLAIN	considered	<self>
+PLAIN	a	<self>
+PLAIN	full	<self>
+PLAIN	species	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Thomas	<self>
+LETTERS	C.	c
+PLAIN	Egan	<self>
+PLAIN	at	<self>
+PLAIN	the	<self>
+PLAIN	Biographical	<self>
+PLAIN	Directory	<self>
+PLAIN	of	<self>
+PLAIN	Federal	<self>
+PLAIN	Judges	<self>
+PUNCT	,	sil
+PLAIN	a	<self>
+PLAIN	public	<self>
+PLAIN	domain	<self>
+PLAIN	publication	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Federal	<self>
+PLAIN	Judicial	<self>
+PLAIN	Center	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Sobie	<self>
+PUNCT	,	sil
+PLAIN	Brendan	<self>
+PUNCT	(	sil
+DATE	24 June 2010	the twenty fourth of june twenty ten
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	La	<self>
+PLAIN	Habana	<self>
+PUNCT	,	sil
+DATE	1922	nineteen twenty two
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	However	<self>
+PUNCT	,	sil
+PLAIN	they	<self>
+PLAIN	came	<self>
+PLAIN	under	<self>
+PLAIN	British	<self>
+PLAIN	fire	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	four	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	attackers	<self>
+PLAIN	were	<self>
+PLAIN	hit	<self>
+PUNCT	,	sil
+PLAIN	including	<self>
+PLAIN	Feinstein	<self>
+PUNCT	,	sil
+PLAIN	whose	<self>
+PLAIN	left	<self>
+PLAIN	arm	<self>
+PLAIN	was	<self>
+PLAIN	shattered	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	play	<self>
+PLAIN	was	<self>
+PLAIN	printed	<self>
+PLAIN	in	<self>
+DATE	1543	fifteen forty three
+PUNCT	,	sil
+PLAIN	with	<self>
+PLAIN	several	<self>
+PLAIN	additions	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	reader's	<self>
+PLAIN	benefit	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	song	<self>
+PLAIN	is	<self>
+PLAIN	about	<self>
+PLAIN	Pausini's	<self>
+PLAIN	will	<self>
+PLAIN	to	<self>
+PLAIN	look	<self>
+PLAIN	inside	<self>
+PLAIN	herself	<self>
+PLAIN	and	<self>
+PLAIN	not	<self>
+PLAIN	to	<self>
+PLAIN	lose	<self>
+PLAIN	self	<self>
+PLAIN	confidence	<self>
+PLAIN	even	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	darkest	<self>
+PLAIN	moments	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	has	<self>
+PLAIN	two	<self>
+PLAIN	children	<self>
+PLAIN	by	<self>
+PLAIN	his	<self>
+PLAIN	first	<self>
+PLAIN	marriage	<self>
+PUNCT	,	sil
+PLAIN	to	<self>
+PLAIN	Dorothy	<self>
+PLAIN	Moore	<self>
+PLAIN	Cash	<self>
+PUNCT	,	sil
+PLAIN	now	<self>
+PLAIN	Romni	<self>
+PLAIN	Cash	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Deborah	<self>
+PLAIN	Bulkeley	<self>
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	st	saint
+PLAIN	George	<self>
+PLAIN	growth	<self>
+ORDINAL	2nd	second
+PLAIN	fastest	<self>
+PLAIN	in	<self>
+LETTERS	U.S.	u s
+PUNCT	"	sil
+PUNCT	,	sil
+PLAIN	Deseret	<self>
+PLAIN	Morning	<self>
+PLAIN	NewsAmerican	<self>
+PLAIN	FactFinder	<self>
+PUNCT	,	sil
+PLAIN	United	<self>
+PLAIN	States	<self>
+PLAIN	Census	<self>
+PLAIN	Bureau	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	After	<self>
+PLAIN	their	<self>
+PLAIN	escape	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	British	<self>
+PLAIN	attempted	<self>
+PLAIN	to	<self>
+PLAIN	remove	<self>
+PLAIN	the	<self>
+PLAIN	suitcase	<self>
+PLAIN	bombs	<self>
+PLAIN	they	<self>
+PLAIN	had	<self>
+PLAIN	abandoned	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Volume	<self>
+CARDINAL	58	fifty eight
+VERBATIM	pp	p p
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	county	<self>
+PLAIN	has	<self>
+PLAIN	an	<self>
+PLAIN	abundance	<self>
+PLAIN	of	<self>
+PLAIN	deer	<self>
+PLAIN	and	<self>
+PLAIN	wild	<self>
+PLAIN	turkeys	<self>
+PUNCT	,	sil
+PLAIN	making	<self>
+PLAIN	it	<self>
+PLAIN	an	<self>
+PLAIN	attraction	<self>
+PLAIN	for	<self>
+PLAIN	hunters	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	10 August 2014	the tenth of august twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	new	<self>
+PLAIN	Pink	<self>
+PLAIN	Spiders	<self>
+PLAIN	completed	<self>
+PLAIN	the	<self>
+PLAIN	Tapped	<self>
+PLAIN	Kegs	<self>
+PUNCT	,	sil
+PLAIN	Spread	<self>
+PLAIN	Legs	<self>
+PUNCT	,	sil
+VERBATIM	&	and
+PLAIN	Fertilized	<self>
+PLAIN	Eggs	<self>
+PLAIN	tour	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Why	<self>
+PLAIN	London's	<self>
+PLAIN	beekeepers	<self>
+PLAIN	are	<self>
+PLAIN	a	<self>
+PLAIN	growing	<self>
+PLAIN	band	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Three	<self>
+PLAIN	dead	<self>
+PLAIN	as	<self>
+PLAIN	Greece	<self>
+PLAIN	protest	<self>
+PLAIN	turns	<self>
+PLAIN	violent	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Turbo	<self>
+PLAIN	speed	<self>
+PLAIN	and	<self>
+PLAIN	sturdy	<self>
+PLAIN	armor	<self>
+PLAIN	make	<self>
+PLAIN	the	<self>
+PLAIN	Apharmd	<self>
+PLAIN	droid	<self>
+PLAIN	a	<self>
+PLAIN	force	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	reckoned	<self>
+PLAIN	with	<self>
+PLAIN	on	<self>
+PLAIN	any	<self>
+PLAIN	battleground	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	June 4, 2015	june fourth twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Hatairat	<self>
+PLAIN	shocked	<self>
+PLAIN	and	<self>
+PLAIN	travel	<self>
+PLAIN	on	<self>
+PLAIN	a	<self>
+PLAIN	plane	<self>
+PLAIN	to	<self>
+PLAIN	meet	<self>
+PLAIN	him	<self>
+PLAIN	immediately	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Yearbook	<self>
+PLAIN	of	<self>
+PLAIN	International	<self>
+PLAIN	Humanitarian	<self>
+PLAIN	Law	<self>
+VERBATIM	-	sil
+DATE	2003	two thousand three
+PUNCT	,	sil
+PLAIN	Volume	<self>
+CARDINAL	6	six
+PUNCT	;	sil
+PLAIN	Volume	<self>
+DATE	2003	two thousand three
+PUNCT	,	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Order	<self>
+PLAIN	of	<self>
+PLAIN	Friars	<self>
+PLAIN	Minor	<self>
+PUNCT	(	sil
+LETTERS	O.F.M.	o f m
+PUNCT	)	sil
+PUNCT	:	sil
+CARDINAL	2,212	two thousand two hundred twelve
+PLAIN	communities	<self>
+PUNCT	;	sil
+CARDINAL	14,123	fourteen thousand one hundred twenty three
+PLAIN	members	<self>
+PUNCT	;	sil
+CARDINAL	9,735	nine thousand seven hundred thirty five
+PLAIN	priestsFranciscan	<self>
+PLAIN	Order	<self>
+PLAIN	of	<self>
+PLAIN	Friars	<self>
+PLAIN	Minor	<self>
+PLAIN	Conventual	<self>
+PUNCT	(	sil
+LETTERS	O.F.M.	o f m
+LETTERS	Conv	c o n v
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	His	<self>
+PLAIN	older	<self>
+PLAIN	brother	<self>
+PUNCT	,	sil
+PLAIN	Onay	<self>
+PLAIN	Pineda	<self>
+PUNCT	,	sil
+PLAIN	is	<self>
+PLAIN	also	<self>
+PLAIN	a	<self>
+PLAIN	professional	<self>
+PLAIN	footballer	<self>
+PLAIN	who	<self>
+PLAIN	currently	<self>
+PLAIN	plays	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	defender	<self>
+PLAIN	for	<self>
+PLAIN	Cafetaleros	<self>
+PLAIN	de	<self>
+PLAIN	Tapachula	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	was	<self>
+PLAIN	shown	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	unrealistic	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	Isambard	<self>
+PLAIN	Kingdom	<self>
+PLAIN	Brunel	<self>
+PLAIN	was	<self>
+PLAIN	called	<self>
+PLAIN	in	<self>
+PLAIN	to	<self>
+PLAIN	resolve	<self>
+PLAIN	the	<self>
+PLAIN	difficulty	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	There	<self>
+PLAIN	are	<self>
+PLAIN	several	<self>
+PLAIN	methods	<self>
+PLAIN	of	<self>
+PLAIN	constructing	<self>
+PLAIN	dry	<self>
+PLAIN	stone	<self>
+PLAIN	walls	<self>
+PUNCT	,	sil
+PLAIN	depending	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	quantity	<self>
+PLAIN	and	<self>
+PLAIN	type	<self>
+PLAIN	of	<self>
+PLAIN	stones	<self>
+PLAIN	available	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Niccolo	<self>
+PLAIN	Agliardi	<self>
+PLAIN	al	<self>
+PLAIN	lavoro	<self>
+PLAIN	per	<self>
+PLAIN	il	<self>
+PLAIN	nuovo	<self>
+PLAIN	album	<self>
+PLAIN	di	<self>
+PLAIN	Laura	<self>
+PLAIN	Pausini	<self>
+PUNCT	"	sil
+PUNCT	(	sil
+PLAIN	in	<self>
+PLAIN	Italian	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Black	<self>
+PLAIN	and	<self>
+PLAIN	White	<self>
+PLAIN	Reversal	<self>
+PLAIN	Film	<self>
+PUNCT	:	sil
+PLAIN	KODAK	<self>
+PLAIN	PLUS	<self>
+PLAIN	X	<self>
+PLAIN	Reversal	<self>
+PLAIN	Film	<self>
+CARDINAL	7265	seven thousand two hundred sixty five
+PUNCT	(	sil
+MEASURE	16 mm	sixteen millimeters
+PUNCT	)	sil
+PLAIN	Technical	<self>
+PLAIN	Data	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Effective	<self>
+DATE	11 February 2010	the eleventh of february twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	On	<self>
+DATE	4 September 1998	the fourth of september nineteen ninety eight
+PLAIN	it	<self>
+PLAIN	gave	<self>
+PLAIN	its	<self>
+PLAIN	first	<self>
+PLAIN	concert	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	United	<self>
+PLAIN	States	<self>
+PUNCT	,	sil
+PLAIN	at	<self>
+PLAIN	the	<self>
+PLAIN	Orange	<self>
+PLAIN	County	<self>
+PLAIN	Performing	<self>
+PLAIN	Arts	<self>
+PLAIN	Center	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	What	<self>
+PLAIN	controls	<self>
+PLAIN	the	<self>
+PLAIN	Z	<self>
+VERBATIM	-	sil
+PLAIN	gradt	<self>
+PLAIN	is	<self>
+PLAIN	unknown	<self>
+PUNCT	,	sil
+PLAIN	but	<self>
+PLAIN	appears	<self>
+PLAIN	determined	<self>
+PLAIN	to	<self>
+PLAIN	prevent	<self>
+PLAIN	humanity	<self>
+PLAIN	from	<self>
+PLAIN	using	<self>
+PLAIN	the	<self>
+PLAIN	moongate	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Corriere	<self>
+PLAIN	della	<self>
+PLAIN	Sera	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Scott	<self>
+PUNCT	,	sil
+PLAIN	Derek	<self>
+PUNCT	(	sil
+DATE	Apr 22, 2010	april twenty second twenty ten
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	bullets	<self>
+PUNCT	,	sil
+PLAIN	always	<self>
+PLAIN	separated	<self>
+PUNCT	,	sil
+PLAIN	smelled	<self>
+PLAIN	all	<self>
+PLAIN	the	<self>
+PLAIN	things	<self>
+PLAIN	kept	<self>
+PLAIN	there	<self>
+PLAIN	by	<self>
+PLAIN	my	<self>
+PLAIN	mother	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Neoliberalisme	<self>
+PUNCT	:	sil
+PLAIN	de	<self>
+PLAIN	ideale	<self>
+PLAIN	zondebok	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Berger	<self>
+PUNCT	,	sil
+PLAIN	Crystal	<self>
+PUNCT	(	sil
+DATE	11 December 2015	the eleventh of december twenty fifteen
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Scott	<self>
+PLAIN	Horton	<self>
+PUNCT	(	sil
+DATE	April 2, 2007	april second two thousand seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	United	<self>
+PLAIN	States	<self>
+PLAIN	Environmental	<self>
+PLAIN	Protection	<self>
+PLAIN	Agency	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	is	<self>
+PLAIN	compared	<self>
+PLAIN	with	<self>
+DECIMAL	598.8	five hundred ninety eight point eight
+PLAIN	in	<self>
+DATE	2008	two thousand eight
+PLAIN	and	<self>
+CARDINAL	385	three hundred eighty five
+PLAIN	in	<self>
+DATE	1990	nineteen ninety
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Tying	<self>
+PLAIN	the	<self>
+PLAIN	knot	<self>
+PUNCT	:	sil
+PLAIN	Tips	<self>
+PLAIN	for	<self>
+PLAIN	engaged	<self>
+PLAIN	couples	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Encyclopedia	<self>
+PLAIN	of	<self>
+PLAIN	Antislavery	<self>
+PLAIN	and	<self>
+PLAIN	Abolition	<self>
+PUNCT	(	sil
+CARDINAL	2	two
+PLAIN	vol	volume
+<eos>	<eos>
+PUNCT	"	sil
+LETTERS	GNIS	g n i s
+PLAIN	entry	<self>
+PLAIN	for	<self>
+PLAIN	Bridge	<self>
+PLAIN	Creek	<self>
+PUNCT	(	sil
+PLAIN	Feature	<self>
+LETTERS	ID	i d
+VERBATIM	#	number
+CARDINAL	1066093	one million sixty six thousand ninety three
+PUNCT	)	sil
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	After	<self>
+PLAIN	grade	<self>
+CARDINAL	7	seven
+PUNCT	,	sil
+PLAIN	pupils	<self>
+PLAIN	must	<self>
+PLAIN	take	<self>
+PLAIN	standardised	standardized
+PLAIN	national	<self>
+PLAIN	exams	<self>
+PLAIN	to	<self>
+PLAIN	enter	<self>
+PLAIN	secondary	<self>
+PLAIN	school	<self>
+PUNCT	,	sil
+PLAIN	which	<self>
+PLAIN	runs	<self>
+PLAIN	from	<self>
+PLAIN	eighth	<self>
+PLAIN	to	<self>
+ORDINAL	10th	tenth
+PLAIN	grade	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	As	<self>
+PLAIN	a	<self>
+PLAIN	result	<self>
+PUNCT	,	sil
+PLAIN	it	<self>
+PLAIN	pales	<self>
+PLAIN	in	<self>
+PLAIN	comparison	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	newer	<self>
+PLAIN	generation	<self>
+LETTERS	VR	v r
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	1 February 2010	the first of february twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	poster	<self>
+PLAIN	boy	<self>
+PLAIN	was	<self>
+PLAIN	Victor	<self>
+PLAIN	Torres	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	During	<self>
+PLAIN	these	<self>
+PLAIN	years	<self>
+PLAIN	the	<self>
+PLAIN	building	<self>
+PLAIN	was	<self>
+PLAIN	variously	<self>
+PLAIN	extended	<self>
+PLAIN	and	<self>
+PLAIN	modified	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	1 February 2010	the first of february twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Step	<self>
+PLAIN	growth	<self>
+PLAIN	polymerization	<self>
+PLAIN	is	<self>
+PLAIN	most	<self>
+PLAIN	affected	<self>
+PLAIN	by	<self>
+PLAIN	reactor	<self>
+PLAIN	type	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Traughber	<self>
+PUNCT	,	sil
+PLAIN	Bill	<self>
+PUNCT	(	sil
+DATE	August 7, 2006	august seventh two thousand six
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	They	<self>
+PLAIN	came	<self>
+PLAIN	in	<self>
+PLAIN	different	<self>
+PLAIN	variants	<self>
+PLAIN	and	<self>
+PLAIN	were	<self>
+PLAIN	also	<self>
+PLAIN	worn	<self>
+PLAIN	during	<self>
+PLAIN	the	<self>
+PLAIN	Algerian	<self>
+PLAIN	war	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	teleoconch	<self>
+PLAIN	contains	<self>
+CARDINAL	11	eleven
+PLAIN	straight	<self>
+PLAIN	and	<self>
+PLAIN	smooth	<self>
+PLAIN	whorls	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Shake	<self>
+PLAIN	Some	<self>
+PLAIN	Action	<self>
+PUNCT	:	sil
+PLAIN	The	<self>
+PLAIN	Ultimate	<self>
+PLAIN	Power	<self>
+PLAIN	Pop	<self>
+PLAIN	Guide	<self>
+PUNCT	—	sil
+PLAIN	Albums	<self>
+PLAIN	From	<self>
+PLAIN	the	<self>
+PLAIN	List	<self>
+PLAIN	That	<self>
+PLAIN	I	<self>
+PLAIN	Own	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	wearer	<self>
+PLAIN	will	<self>
+PLAIN	also	<self>
+PLAIN	get	<self>
+PLAIN	damp	<self>
+PLAIN	due	<self>
+PLAIN	to	<self>
+PLAIN	sweat	<self>
+PLAIN	and	<self>
+PLAIN	condensation	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	That	<self>
+PLAIN	creature	<self>
+PLAIN	is	<self>
+PLAIN	us	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Stuart	<self>
+PLAIN	conceived	<self>
+PLAIN	installing	<self>
+PLAIN	battery	<self>
+PLAIN	operated	<self>
+PLAIN	real	<self>
+PLAIN	time	<self>
+PLAIN	clocks	<self>
+PLAIN	into	<self>
+PLAIN	computers	<self>
+PUNCT	,	sil
+PLAIN	for	<self>
+PLAIN	which	<self>
+PLAIN	he	<self>
+PLAIN	received	<self>
+PLAIN	royalties	<self>
+PLAIN	until	<self>
+PLAIN	nearly	<self>
+DATE	2000	two thousand
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Cambridge	<self>
+PLAIN	University	<self>
+PLAIN	Press	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	April 29, 2014	april twenty ninth twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	As	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+DATE	2010	twenty ten
+PLAIN	census	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	population	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	city	<self>
+PLAIN	was	<self>
+CARDINAL	3,003	three thousand three
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	position	<self>
+PLAIN	remained	<self>
+PLAIN	vacant	<self>
+PLAIN	between	<self>
+PLAIN	January	<self>
+PLAIN	and	<self>
+PLAIN	November	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Gorman	<self>
+PLAIN	D	<self>
+PUNCT	,	sil
+PLAIN	Drewry	<self>
+PLAIN	A	<self>
+PUNCT	,	sil
+PLAIN	Huang	<self>
+LETTERS	YL	y l
+PUNCT	,	sil
+PLAIN	Sames	<self>
+PLAIN	C	<self>
+PUNCT	(	sil
+DATE	May 2003	may two thousand three
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Apart	<self>
+PLAIN	from	<self>
+PLAIN	agriculture	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	industry	<self>
+PLAIN	of	<self>
+PLAIN	saddle	<self>
+PLAIN	making	<self>
+PUNCT	,	sil
+PLAIN	knapsack	<self>
+PLAIN	making	<self>
+PLAIN	and	<self>
+PLAIN	hat	<self>
+PLAIN	weaving	<self>
+PLAIN	existed	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	List	<self>
+PLAIN	of	<self>
+PLAIN	species	<self>
+PLAIN	of	<self>
+PLAIN	southern	<self>
+PLAIN	African	<self>
+PLAIN	plants	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Presidency	<self>
+PLAIN	armies	<self>
+PLAIN	were	<self>
+PLAIN	abolished	<self>
+PLAIN	with	<self>
+PLAIN	effect	<self>
+PLAIN	from	<self>
+DATE	1 April 1895	the first of april eighteen ninety five
+PLAIN	when	<self>
+PLAIN	the	<self>
+PLAIN	three	<self>
+PLAIN	Presidency	<self>
+PLAIN	armies	<self>
+PLAIN	became	<self>
+PLAIN	the	<self>
+PLAIN	Indian	<self>
+PLAIN	Army	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Fairfield	<self>
+PLAIN	Creek	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	stream	<self>
+PLAIN	in	<self>
+PLAIN	Douglas	<self>
+PLAIN	County	<self>
+PUNCT	,	sil
+PLAIN	in	<self>
+PLAIN	the	<self>
+LETTERS	U.S.	u s
+PLAIN	state	<self>
+PLAIN	of	<self>
+PLAIN	Minnesota	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Spring	<self>
+PLAIN	Training	<self>
+PLAIN	Report	<self>
+PUNCT	:	sil
+PLAIN	Baltimore	<self>
+PLAIN	Orioles	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	These	<self>
+PLAIN	mammals	<self>
+PLAIN	were	<self>
+PLAIN	suspected	<self>
+PLAIN	of	<self>
+PLAIN	flying	<self>
+PLAIN	through	<self>
+PLAIN	the	<self>
+PLAIN	nearby	<self>
+PLAIN	forests	<self>
+PLAIN	because	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	catching	<self>
+PLAIN	that	<self>
+PLAIN	lasted	<self>
+PLAIN	until	<self>
+DATE	1930	nineteen thirty
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Cost	<self>
+PUNCT	,	sil
+PLAIN	complexity	<self>
+PLAIN	kills	<self>
+PLAIN	Quadrasteer	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	October 18, 2011	october eighteenth twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	was	<self>
+PLAIN	listed	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	historical	<self>
+PLAIN	monument	<self>
+PLAIN	on	<self>
+DATE	30 January 1990	the thirtieth of january nineteen ninety
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Bethell	<self>
+PUNCT	,	sil
+PLAIN	Leslie	<self>
+PUNCT	,	sil
+PLAIN	The	<self>
+PLAIN	Paraguayan	<self>
+PLAIN	War	<self>
+PUNCT	(	sil
+DATE	1864	eighteen sixty four
+PLAIN	-	to
+DATE	1870	eighteen seventy
+PUNCT	,	sil
+PLAIN	Institute	<self>
+PLAIN	of	<self>
+PLAIN	Latin	<self>
+PLAIN	American	<self>
+PLAIN	Studies	<self>
+PUNCT	,	sil
+DATE	1996	nineteen ninety six
+PUNCT	,	sil
+PLAIN	p	<self>
+DECIMAL	.6	point six
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Wyson	<self>
+PLAIN	lies	<self>
+PLAIN	just	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	west	<self>
+PLAIN	of	<self>
+PLAIN	Brimfield	<self>
+PLAIN	and	<self>
+PLAIN	is	<self>
+PLAIN	part	<self>
+PLAIN	of	<self>
+PLAIN	its	<self>
+PLAIN	civil	<self>
+PLAIN	parish	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Brown	<self>
+PUNCT	,	sil
+PLAIN	William	<self>
+LETTERS	H.	h
+PUNCT	;	sil
+PLAIN	Foote	<self>
+PUNCT	,	sil
+PLAIN	Christopher	<self>
+LETTERS	S.	s
+PUNCT	;	sil
+PLAIN	Iverson	<self>
+PUNCT	,	sil
+PLAIN	Brent	<self>
+LETTERS	L.	l
+PUNCT	;	sil
+PLAIN	Anslyn	<self>
+PUNCT	,	sil
+PLAIN	Eric	<self>
+ORDINAL	V.	the fifth
+PUNCT	(	sil
+DATE	2012	twenty twelve
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Province	<self>
+PLAIN	of	<self>
+PLAIN	Pangasinan	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Foley	<self>
+PLAIN	Wins	<self>
+LETTERS	G.O.P.	g o p
+PLAIN	Primary	<self>
+PLAIN	for	<self>
+PLAIN	Governor	<self>
+PLAIN	in	<self>
+PLAIN	Connecticut	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Other	<self>
+PLAIN	reasons	<self>
+PLAIN	include	<self>
+PLAIN	use	<self>
+PLAIN	in	<self>
+PLAIN	ceremonies	<self>
+PLAIN	and	<self>
+PLAIN	as	<self>
+PLAIN	gifts	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	May 16, 2014	may sixteenth twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Military	<self>
+PLAIN	Boots	<self>
+PLAIN	Blog	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	June 6, 2013	june sixth twenty thirteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	United	<self>
+PLAIN	States	<self>
+PLAIN	Census	<self>
+PLAIN	Bureau	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	12 July 2011	the twelfth of july twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Chicken	<self>
+PLAIN	owners	<self>
+PLAIN	have	<self>
+PLAIN	found	<self>
+PLAIN	many	<self>
+PLAIN	different	<self>
+PLAIN	ways	<self>
+PLAIN	of	<self>
+PLAIN	protecting	<self>
+PLAIN	chickens	<self>
+PLAIN	from	<self>
+PLAIN	predators	<self>
+PLAIN	without	<self>
+PLAIN	significant	<self>
+PLAIN	impact	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	area	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Public	<self>
+PLAIN	of	<self>
+PLAIN	Adygeya	<self>
+PLAIN	consider	<self>
+PLAIN	it	<self>
+PLAIN	necessary	<self>
+PLAIN	to	<self>
+PLAIN	recognize	<self>
+PLAIN	the	<self>
+PLAIN	Circassian	<self>
+PLAIN	genocide	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Ilie	<self>
+PLAIN	Codreanu	<self>
+PUNCT	(	sil
+PLAIN	born	<self>
+DATE	22 October 1948	the twenty second of october nineteen forty eight
+PUNCT	)	sil
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	Romanian	<self>
+PLAIN	former	<self>
+PLAIN	sport	<self>
+PLAIN	shooter	<self>
+PLAIN	who	<self>
+PLAIN	competed	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+DATE	1972	nineteen seventy two
+PLAIN	Summer	<self>
+PLAIN	Olympics	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Archived	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	on	<self>
+DATE	2012-05-12	the twelfth of may twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Federation	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Italian	<self>
+PLAIN	Music	<self>
+PLAIN	Industry	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	is	<self>
+PLAIN	also	<self>
+PLAIN	unwillingly	<self>
+PLAIN	followed	<self>
+PLAIN	by	<self>
+PLAIN	Carter	<self>
+PLAIN	Baizen	<self>
+PUNCT	(	sil
+PLAIN	Sebastian	<self>
+PLAIN	Stan	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Huawei	<self>
+PLAIN	registers	<self>
+PUNCT	'	sil
+PLAIN	groufie	<self>
+PUNCT	'	sil
+PLAIN	trademark	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Oregon	<self>
+PLAIN	State	<self>
+PLAIN	Beavers	<self>
+PLAIN	basketball	<self>
+PUNCT	:	sil
+PLAIN	Stanford	<self>
+PLAIN	beats	<self>
+PLAIN	OSU	<self>
+PLAIN	in	<self>
+DIGIT	4-	four
+LETTERS	OT	o t
+PLAIN	thriller	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Beyond	<self>
+PLAIN	this	<self>
+PLAIN	the	<self>
+PLAIN	Liskeard	<self>
+PLAIN	and	<self>
+PLAIN	Caradon	<self>
+PLAIN	Railway	<self>
+PLAIN	used	<self>
+PLAIN	to	<self>
+PLAIN	rise	<self>
+PLAIN	up	<self>
+PLAIN	onto	<self>
+PLAIN	the	<self>
+PLAIN	hills	<self>
+PLAIN	to	<self>
+PLAIN	serve	<self>
+PLAIN	various	<self>
+PLAIN	granite	<self>
+PLAIN	quarries	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Carrie	<self>
+PUNCT	,	sil
+PLAIN	Vince	<self>
+PLAIN	and	<self>
+PLAIN	Others	<self>
+PLAIN	Go	<self>
+PLAIN	to	<self>
+PLAIN	Bat	<self>
+PLAIN	for	<self>
+PLAIN	Charity	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	the	<self>
+DATE	1930s	nineteen thirties
+PUNCT	,	sil
+PLAIN	Pocock	<self>
+PLAIN	reviewed	<self>
+PLAIN	the	<self>
+PLAIN	jungle	<self>
+PLAIN	cat	<self>
+PLAIN	skins	<self>
+PLAIN	and	<self>
+PLAIN	skulls	<self>
+PLAIN	from	<self>
+PLAIN	British	<self>
+PLAIN	India	<self>
+PLAIN	and	<self>
+PLAIN	adjacent	<self>
+PLAIN	countries	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Many	<self>
+PLAIN	players	<self>
+PLAIN	signed	<self>
+PLAIN	with	<self>
+PLAIN	teams	<self>
+PLAIN	from	<self>
+PLAIN	other	<self>
+PLAIN	leagues	<self>
+PLAIN	due	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+DATE	2011	twenty eleven
+LETTERS	NBA	n b a
+PLAIN	lockout	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	addition	<self>
+PLAIN	to	<self>
+PLAIN	writing	<self>
+PLAIN	literary	<self>
+PLAIN	fiction	<self>
+PUNCT	,	sil
+PLAIN	he	<self>
+PLAIN	has	<self>
+PLAIN	worked	<self>
+PLAIN	on	<self>
+PLAIN	various	<self>
+PLAIN	projects	<self>
+PLAIN	for	<self>
+PLAIN	German	<self>
+PLAIN	television	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	was	<self>
+PLAIN	rebuilt	<self>
+PLAIN	by	<self>
+PLAIN	raising	<self>
+PLAIN	the	<self>
+PLAIN	piers	<self>
+PLAIN	and	<self>
+PLAIN	replacing	<self>
+PLAIN	the	<self>
+PLAIN	timber	<self>
+PLAIN	with	<self>
+PLAIN	iron	<self>
+PLAIN	girders	<self>
+PLAIN	on	<self>
+DATE	16 January 1886	the sixteenth of january eighteen eighty six
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Its	<self>
+PLAIN	flagship	<self>
+PLAIN	paper	<self>
+PLAIN	is	<self>
+PLAIN	The	<self>
+PLAIN	Bulletin	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	March 20, 2011	march twentieth twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Selfie	<self>
+PLAIN	posting	<self>
+PLAIN	behaviors	<self>
+PLAIN	are	<self>
+PLAIN	associated	<self>
+PLAIN	with	<self>
+PLAIN	narcissism	<self>
+PLAIN	among	<self>
+PLAIN	men	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Maurer	<self>
+PUNCT	,	sil
+PLAIN	Maurer	<self>
+PUNCT	,	sil
+PLAIN	ed	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kondolojy	<self>
+PUNCT	,	sil
+PLAIN	Amanda	<self>
+PUNCT	(	sil
+DATE	May 8, 2014	may eighth twenty fourteen
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Urban	<self>
+PLAIN	climatology	<self>
+PLAIN	came	<self>
+PLAIN	about	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	methodology	<self>
+PLAIN	for	<self>
+PLAIN	studying	<self>
+PLAIN	the	<self>
+PLAIN	results	<self>
+PLAIN	of	<self>
+PLAIN	industrialization	<self>
+PLAIN	and	<self>
+PLAIN	urbanization	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Aliy	<self>
+PLAIN	Berzegov	<self>
+PUNCT	(	sil
+DATE	12 June 2008	the twelfth of june two thousand eight
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Times	<self>
+PLAIN	of	<self>
+PLAIN	India	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	But	<self>
+PLAIN	did	<self>
+PLAIN	he	<self>
+PLAIN	receive	<self>
+PLAIN	a	<self>
+PLAIN	doctor's	<self>
+PLAIN	degree	<self>
+PUNCT	?	sil
+<eos>	<eos>
+PLAIN	Calabria	<self>
+PUNCT	,	sil
+PLAIN	Rosario	<self>
+PUNCT	(	sil
+DATE	September 22, 2009	september twenty second two thousand nine
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Liberty	<self>
+PLAIN	Hall	<self>
+PUNCT	,	sil
+PLAIN	Oxon	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PUNCT	:	sil
+PLAIN	MolluscaBase	<self>
+PUNCT	(	sil
+DATE	2015	twenty fifteen
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+DATE	February 3, 2012	february third twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Confinement	<self>
+PLAIN	of	<self>
+PLAIN	Quarks	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	13 June 2012	the thirteenth of june twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	was	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	member	<self>
+PLAIN	of	<self>
+PLAIN	this	<self>
+PLAIN	band	<self>
+PLAIN	that	<self>
+PLAIN	he	<self>
+PLAIN	first	<self>
+PLAIN	had	<self>
+PLAIN	his	<self>
+PLAIN	desire	<self>
+PLAIN	to	<self>
+PLAIN	study	<self>
+PLAIN	music	<self>
+PLAIN	kindled	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Republican	<self>
+PUNCT	(	sil
+PLAIN	MassLive	<self>
+LETTERS	LLC	l l c
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	From	<self>
+PLAIN	this	<self>
+PLAIN	information	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	visual	<self>
+PLAIN	system	<self>
+PLAIN	attempts	<self>
+PLAIN	to	<self>
+PLAIN	determine	<self>
+PLAIN	the	<self>
+PLAIN	approximate	<self>
+PLAIN	composition	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	illuminating	<self>
+PLAIN	light	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Allen	<self>
+PUNCT	,	sil
+LETTERS	J.A.	j a
+PUNCT	(	sil
+DATE	1920	nineteen twenty
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Khiem	<self>
+PLAIN	and	<self>
+PLAIN	Kim	<self>
+PLAIN	Sung	<self>
+PLAIN	soo	<self>
+PUNCT	:	sil
+PLAIN	Crime	<self>
+PUNCT	,	sil
+PLAIN	Concealment	<self>
+PLAIN	and	<self>
+PLAIN	South	<self>
+PLAIN	Korea	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	was	<self>
+PLAIN	released	<self>
+PLAIN	to	<self>
+PLAIN	radio	<self>
+PLAIN	stations	<self>
+PLAIN	on	<self>
+DATE	June 23, 2009	june twenty third two thousand nine
+PLAIN	and	<self>
+PLAIN	also	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	digital	<self>
+PLAIN	download	<self>
+PLAIN	on	<self>
+PLAIN	Chevelle's	<self>
+PLAIN	website	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Milepost	<self>
+DECIMAL	309.5	three hundred nine point five
+PUNCT	,	sil
+DECIMAL	0.25	zero point two five
+VERBATIM	-	sil
+PLAIN	mile	<self>
+PUNCT	(	sil
+MEASURE	0.4 km	zero point four kilometers
+PUNCT	)	sil
+PLAIN	south	<self>
+PLAIN	of	<self>
+PLAIN	Penryn	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Avner	<self>
+PLAIN	was	<self>
+PLAIN	killed	<self>
+PLAIN	during	<self>
+PLAIN	a	<self>
+PLAIN	training	<self>
+PLAIN	flight	<self>
+PLAIN	in	<self>
+PLAIN	Romania	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	2010	twenty ten
+PUNCT	,	sil
+PLAIN	to	<self>
+PLAIN	study	<self>
+PLAIN	in	<self>
+PLAIN	Russia	<self>
+PLAIN	for	<self>
+PLAIN	state	<self>
+PLAIN	scholarships	<self>
+PLAIN	were	<self>
+PLAIN	sent	<self>
+CARDINAL	25	twenty five
+PLAIN	students	<self>
+PLAIN	from	<self>
+PLAIN	Mozambique	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	23 January 2010	the twenty third of january twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Mild	<self>
+PLAIN	winters	<self>
+PLAIN	and	<self>
+PLAIN	sub	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Conservative	<self>
+PLAIN	candidate	<self>
+PUNCT	,	sil
+PLAIN	Maurice	<self>
+PLAIN	Macmillan	<self>
+PUNCT	,	sil
+PLAIN	was	<self>
+PLAIN	the	<self>
+PLAIN	son	<self>
+PLAIN	of	<self>
+PLAIN	then	<self>
+PLAIN	Minister	<self>
+PLAIN	of	<self>
+PLAIN	Defence	<self>
+PLAIN	and	<self>
+PLAIN	future	<self>
+PLAIN	Prime	<self>
+PLAIN	Minister	<self>
+PLAIN	Harold	<self>
+PLAIN	Macmillan	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Usually	<self>
+PLAIN	episodes	<self>
+PLAIN	begin	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	morning	<self>
+PLAIN	with	<self>
+PLAIN	breakfast	<self>
+PUNCT	,	sil
+PLAIN	occasionally	<self>
+PLAIN	brunch	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Montastraea	<self>
+PLAIN	faveolata	<self>
+PUNCT	(	sil
+PLAIN	Ellis	<self>
+DATE	1786	seventeen eighty six
+PUNCT	)	sil
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Mines	<self>
+PLAIN	and	<self>
+PLAIN	Geology	<self>
+PLAIN	Bull	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	biggest	<self>
+PLAIN	shareholder	<self>
+PLAIN	is	<self>
+PLAIN	Petroleos	<self>
+PLAIN	de	<self>
+PLAIN	Mocambique	<self>
+PUNCT	(	sil
+PLAIN	Petromoc	<self>
+PUNCT	)	sil
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	stake	<self>
+PLAIN	of	<self>
+MEASURE	40%	forty percent
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	municipality	<self>
+PLAIN	covers	<self>
+PLAIN	an	<self>
+PLAIN	area	<self>
+PLAIN	of	<self>
+MEASURE	37.56 km²	thirty seven point five six square kilometers
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Due	<self>
+PLAIN	to	<self>
+PLAIN	a	<self>
+PLAIN	malaria	<self>
+PLAIN	epidemic	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	Adyghe	<self>
+PLAIN	settlement	<self>
+PLAIN	near	<self>
+PLAIN	Hadera	<self>
+PLAIN	was	<self>
+PLAIN	eventually	<self>
+PLAIN	abandoned	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Dawson	<self>
+PUNCT	,	sil
+LETTERS	J. P.	j p
+DATE	2006	two thousand six
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	TV	t v
+PLAIN	Media	<self>
+PLAIN	Insights	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Christianity	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	popular	<self>
+PLAIN	religion	<self>
+PLAIN	among	<self>
+PLAIN	ethnic	<self>
+PLAIN	Koreans	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	International	<self>
+PLAIN	Rowing	<self>
+PLAIN	Federation	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Pillai	<self>
+PUNCT	,	sil
+PLAIN	Shreedhar	<self>
+PUNCT	(	sil
+DATE	19 February 2004	the nineteenth of february two thousand four
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Song	<self>
+LETTERS	KJ	k j
+PUNCT	,	sil
+PLAIN	Shin	<self>
+LETTERS	SD	s d
+PUNCT	,	sil
+PLAIN	Cone	<self>
+LETTERS	DC	d c
+PUNCT	(	sil
+DATE	September 2009	september two thousand nine
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Visual	<self>
+PLAIN	Taxometric	<self>
+PLAIN	Approach	<self>
+PLAIN	to	<self>
+PLAIN	Image	<self>
+PLAIN	Segmentation	<self>
+PLAIN	Using	<self>
+PLAIN	Fuzzy	<self>
+PLAIN	Spatial	<self>
+PLAIN	Taxon	<self>
+PLAIN	Cut	<self>
+PLAIN	Yields	<self>
+PLAIN	Contextually	<self>
+PLAIN	Relevant	<self>
+PLAIN	Regions	<self>
+PUNCT	.	sil
+PUNCT	"	sil
+<eos>	<eos>
+PLAIN	Neiman	<self>
+PLAIN	M	<self>
+PUNCT	,	sil
+PLAIN	Hedberg	<self>
+LETTERS	JJ	j j
+PUNCT	,	sil
+PLAIN	Donnes	<self>
+LETTERS	PR	p r
+PUNCT	,	sil
+PLAIN	Schuppe	<self>
+PLAIN	Koistinen	<self>
+PLAIN	I	<self>
+PUNCT	,	sil
+PLAIN	Hanschke	<self>
+PLAIN	S	<self>
+PUNCT	,	sil
+PLAIN	Schindler	<self>
+PLAIN	R	<self>
+PUNCT	,	sil
+LETTERS	Uhlén	u h l e acute n
+PLAIN	M	<self>
+PUNCT	,	sil
+PLAIN	Schwenk	<self>
+LETTERS	JM	j m
+PUNCT	,	sil
+PLAIN	Nilsson	<self>
+PLAIN	P	<self>
+PUNCT	(	sil
+DATE	Nov 2011	november twenty eleven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	duty	<self>
+PLAIN	of	<self>
+PLAIN	a	<self>
+PLAIN	host	<self>
+PLAIN	extended	<self>
+PLAIN	even	<self>
+PLAIN	to	<self>
+PLAIN	abreks	<self>
+PLAIN	or	<self>
+PLAIN	outlaws	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Simon	<self>
+PLAIN	Fraser	<self>
+PLAIN	University	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	For	<self>
+PLAIN	Latin	<self>
+PLAIN	Americans	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	music	<self>
+PLAIN	is	<self>
+PLAIN	more	<self>
+PLAIN	Latin	<self>
+PLAIN	urban	<self>
+PUNCT	,	sil
+PLAIN	such	<self>
+PLAIN	as	<self>
+PLAIN	reggaeton	<self>
+PUNCT	,	sil
+PLAIN	Latin	<self>
+PLAIN	hip	<self>
+PLAIN	hop	<self>
+PLAIN	and	<self>
+PLAIN	bachaton	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	March 27, 2010	march twenty seventh twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	entry	<self>
+PLAIN	can	<self>
+PLAIN	be	<self>
+PLAIN	found	<self>
+PLAIN	here	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	amendment	<self>
+PLAIN	failed	<self>
+PLAIN	and	<self>
+PLAIN	Missouri	<self>
+PLAIN	became	<self>
+PLAIN	a	<self>
+PLAIN	slave	<self>
+PLAIN	state	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Reprinted	<self>
+PLAIN	in	<self>
+PLAIN	McCann	<self>
+PUNCT	,	sil
+PLAIN	vol	volume
+<eos>	<eos>
+PLAIN	Wilkins	<self>
+PLAIN	received	<self>
+PLAIN	his	<self>
+PLAIN	commission	<self>
+PLAIN	on	<self>
+DATE	December 27, 2010	december twenty seventh twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Alfredson	<self>
+PLAIN	is	<self>
+PLAIN	first	<self>
+PLAIN	listed	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	Queensland	<self>
+PLAIN	Country	<self>
+PLAIN	Post	<self>
+PLAIN	Office	<self>
+PLAIN	Directory	<self>
+PLAIN	of	<self>
+DATE	1939	nineteen thirty nine
+PUNCT	,	sil
+PLAIN	as	<self>
+PLAIN	a	<self>
+PUNCT	"	sil
+PLAIN	Joinery	<self>
+VERBATIM	&	and
+PLAIN	Cabinet	<self>
+PLAIN	Maker	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Such	<self>
+PLAIN	valleys	<self>
+PLAIN	do	<self>
+PLAIN	not	<self>
+PLAIN	hold	<self>
+PLAIN	surface	<self>
+PLAIN	water	<self>
+PLAIN	because	<self>
+PLAIN	it	<self>
+PLAIN	sinks	<self>
+PLAIN	into	<self>
+PLAIN	the	<self>
+PLAIN	permeable	<self>
+PLAIN	bedrock	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Other	<self>
+PLAIN	examples	<self>
+PLAIN	include	<self>
+PLAIN	the	<self>
+PLAIN	Alkham	<self>
+PLAIN	Valley	<self>
+PLAIN	near	<self>
+PLAIN	Dover	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	Hartley	<self>
+PLAIN	Bottom	<self>
+PLAIN	and	<self>
+PLAIN	Fawkham	<self>
+PLAIN	valleys	<self>
+PLAIN	near	<self>
+PLAIN	Dartford	<self>
+PLAIN	in	<self>
+PLAIN	north	<self>
+PLAIN	Kent	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	They	<self>
+PLAIN	are	<self>
+PLAIN	older	<self>
+PUNCT	,	sil
+PLAIN	but	<self>
+PLAIN	little	<self>
+PLAIN	wiser	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	They	<self>
+PLAIN	currently	<self>
+PLAIN	reside	<self>
+PLAIN	in	<self>
+PLAIN	seattle	<self>
+PLAIN	washington	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Natukhais	<self>
+PLAIN	were	<self>
+PLAIN	enriched	<self>
+PLAIN	by	<self>
+PLAIN	trade	<self>
+PLAIN	since	<self>
+PLAIN	their	<self>
+PLAIN	coast	<self>
+PLAIN	was	<self>
+PLAIN	not	<self>
+PLAIN	backed	<self>
+PLAIN	by	<self>
+PLAIN	high	<self>
+PLAIN	mountains	<self>
+PLAIN	and	<self>
+PLAIN	opened	<self>
+PLAIN	onto	<self>
+PLAIN	the	<self>
+PLAIN	steppe	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	I'll	<self>
+PLAIN	be	<self>
+PLAIN	there	<self>
+PLAIN	to	<self>
+PLAIN	guide	<self>
+PLAIN	any	<self>
+PLAIN	damsel	<self>
+PLAIN	in	<self>
+PLAIN	distress	<self>
+PUNCT	:	sil
+PLAIN	Akshay	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Without	<self>
+PLAIN	Room	<self>
+PLAIN	faithfully	<self>
+PLAIN	recreates	<self>
+PLAIN	in	<self>
+PLAIN	exacting	<self>
+PLAIN	detail	<self>
+PLAIN	the	<self>
+PLAIN	entire	<self>
+PLAIN	living	<self>
+PLAIN	room	<self>
+PLAIN	of	<self>
+PLAIN	an	<self>
+PLAIN	apartment	<self>
+PLAIN	dweller	<self>
+PLAIN	in	<self>
+PLAIN	greensboro	<self>
+PLAIN	north	<self>
+PLAIN	carolina	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Repeated	<self>
+PLAIN	attempts	<self>
+PLAIN	to	<self>
+PLAIN	free	<self>
+PLAIN	herself	<self>
+PLAIN	only	<self>
+PLAIN	resulted	<self>
+PLAIN	in	<self>
+PLAIN	another	<self>
+PLAIN	grounding	<self>
+PUNCT	,	sil
+PLAIN	so	<self>
+PLAIN	Vireo	<self>
+PLAIN	lay	<self>
+PLAIN	to	<self>
+PLAIN	and	<self>
+PLAIN	called	<self>
+PLAIN	for	<self>
+PLAIN	a	<self>
+PLAIN	tow	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	25 July 2014	the twenty fifth of july twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Krishna	<self>
+PUNCT	,	sil
+PLAIN	Sonali	<self>
+PUNCT	(	sil
+DATE	8 August 2007	the eighth of august two thousand seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Clave	<self>
+PLAIN	Matrix	<self>
+PUNCT	;	sil
+PLAIN	Afro	<self>
+PLAIN	Cuban	<self>
+PLAIN	Rhythm	<self>
+PUNCT	:	sil
+PLAIN	Its	<self>
+PLAIN	Principles	<self>
+PLAIN	and	<self>
+PLAIN	African	<self>
+PLAIN	Origins	<self>
+PLAIN	p	<self>
+PUNCT	.	sil
+CARDINAL	255	two hundred fifty five
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	was	<self>
+CARDINAL	86	eighty six
+PLAIN	and	<self>
+PLAIN	living	<self>
+PLAIN	in	<self>
+PLAIN	Tulsa	<self>
+PLAIN	when	<self>
+PLAIN	he	<self>
+PLAIN	died	<self>
+PLAIN	of	<self>
+PLAIN	cancer	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PUNCT	:	sil
+PLAIN	George	<self>
+PLAIN	Bruce	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+VERBATIM	난	sil
+VERBATIM	민	sil
+VERBATIM	신	sil
+VERBATIM	청	sil
+CARDINAL	100	one hundred
+VERBATIM	명	sil
+VERBATIM	중	sil
+VERBATIM	인	sil
+VERBATIM	정	sil
+CARDINAL	5	five
+VERBATIM	명	sil
+VERBATIM	도	sil
+VERBATIM	안	sil
+VERBATIM	돼	sil
+PUNCT	,	sil
+VERBATIM	문	sil
+VERBATIM	턱	sil
+VERBATIM	높	sil
+VERBATIM	은	sil
+VERBATIM	한	sil
+VERBATIM	국	sil
+PUNCT	(	sil
+PLAIN	less	<self>
+PLAIN	than	<self>
+MEASURE	5%	five percent
+PLAIN	of	<self>
+PLAIN	acceptance	<self>
+PLAIN	rate	<self>
+PLAIN	as	<self>
+PLAIN	a	<self>
+PLAIN	refugee	<self>
+PUNCT	)	sil
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	the	<self>
+PLAIN	sea	<self>
+PUNCT	,	sil
+PLAIN	it	<self>
+PLAIN	is	<self>
+PLAIN	the	<self>
+PLAIN	Bal	<self>
+PLAIN	Baros	<self>
+PUNCT	(	sil
+LETTERS	XBV-	x b v
+DIGIT	819-	eight one nine
+LETTERS	TM	t m
+PUNCT	,	sil
+VERBATIM	バ	sil
+VERBATIM	ル	sil
+VERBATIM	バ	sil
+VERBATIM	ロ	sil
+VERBATIM	ス	sil
+PUNCT	)	sil
+PUNCT	,	sil
+PLAIN	with	<self>
+PLAIN	a	<self>
+PLAIN	submarine	<self>
+PLAIN	like	<self>
+PLAIN	lower	<self>
+PLAIN	torso	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	How	<self>
+PLAIN	sweet	<self>
+PLAIN	the	<self>
+PLAIN	world	<self>
+PLAIN	would	<self>
+PLAIN	be	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	sweetness	<self>
+PLAIN	of	<self>
+PLAIN	Urdu	<self>
+PLAIN	around	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	an	<self>
+PLAIN	attempt	<self>
+PLAIN	to	<self>
+PLAIN	address	<self>
+PLAIN	these	<self>
+PLAIN	concerns	<self>
+PUNCT	,	sil
+PLAIN	it	<self>
+PLAIN	was	<self>
+PLAIN	initially	<self>
+PLAIN	restricted	<self>
+PLAIN	to	<self>
+PLAIN	transit	<self>
+PLAIN	buses	<self>
+PLAIN	and	<self>
+PLAIN	emergency	<self>
+PLAIN	vehicles	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Krishnan	<self>
+PUNCT	,	sil
+LETTERS	A.	a
+PUNCT	;	sil
+PLAIN	Dujardin	<self>
+PUNCT	,	sil
+LETTERS	E.	e
+PUNCT	;	sil
+PLAIN	Treacy	<self>
+PUNCT	,	sil
+LETTERS	M. M. J.	m m j
+PUNCT	;	sil
+PLAIN	Hugdahl	<self>
+PUNCT	,	sil
+LETTERS	J.	j
+PUNCT	;	sil
+PLAIN	Lynum	<self>
+PUNCT	,	sil
+LETTERS	S.	s
+PUNCT	;	sil
+PLAIN	Ebbesen	<self>
+PUNCT	,	sil
+LETTERS	T. W.	t w
+PUNCT	(	sil
+DATE	1997	nineteen ninety seven
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	7 September 2015	the seventh of september twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	1927	nineteen twenty seven
+PUNCT	,	sil
+PLAIN	Wirt	<self>
+PLAIN	married	<self>
+PLAIN	Mildred	<self>
+PLAIN	Harter	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	general	<self>
+PLAIN	supervisor	<self>
+PLAIN	of	<self>
+PLAIN	speech	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	Gary	<self>
+PLAIN	schools	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	On	<self>
+PLAIN	a	<self>
+CARDINAL	10	ten
+VERBATIM	-	sil
+PLAIN	bit	<self>
+PLAIN	consumer	<self>
+PLAIN	oriented	<self>
+PLAIN	profile	<self>
+PLAIN	in	<self>
+PLAIN	High	<self>
+PLAIN	Efficiency	<self>
+PLAIN	Video	<self>
+PLAIN	Coding	<self>
+PUNCT	(	sil
+LETTERS	HEVC	h e v c
+PUNCT	)	sil
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	As	<self>
+PLAIN	Cornwall	<self>
+PLAIN	has	<self>
+PLAIN	large	<self>
+PLAIN	areas	<self>
+PLAIN	of	<self>
+PLAIN	moorland	<self>
+PLAIN	this	<self>
+PLAIN	is	<self>
+PLAIN	an	<self>
+PLAIN	important	<self>
+PLAIN	part	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	work	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Sada	<self>
+PLAIN	Kaur	<self>
+PLAIN	made	<self>
+PLAIN	Ranjit	<self>
+PLAIN	Singh	<self>
+PLAIN	the	<self>
+PLAIN	king	<self>
+PLAIN	of	<self>
+PLAIN	Lahore	<self>
+PLAIN	in	<self>
+DATE	1801	eighteen o one
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	workshop	<self>
+PLAIN	is	<self>
+PLAIN	lit	<self>
+PLAIN	from	<self>
+PLAIN	each	<self>
+PLAIN	side	<self>
+PLAIN	by	<self>
+PLAIN	a	<self>
+PLAIN	range	<self>
+PLAIN	of	<self>
+PLAIN	window	<self>
+PLAIN	types	<self>
+PLAIN	and	<self>
+PLAIN	styles	<self>
+PLAIN	including	<self>
+PLAIN	sash	<self>
+PLAIN	and	<self>
+PLAIN	casement	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Franciscan	<self>
+PLAIN	Center	<self>
+PLAIN	website	<self>
+PUNCT	,	sil
+ELECTRONIC	http://franciscancentertampa.org/	h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter r_letter a_letter n_letter c_letter i_letter s_letter c_letter a_letter n_letter c_letter e_letter n_letter t_letter e_letter r_letter t_letter a_letter m_letter p_letter a_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	All	<self>
+PLAIN	the	<self>
+PLAIN	parts	<self>
+PLAIN	were	<self>
+PLAIN	there	<self>
+PUNCT	,	sil
+PLAIN	we	<self>
+PLAIN	just	<self>
+PLAIN	improved	<self>
+PLAIN	the	<self>
+PLAIN	quality	<self>
+PLAIN	and	<self>
+PLAIN	changed	<self>
+PLAIN	a	<self>
+PLAIN	few	<self>
+PLAIN	sounds	<self>
+PLAIN	around	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Large	<self>
+PLAIN	flocks	<self>
+PLAIN	may	<self>
+PLAIN	be	<self>
+PLAIN	seen	<self>
+PLAIN	at	<self>
+PLAIN	dusk	<self>
+PLAIN	arriving	<self>
+PLAIN	at	<self>
+PLAIN	major	<self>
+PLAIN	roost	<self>
+PLAIN	sites	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Vijayenthiran	<self>
+PUNCT	,	sil
+PLAIN	Viknesh	<self>
+PUNCT	(	sil
+DATE	5 March 2013	the fifth of march twenty thirteen
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Other	<self>
+PLAIN	cities	<self>
+PUNCT	,	sil
+PLAIN	such	<self>
+PLAIN	as	<self>
+PLAIN	st	saint
+PLAIN	Louis	<self>
+PUNCT	,	sil
+PLAIN	Baltimore	<self>
+PUNCT	,	sil
+PLAIN	Philadelphia	<self>
+PLAIN	and	<self>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PUNCT	,	sil
+PLAIN	also	<self>
+PLAIN	experienced	<self>
+PLAIN	surges	<self>
+PLAIN	in	<self>
+PLAIN	their	<self>
+PLAIN	African	<self>
+PLAIN	American	<self>
+PLAIN	populations	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Should	<self>
+PLAIN	the	<self>
+PLAIN	player	<self>
+PLAIN	fail	<self>
+PLAIN	to	<self>
+PLAIN	defeat	<self>
+PLAIN	Tangram	<self>
+PLAIN	within	<self>
+PLAIN	the	<self>
+PLAIN	time	<self>
+PLAIN	limit	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	game	<self>
+PLAIN	ends	<self>
+PLAIN	without	<self>
+PLAIN	the	<self>
+PLAIN	opportunity	<self>
+PLAIN	to	<self>
+PLAIN	continue	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	New	<self>
+PLAIN	arenas	<self>
+PLAIN	added	<self>
+PUNCT	,	sil
+PLAIN	including	<self>
+PLAIN	ports	<self>
+PLAIN	of	<self>
+PLAIN	a	<self>
+PLAIN	few	<self>
+PLAIN	Operation	<self>
+PLAIN	Moongate	<self>
+PLAIN	stages	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	also	<self>
+PLAIN	wrote	<self>
+PLAIN	the	<self>
+PLAIN	teleplay	<self>
+PLAIN	for	<self>
+PLAIN	an	<self>
+PLAIN	episode	<self>
+PLAIN	of	<self>
+PLAIN	The	<self>
+PLAIN	Betty	<self>
+PLAIN	Hutton	<self>
+PLAIN	Show	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Israel	<self>
+PUNCT	—	sil
+PLAIN	People	<self>
+PLAIN	Groups	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	is	<self>
+PLAIN	found	<self>
+PLAIN	in	<self>
+PLAIN	north	<self>
+PLAIN	eastern	<self>
+PLAIN	Ecuador	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	aircraft	<self>
+PLAIN	flew	<self>
+PLAIN	into	<self>
+PLAIN	a	<self>
+PLAIN	heavy	<self>
+PLAIN	thunderstorm	<self>
+PLAIN	and	<self>
+PLAIN	was	<self>
+PLAIN	probably	<self>
+PLAIN	struck	<self>
+PLAIN	by	<self>
+PLAIN	lightning	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	December 31, 2011	december thirty first twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kip	<self>
+PLAIN	Kubin	<self>
+PUNCT	(	sil
+PLAIN	born	<self>
+DATE	March 4, 1965	march fourth nineteen sixty five
+PUNCT	)	sil
+PLAIN	is	<self>
+PLAIN	an	<self>
+PLAIN	American	<self>
+PLAIN	film	<self>
+PLAIN	director	<self>
+PUNCT	,	sil
+PLAIN	producer	<self>
+PUNCT	,	sil
+PLAIN	writer	<self>
+PUNCT	,	sil
+PLAIN	musician	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	sound	<self>
+PLAIN	designer	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Hormiga	<self>
+PLAIN	and	<self>
+PLAIN	Griswold	<self>
+PLAIN	suggested	<self>
+PLAIN	a	<self>
+PLAIN	cladogram	<self>
+PLAIN	similar	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	preferred	<self>
+PLAIN	version	<self>
+PLAIN	of	<self>
+PLAIN	Blackledge	<self>
+PLAIN	et	<self>
+PLAIN	al	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Police	<self>
+PLAIN	Raid	<self>
+PLAIN	South	<self>
+PLAIN	African	<self>
+PLAIN	Church	<self>
+PLAIN	Aiding	<self>
+PLAIN	Refugees	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	«	sil
+VERBATIM	О	sil
+VERBATIM	в	sil
+VERBATIM	н	sil
+VERBATIM	е	sil
+VERBATIM	с	sil
+VERBATIM	е	sil
+VERBATIM	н	sil
+VERBATIM	и	sil
+VERBATIM	и	sil
+VERBATIM	и	sil
+VERBATIM	з	sil
+VERBATIM	м	sil
+VERBATIM	е	sil
+VERBATIM	н	sil
+VERBATIM	е	sil
+VERBATIM	н	sil
+VERBATIM	и	sil
+VERBATIM	й	sil
+VERBATIM	в	sil
+VERBATIM	о	sil
+VERBATIM	т	sil
+VERBATIM	д	sil
+VERBATIM	е	sil
+VERBATIM	л	sil
+VERBATIM	ь	sil
+VERBATIM	н	sil
+VERBATIM	ы	sil
+VERBATIM	е	sil
+VERBATIM	З	sil
+VERBATIM	а	sil
+VERBATIM	к	sil
+VERBATIM	о	sil
+VERBATIM	н	sil
+VERBATIM	ы	sil
+VERBATIM	К	sil
+VERBATIM	и	sil
+VERBATIM	р	sil
+VERBATIM	о	sil
+VERBATIM	в	sil
+VERBATIM	с	sil
+VERBATIM	к	sil
+VERBATIM	о	sil
+VERBATIM	й	sil
+VERBATIM	о	sil
+VERBATIM	б	sil
+VERBATIM	л	sil
+VERBATIM	а	sil
+VERBATIM	с	sil
+VERBATIM	т	sil
+VERBATIM	и	sil
+PUNCT	»	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Carbon	<self>
+PLAIN	Nanofibers	<self>
+PUNCT	:	sil
+PLAIN	Catalytic	<self>
+PLAIN	Synthesis	<self>
+PLAIN	and	<self>
+PLAIN	Applications	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	is	<self>
+PLAIN	also	<self>
+PLAIN	one	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	muscles	<self>
+PLAIN	used	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	playing	<self>
+PLAIN	of	<self>
+PLAIN	all	<self>
+PLAIN	brass	<self>
+PLAIN	instruments	<self>
+PLAIN	and	<self>
+PLAIN	some	<self>
+PLAIN	woodwind	<self>
+PLAIN	instruments	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Dadvar	<self>
+PUNCT	,	sil
+LETTERS	S.	s
+PUNCT	;	sil
+PLAIN	Tavanai	<self>
+PUNCT	,	sil
+LETTERS	H.	h
+PUNCT	;	sil
+PLAIN	Morshed	<self>
+PUNCT	,	sil
+LETTERS	M.	m
+PUNCT	(	sil
+DATE	2012	twenty twelve
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+LETTERS	CBS	c b s
+PLAIN	Announces	<self>
+CARDINAL	2010	two thousand ten
+PUNCT	-	sil
+CARDINAL	2011	two thousand eleven
+PLAIN	Premiere	<self>
+PLAIN	Dates	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	tournament	<self>
+PLAIN	featured	<self>
+PLAIN	three	<self>
+PLAIN	rounds	<self>
+PLAIN	of	<self>
+PLAIN	play	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Project	<self>
+PLAIN	Gutenberg	<self>
+PLAIN	EBook	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	album	<self>
+PLAIN	was	<self>
+PLAIN	listed	<self>
+PLAIN	at	<self>
+PLAIN	no	<self>
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	group	<self>
+PLAIN	are	<self>
+PLAIN	well	<self>
+PLAIN	organized	<self>
+PLAIN	and	<self>
+PLAIN	are	<self>
+PLAIN	constantly	<self>
+PLAIN	growing	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	abzu	<self>
+PLAIN	was	<self>
+PLAIN	believed	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	the	<self>
+PLAIN	abyss	<self>
+PLAIN	or	<self>
+PLAIN	freshwater	<self>
+PLAIN	ocean	<self>
+PLAIN	upon	<self>
+PLAIN	which	<self>
+PLAIN	the	<self>
+PLAIN	whole	<self>
+PLAIN	world	<self>
+PLAIN	rests	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Rasumovsky	<self>
+PUNCT	,	sil
+PLAIN	though	<self>
+PLAIN	he	<self>
+PLAIN	was	<self>
+PLAIN	raised	<self>
+PLAIN	to	<self>
+PLAIN	Prince	<self>
+PLAIN	the	<self>
+PLAIN	following	<self>
+PLAIN	year	<self>
+PUNCT	,	sil
+PLAIN	was	<self>
+PLAIN	never	<self>
+PLAIN	the	<self>
+PLAIN	same	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	1862	eighteen sixty two
+PLAIN	the	<self>
+PLAIN	street	<self>
+PLAIN	on	<self>
+PLAIN	which	<self>
+PLAIN	the	<self>
+PLAIN	palace	<self>
+PLAIN	is	<self>
+PLAIN	located	<self>
+PLAIN	was	<self>
+PLAIN	named	<self>
+PLAIN	Rasumofskygasse	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Ministry	<self>
+PLAIN	for	<self>
+PLAIN	Culture	<self>
+PLAIN	and	<self>
+PLAIN	Heritage	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	13 August 2015	the thirteenth of august twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	was	<self>
+PLAIN	elected	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	American	<self>
+PLAIN	Theater	<self>
+PLAIN	Hall	<self>
+PLAIN	of	<self>
+PLAIN	Fame	<self>
+PLAIN	in	<self>
+DATE	2005	two thousand five
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Natsumi	<self>
+PLAIN	and	<self>
+PLAIN	her	<self>
+PLAIN	friends	<self>
+PLAIN	must	<self>
+PLAIN	save	<self>
+PLAIN	the	<self>
+PLAIN	Earth	<self>
+PLAIN	from	<self>
+PLAIN	ultimate	<self>
+PLAIN	destruction	<self>
+PLAIN	by	<self>
+PLAIN	a	<self>
+PUNCT	"	sil
+PLAIN	god	<self>
+PLAIN	of	<self>
+PLAIN	ruin	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Some	<self>
+PLAIN	Selfie	<self>
+PLAIN	Sticks	<self>
+PLAIN	have	<self>
+PLAIN	telescoping	<self>
+PLAIN	capabilities	<self>
+PLAIN	that	<self>
+PLAIN	allow	<self>
+PLAIN	for	<self>
+PLAIN	greater	<self>
+PLAIN	length	<self>
+PLAIN	and	<self>
+PLAIN	wider	<self>
+PLAIN	shots	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	1955	nineteen fifty five
+PUNCT	,	sil
+PLAIN	when	<self>
+PLAIN	the	<self>
+PLAIN	population	<self>
+PLAIN	had	<self>
+PLAIN	increased	<self>
+PLAIN	sufficiently	<self>
+PLAIN	a	<self>
+PLAIN	post	<self>
+PLAIN	office	<self>
+PLAIN	was	<self>
+PLAIN	opened	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	As	<self>
+PLAIN	usual	<self>
+PUNCT	,	sil
+PLAIN	Nastase	<self>
+PLAIN	played	<self>
+PLAIN	well	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	Masters	<self>
+PUNCT	,	sil
+PLAIN	in	<self>
+PLAIN	particular	<self>
+PLAIN	against	<self>
+PLAIN	Newcombe	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	semifinals	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	1 June 2011	the first of june twenty eleven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Histoire	<self>
+PLAIN	de	<self>
+PLAIN	la	<self>
+PLAIN	vie	<self>
+PLAIN	privée	<self>
+PUNCT	,	sil
+PLAIN	vol	volume
+<eos>	<eos>
+PLAIN	Her	<self>
+PLAIN	dream	<self>
+PLAIN	is	<self>
+PLAIN	to	<self>
+PLAIN	obtain	<self>
+PLAIN	New	<self>
+PLAIN	Guinean	<self>
+PLAIN	magic	<self>
+PLAIN	and	<self>
+PLAIN	take	<self>
+PLAIN	over	<self>
+PLAIN	the	<self>
+PLAIN	world	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Gofas	<self>
+PUNCT	,	sil
+LETTERS	S.	s
+PUNCT	;	sil
+PLAIN	Le	<self>
+PLAIN	Renard	<self>
+PUNCT	,	sil
+LETTERS	J.	j
+PUNCT	;	sil
+PLAIN	Bouchet	<self>
+PUNCT	,	sil
+LETTERS	P.	p
+PUNCT	(	sil
+DATE	2001	two thousand one
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	27 February 2016	the twenty seventh of february twenty sixteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Robert	<self>
+PLAIN	Watchorn	<self>
+PLAIN	was	<self>
+PLAIN	a	<self>
+PLAIN	benefactor	<self>
+PLAIN	of	<self>
+PLAIN	Alfreton	<self>
+PLAIN	after	<self>
+PLAIN	the	<self>
+PLAIN	first	<self>
+PLAIN	world	<self>
+PLAIN	war	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Uses	<self>
+PLAIN	all	<self>
+PLAIN	metrics	<self>
+PLAIN	defined	<self>
+PLAIN	herein	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Insects	<self>
+PLAIN	of	<self>
+PLAIN	Hawaii	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kip	<self>
+PLAIN	Miller	<self>
+PLAIN	by	<self>
+PLAIN	Adam	<self>
+PLAIN	Wodon	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	When	<self>
+LETTERS	HIV	h i v
+PLAIN	infects	<self>
+PLAIN	a	<self>
+PLAIN	cell	<self>
+PUNCT	,	sil
+PLAIN	reverse	<self>
+PLAIN	transcriptase	<self>
+PLAIN	copies	<self>
+PLAIN	the	<self>
+PLAIN	viral	<self>
+PLAIN	single	<self>
+PLAIN	stranded	<self>
+LETTERS	RNA	r n a
+PLAIN	genome	<self>
+PLAIN	into	<self>
+PLAIN	a	<self>
+PLAIN	double	<self>
+PLAIN	stranded	<self>
+PLAIN	viral	<self>
+LETTERS	DNA	d n a
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	That	<self>
+PLAIN	year	<self>
+PLAIN	everyone	<self>
+PLAIN	was	<self>
+PLAIN	talking	<self>
+PLAIN	about	<self>
+PLAIN	a	<self>
+PLAIN	flamboyant	<self>
+PLAIN	young	<self>
+PLAIN	man	<self>
+PLAIN	who	<self>
+PLAIN	called	<self>
+PLAIN	himself	<self>
+PLAIN	the	<self>
+PLAIN	Liberty	<self>
+PLAIN	Kid	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	first	<self>
+PLAIN	official	<self>
+PLAIN	event	<self>
+PLAIN	was	<self>
+PLAIN	the	<self>
+PUNCT	"	sil
+PLAIN	River	<self>
+PLAIN	City	<self>
+PLAIN	Roundup	<self>
+PLAIN	Fair	<self>
+PLAIN	and	<self>
+PLAIN	Festival	<self>
+PUNCT	"	sil
+PUNCT	,	sil
+PLAIN	held	<self>
+PLAIN	at	<self>
+PLAIN	both	<self>
+PLAIN	facilities	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Khat	<self>
+PUNCT	,	sil
+PLAIN	fruits	<self>
+PLAIN	and	<self>
+PLAIN	vegetables	<self>
+PLAIN	are	<self>
+PLAIN	important	<self>
+PLAIN	cash	<self>
+PLAIN	crops	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	J	<self>
+PUNCT	.	sil
+PLAIN	Devika	<self>
+PUNCT	(	sil
+DATE	2005	two thousand five
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Pteropods	<self>
+PLAIN	are	<self>
+PLAIN	strict	<self>
+PLAIN	pelagic	<self>
+PLAIN	mollusks	<self>
+PLAIN	that	<self>
+PLAIN	are	<self>
+PLAIN	highly	<self>
+PLAIN	adapted	<self>
+PLAIN	to	<self>
+PLAIN	life	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	open	<self>
+PLAIN	ocean	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Paul	<self>
+PLAIN	Veyne	<self>
+PUNCT	,	sil
+PLAIN	Foucault	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	geisha	<self>
+PLAIN	code	<self>
+PLAIN	was	<self>
+PLAIN	never	<self>
+PLAIN	to	<self>
+PLAIN	try	<self>
+PLAIN	and	<self>
+PLAIN	tear	<self>
+PLAIN	a	<self>
+PLAIN	man	<self>
+PLAIN	away	<self>
+PLAIN	from	<self>
+PLAIN	his	<self>
+PLAIN	wife	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	castle	<self>
+PLAIN	and	<self>
+PLAIN	its	<self>
+PLAIN	attached	<self>
+PLAIN	walls	<self>
+PLAIN	has	<self>
+PLAIN	been	<self>
+PLAIN	Grade	<self>
+CARDINAL	II	two
+PLAIN	Listed	<self>
+PLAIN	since	<self>
+DATE	January 1951	january nineteen fifty one
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	They	<self>
+PLAIN	are	<self>
+PLAIN	actively	<self>
+PLAIN	swimming	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	water	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Let	<self>
+VERBATIM	φ	phi
+PLAIN	be	<self>
+PLAIN	a	<self>
+PLAIN	non	<self>
+PLAIN	trivial	<self>
+PLAIN	periodic	<self>
+PLAIN	orientation	<self>
+PLAIN	preserving	<self>
+PLAIN	diffeomorphism	<self>
+PLAIN	of	<self>
+LETTERS	M.	m
+PLAIN	Then	<self>
+PLAIN	M	<self>
+PLAIN	admits	<self>
+PLAIN	a	<self>
+VERBATIM	φ	phi
+VERBATIM	-	sil
+PLAIN	invariant	<self>
+PLAIN	hyperbolic	<self>
+PLAIN	or	<self>
+PLAIN	Seifert	<self>
+PLAIN	fibered	<self>
+PLAIN	structure	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	Professor	<self>
+PLAIN	of	<self>
+PLAIN	Emeritus	<self>
+PLAIN	of	<self>
+PLAIN	Animal	<self>
+PLAIN	Sciences	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	is	<self>
+PLAIN	currently	<self>
+PLAIN	under	<self>
+PLAIN	the	<self>
+PLAIN	administration	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	breakaway	<self>
+PLAIN	government	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Transnistrian	<self>
+PLAIN	Moldovan	<self>
+PLAIN	Republic	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Ellen	<self>
+PLAIN	died	<self>
+PLAIN	in	<self>
+DATE	1824	eighteen twenty four
+PLAIN	and	<self>
+PLAIN	Henry	<self>
+PLAIN	died	<self>
+PLAIN	a	<self>
+PLAIN	year	<self>
+PLAIN	later	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	hypocaust	<self>
+PLAIN	of	<self>
+PLAIN	a	<self>
+PLAIN	villa	<self>
+PLAIN	was	<self>
+PLAIN	uncovered	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	village	<self>
+PUNCT	,	sil
+PLAIN	though	<self>
+PLAIN	records	<self>
+PLAIN	of	<self>
+PLAIN	its	<self>
+PLAIN	exact	<self>
+PLAIN	location	<self>
+PLAIN	no	<self>
+PLAIN	longer	<self>
+PLAIN	exist	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Manhunt	<self>
+PLAIN	is	<self>
+PLAIN	originated	<self>
+PLAIN	to	<self>
+PLAIN	a	<self>
+PLAIN	way	<self>
+PLAIN	of	<self>
+PLAIN	searching	<self>
+PLAIN	background	<self>
+PLAIN	information	<self>
+PLAIN	of	<self>
+PLAIN	an	<self>
+PLAIN	objective	<self>
+PLAIN	person	<self>
+PLAIN	broadly	<self>
+PLAIN	used	<self>
+PLAIN	by	<self>
+PLAIN	police	<self>
+PLAIN	and	<self>
+PLAIN	media	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Makati	<self>
+PLAIN	City	<self>
+PUNCT	,	sil
+PLAIN	Philippines	<self>
+PUNCT	:	sil
+PLAIN	National	<self>
+PLAIN	Statistical	<self>
+PLAIN	Coordination	<self>
+PLAIN	Board	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	11 November 2010	the eleventh of november twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Shortly	<self>
+PLAIN	before	<self>
+PLAIN	the	<self>
+PLAIN	interval	<self>
+PUNCT	,	sil
+PLAIN	Wayne	<self>
+PLAIN	Clarke	<self>
+PLAIN	scored	<self>
+PLAIN	the	<self>
+PLAIN	only	<self>
+PLAIN	goal	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	game	<self>
+PLAIN	to	<self>
+PLAIN	win	<self>
+PLAIN	the	<self>
+PLAIN	trophy	<self>
+PLAIN	for	<self>
+PLAIN	Everton	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	10 April 2013	the tenth of april twenty thirteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	By	<self>
+PLAIN	contrast	<self>
+PUNCT	,	sil
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	lower	<self>
+PLAIN	Aguja	<self>
+PLAIN	Formation	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Fiskars	<self>
+PLAIN	Agrees	<self>
+PLAIN	to	<self>
+PLAIN	Buy	<self>
+PLAIN	Owner	<self>
+PLAIN	of	<self>
+PLAIN	Waterford	<self>
+PLAIN	and	<self>
+PLAIN	Wedgwood	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Also	<self>
+PLAIN	important	<self>
+PLAIN	is	<self>
+LETTERS	L	<self>
+CARDINAL	74	seventy four
+PUNCT	,	sil
+PLAIN	which	<self>
+PLAIN	interacts	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	template	<self>
+PLAIN	strand	<self>
+PLAIN	to	<self>
+PLAIN	position	<self>
+PLAIN	it	<self>
+PLAIN	for	<self>
+PLAIN	base	<self>
+PLAIN	pairing	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	nucleotide	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	American	<self>
+PLAIN	Museum	<self>
+PLAIN	of	<self>
+PLAIN	Ceramic	<self>
+PLAIN	Art	<self>
+PUNCT	(	sil
+DATE	2013	twenty thirteen
+PUNCT	)	sil
+LETTERS	ISBN	i s b n
+TELEPHONE	978-0981672854	nine seven eight sil o nine eight one six seven two eight five four
+PLAIN	Chipman	<self>
+PUNCT	,	sil
+PLAIN	Jack	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	His	<self>
+PUNCT	"	sil
+PLAIN	potboilers	<self>
+PUNCT	"	sil
+PLAIN	enmeshed	<self>
+PLAIN	a	<self>
+PLAIN	character	<self>
+PLAIN	in	<self>
+PLAIN	a	<self>
+PLAIN	crisis	<self>
+PUNCT	,	sil
+PLAIN	after	<self>
+PLAIN	which	<self>
+PLAIN	suspense	<self>
+PLAIN	was	<self>
+PLAIN	enhanced	<self>
+PLAIN	by	<self>
+PLAIN	switching	<self>
+PLAIN	to	<self>
+PLAIN	other	<self>
+PUNCT	,	sil
+PLAIN	related	<self>
+PLAIN	plot	<self>
+PLAIN	lines	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Kip	<self>
+PLAIN	Moore	<self>
+PLAIN	Album	<self>
+VERBATIM	&	and
+PLAIN	Song	<self>
+PLAIN	Chart	<self>
+PLAIN	History	<self>
+PUNCT	—	sil
+PLAIN	Country	<self>
+PLAIN	Airplay	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	La	<self>
+PLAIN	Curieuse	<self>
+PLAIN	Histoire	<self>
+PLAIN	du	<self>
+PLAIN	Vésinet	<self>
+PUNCT	,	sil
+PLAIN	Ville	<self>
+PLAIN	du	<self>
+PLAIN	Vésinet	<self>
+PUNCT	,	sil
+PLAIN	Georges	<self>
+PLAIN	Poisson	<self>
+PUNCT	,	sil
+DATE	1975	nineteen seventy five
+PUNCT	,	sil
+DIGIT	211	two one one
+PLAIN	p	<self>
+PUNCT	.	sil
+PLAIN	Revue	<self>
+PLAIN	Municipale	<self>
+PLAIN	du	<self>
+PLAIN	Vésinet	<self>
+PUNCT	,	sil
+DATE	1982	nineteen eighty two
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Based	<self>
+PLAIN	on	<self>
+PLAIN	labolatory	<self>
+PLAIN	experiments	<self>
+PUNCT	,	sil
+PLAIN	they	<self>
+PLAIN	are	<self>
+PLAIN	able	<self>
+PLAIN	to	<self>
+PLAIN	precipitate	<self>
+PLAIN	calcium	<self>
+PLAIN	carbonate	<self>
+PLAIN	at	<self>
+PLAIN	low	<self>
+PLAIN	aragonite	<self>
+PLAIN	saturation	<self>
+PLAIN	state	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Princeton	<self>
+PUNCT	:	sil
+PLAIN	Princeton	<self>
+PLAIN	University	<self>
+PLAIN	Press	<self>
+PUNCT	,	sil
+DATE	2007	two thousand seven
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Vietnam	<self>
+PLAIN	Center	<self>
+PLAIN	and	<self>
+PLAIN	Archive	<self>
+PLAIN	Now	<self>
+PLAIN	Available	<self>
+PLAIN	Online	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	mayor	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	new	<self>
+PLAIN	city	<self>
+PLAIN	of	<self>
+PLAIN	Gatineau	<self>
+PLAIN	Marc	<self>
+PLAIN	Bureau	<self>
+PLAIN	had	<self>
+PLAIN	committed	<self>
+PLAIN	of	<self>
+PLAIN	having	<self>
+PLAIN	this	<self>
+PLAIN	project	<self>
+PLAIN	realized	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Knotts	<self>
+PUNCT	/	sil
+PLAIN	Edwards	<self>
+PLAIN	has	<self>
+PLAIN	eight	<self>
+PLAIN	floors	<self>
+PLAIN	for	<self>
+PLAIN	students	<self>
+PLAIN	and	<self>
+PLAIN	every	<self>
+PLAIN	floor	<self>
+PLAIN	is	<self>
+PLAIN	designated	<self>
+PLAIN	to	<self>
+PLAIN	either	<self>
+PLAIN	female	<self>
+PLAIN	or	<self>
+PLAIN	male	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	8 November 2014	the eighth of november twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	April 25, 2015	april twenty fifth twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	also	<self>
+PLAIN	has	<self>
+PLAIN	a	<self>
+PLAIN	computer	<self>
+PLAIN	lab	<self>
+PLAIN	and	<self>
+PLAIN	has	<self>
+PLAIN	a	<self>
+PLAIN	washer	<self>
+PLAIN	and	<self>
+PLAIN	dryer	<self>
+PLAIN	on	<self>
+PLAIN	every	<self>
+PLAIN	floor	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	the	<self>
+DATE	1920s	nineteen twenties
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	mountains	<self>
+PLAIN	were	<self>
+PLAIN	thickly	<self>
+PLAIN	covered	<self>
+PLAIN	with	<self>
+PLAIN	trees	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Trondheim	<self>
+PLAIN	Jazzfestival	<self>
+DATE	2015	twenty fifteen
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	During	<self>
+PLAIN	Expedition	<self>
+CARDINAL	13	thirteen
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	workstation	<self>
+PLAIN	was	<self>
+PLAIN	replaced	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	Workstation	<self>
+CARDINAL	2	two
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	completed	<self>
+PLAIN	thirty	<self>
+PLAIN	seven	<self>
+PLAIN	years	<self>
+PLAIN	at	<self>
+PLAIN	Ball	<self>
+PLAIN	State	<self>
+PUNCT	,	sil
+PLAIN	retiring	<self>
+PLAIN	in	<self>
+DATE	1961	nineteen sixty one
+PUNCT	,	sil
+PLAIN	she	<self>
+PLAIN	had	<self>
+PLAIN	joined	<self>
+PLAIN	the	<self>
+PLAIN	faculty	<self>
+PLAIN	in	<self>
+DATE	1924	nineteen twenty four
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Vickers	<self>
+PLAIN	has	<self>
+PLAIN	also	<self>
+PLAIN	been	<self>
+PUNCT	"	sil
+PLAIN	turning	<self>
+PLAIN	out	<self>
+PLAIN	magnificently	<self>
+PLAIN	warped	<self>
+PLAIN	albums	<self>
+PLAIN	on	<self>
+PLAIN	an	<self>
+PLAIN	annual	<self>
+PLAIN	basis	<self>
+PUNCT	"	sil
+PLAIN	to	<self>
+PLAIN	accompany	<self>
+PLAIN	his	<self>
+PLAIN	Fringe	<self>
+PLAIN	shows	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	non	<self>
+PLAIN	league	<self>
+PLAIN	club	<self>
+PLAIN	directory	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Holter	<self>
+PLAIN	currently	<self>
+PLAIN	in	<self>
+PLAIN	use	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	International	<self>
+PLAIN	Space	<self>
+PLAIN	Station	<self>
+PLAIN	is	<self>
+PLAIN	manufactured	<self>
+PLAIN	by	<self>
+PLAIN	Spacelabs	<self>
+PLAIN	Healthcare	<self>
+PUNCT	,	sil
+PLAIN	Incorporated	<self>
+PUNCT	,	sil
+PLAIN	of	<self>
+PLAIN	Issaquah	<self>
+PUNCT	,	sil
+PLAIN	Washington	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+DATE	1987	nineteen eighty seven
+PLAIN	championship	<self>
+PLAIN	was	<self>
+PLAIN	the	<self>
+ORDINAL	6th	sixth
+PLAIN	contested	<self>
+PLAIN	and	<self>
+PLAIN	won	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	first	<self>
+PLAIN	time	<self>
+PLAIN	by	<self>
+PLAIN	Yugoslavia	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	So	<self>
+PLAIN	I	<self>
+PLAIN	founded	<self>
+PLAIN	the	<self>
+PLAIN	Christian	<self>
+PLAIN	Credit	<self>
+PLAIN	thinking	<self>
+PLAIN	that	<self>
+PLAIN	credit	<self>
+PLAIN	could	<self>
+PLAIN	only	<self>
+PLAIN	be	<self>
+PLAIN	Christian	<self>
+PLAIN	and	<self>
+PLAIN	friendly	<self>
+PLAIN	if	<self>
+PLAIN	there	<self>
+PLAIN	was	<self>
+PLAIN	no	<self>
+PLAIN	interest	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	9 November 2012	the ninth of november twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Everett	<self>
+PLAIN	died	<self>
+PLAIN	at	<self>
+PLAIN	the	<self>
+PLAIN	age	<self>
+PLAIN	of	<self>
+CARDINAL	83	eighty three
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	China	<self>
+PLAIN	Daily	<self>
+PLAIN	Asia	<self>
+PUNCT	(	sil
+PLAIN	Focus	<self>
+PLAIN	Hong	<self>
+PLAIN	Kong	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	stadium	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	modern	<self>
+PLAIN	facility	<self>
+PLAIN	with	<self>
+PLAIN	views	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	skyline	<self>
+PLAIN	of	<self>
+PLAIN	Downtown	<self>
+PLAIN	Seattle	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	styluses	<self>
+PLAIN	for	<self>
+PLAIN	playing	<self>
+PLAIN	vinyl	<self>
+PLAIN	records	<self>
+PLAIN	are	<self>
+PLAIN	made	<self>
+PLAIN	out	<self>
+PLAIN	of	<self>
+PLAIN	Sapphire	<self>
+PLAIN	or	<self>
+PLAIN	diamond	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	name	<self>
+PLAIN	gel	<self>
+PLAIN	has	<self>
+PLAIN	continued	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	used	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	present	<self>
+PLAIN	day	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Aryans	<self>
+PLAIN	Reading	<self>
+PLAIN	Adorno	<self>
+PUNCT	:	sil
+PLAIN	Cyber	<self>
+PLAIN	culture	<self>
+PLAIN	and	<self>
+PLAIN	Twenty	<self>
+PLAIN	first	<self>
+PLAIN	Century	<self>
+PLAIN	Racism	<self>
+PUNCT	,	sil
+PLAIN	Ethnic	<self>
+PLAIN	and	<self>
+PLAIN	Racial	<self>
+PLAIN	Studies	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	featured	<self>
+PLAIN	behind	<self>
+PLAIN	the	<self>
+PLAIN	scenes	<self>
+PLAIN	information	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	movie	<self>
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	comic	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	26 June 2014	the twenty sixth of june twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Israel	<self>
+PLAIN	v	<self>
+PLAIN	Soviet	<self>
+PLAIN	Union	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Strong	<self>
+PUNCT	,	sil
+PLAIN	Martin	<self>
+PLAIN	C	<self>
+PUNCT	(	sil
+DATE	2010-02-01	the first of february twenty ten
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	opinion	<self>
+PUNCT	,	sil
+PLAIN	though	<self>
+PUNCT	,	sil
+PLAIN	is	<self>
+PLAIN	contradicted	<self>
+PLAIN	by	<self>
+PLAIN	historians	<self>
+PLAIN	today	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	All	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	library	<self>
+PLAIN	branches	<self>
+PLAIN	offer	<self>
+PLAIN	free	<self>
+PLAIN	computer	<self>
+PLAIN	and	<self>
+PLAIN	wireless	<self>
+PLAIN	Internet	<self>
+PLAIN	access	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Netherlands	<self>
+PLAIN	v	<self>
+PLAIN	Austria	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	PVC	p v c
+PLAIN	and	<self>
+PLAIN	plastic	<self>
+PLAIN	will	<self>
+PLAIN	not	<self>
+PLAIN	rust	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Oh	<self>
+PLAIN	worthless	<self>
+PLAIN	bliss	<self>
+PUNCT	!	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	acetate	<self>
+PLAIN	based	<self>
+PLAIN	material	<self>
+PLAIN	was	<self>
+PLAIN	replaced	<self>
+PLAIN	by	<self>
+PLAIN	polyester	<self>
+PLAIN	and	<self>
+PLAIN	polycarbonate	<self>
+PLAIN	based	<self>
+PLAIN	filters	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Connecticut	<self>
+PLAIN	State	<self>
+PLAIN	Library	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Stadler	<self>
+PUNCT	,	sil
+PLAIN	David	<self>
+PUNCT	(	sil
+DATE	1992-12-14	the fourteenth of december nineteen ninety two
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Ren	<self>
+PUNCT	,	sil
+PLAIN	J	<self>
+PUNCT	;	sil
+PLAIN	Nichols	<self>
+PUNCT	,	sil
+PLAIN	C	<self>
+PUNCT	;	sil
+PLAIN	Bird	<self>
+PUNCT	,	sil
+PLAIN	L	<self>
+PUNCT	;	sil
+PLAIN	Chamberlain	<self>
+PUNCT	,	sil
+PLAIN	P	<self>
+PUNCT	;	sil
+PLAIN	Weaver	<self>
+PUNCT	,	sil
+PLAIN	K	<self>
+PUNCT	;	sil
+PLAIN	Short	<self>
+PUNCT	,	sil
+PLAIN	S	<self>
+PUNCT	;	sil
+PLAIN	Stuart	<self>
+PUNCT	,	sil
+PLAIN	DI	<self>
+PUNCT	;	sil
+PLAIN	Stammers	<self>
+PUNCT	,	sil
+LETTERS	DK	d k
+PUNCT	(	sil
+DATE	2001	two thousand one
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Poeme	<self>
+PLAIN	symphonique	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+DATE	1962	nineteen sixty two
+PLAIN	composition	<self>
+PLAIN	by	<self>
+PLAIN	Gyorgy	<self>
+PLAIN	Ligeti	<self>
+PLAIN	for	<self>
+CARDINAL	100	one hundred
+PLAIN	metronomes	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	During	<self>
+PLAIN	this	<self>
+PLAIN	posting	<self>
+PUNCT	,	sil
+PLAIN	he	<self>
+PLAIN	described	<self>
+PLAIN	the	<self>
+PLAIN	birds	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Eastern	<self>
+PLAIN	Ghats	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Oxford	<self>
+PUNCT	:	sil
+PLAIN	Railway	<self>
+PLAIN	and	<self>
+PLAIN	Canal	<self>
+PLAIN	Historical	<self>
+PLAIN	Society	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	ISO	<self>
+PUNCT	/	sil
+LETTERS	IEC	i e c
+CARDINAL	27002	twenty seven thousand two
+PLAIN	incorporates	<self>
+PLAIN	mainly	<self>
+PLAIN	part	<self>
+CARDINAL	1	one
+PLAIN	of	<self>
+PLAIN	the	<self>
+LETTERS	BS	b s
+CARDINAL	7799	seven thousand seven hundred ninety nine
+PLAIN	good	<self>
+PLAIN	security	<self>
+PLAIN	management	<self>
+PLAIN	practice	<self>
+PLAIN	standard	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	John	<self>
+PLAIN	and	<self>
+PLAIN	Mabel	<self>
+PUNCT	,	sil
+PLAIN	in	<self>
+DATE	1924	nineteen twenty four
+PUNCT	,	sil
+PLAIN	began	<self>
+PLAIN	the	<self>
+PLAIN	creation	<self>
+PLAIN	of	<self>
+PLAIN	their	<self>
+PLAIN	dream	<self>
+PLAIN	home	<self>
+PLAIN	in	<self>
+PLAIN	Sarasota	<self>
+PUNCT	,	sil
+PLAIN	Florida	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	April 7, 2012	april seventh twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	stadium	<self>
+PLAIN	has	<self>
+CARDINAL	1,400	one thousand four hundred
+PLAIN	seats	<self>
+PLAIN	for	<self>
+PLAIN	those	<self>
+PLAIN	with	<self>
+PLAIN	disabilities	<self>
+PLAIN	and	<self>
+PLAIN	their	<self>
+PLAIN	companions	<self>
+PLAIN	located	<self>
+PLAIN	in	<self>
+PLAIN	various	<self>
+PLAIN	sections	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	the	<self>
+PLAIN	meantime	<self>
+PLAIN	Unni	<self>
+PUNCT	,	sil
+PLAIN	falls	<self>
+PLAIN	in	<self>
+PLAIN	love	<self>
+PLAIN	with	<self>
+PLAIN	Krishnamoorthy	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Box	<self>
+PLAIN	Office	<self>
+PLAIN	Mojo	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Cuddy	<self>
+PLAIN	and	<self>
+PLAIN	House	<self>
+PLAIN	begin	<self>
+PLAIN	give	<self>
+PLAIN	in	<self>
+PLAIN	to	<self>
+PLAIN	each	<self>
+PLAIN	other's	<self>
+PLAIN	decisions	<self>
+PLAIN	to	<self>
+PLAIN	avoid	<self>
+PLAIN	unpleasant	<self>
+PLAIN	confrontations	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	GB	g b
+PLAIN	Historical	<self>
+LETTERS	GIS	g i s
+PUNCT	/	sil
+PLAIN	University	<self>
+PLAIN	of	<self>
+PLAIN	Portsmouth	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Due	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	lack	<self>
+PLAIN	of	<self>
+PLAIN	consensus	<self>
+PLAIN	on	<self>
+PLAIN	its	<self>
+PLAIN	proposals	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	report	<self>
+PLAIN	was	<self>
+PLAIN	never	<self>
+PLAIN	implemented	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Box	<self>
+PLAIN	Office	<self>
+PLAIN	India	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	was	<self>
+PLAIN	born	<self>
+PLAIN	in	<self>
+PLAIN	reading	<self>
+PLAIN	pennsylvania	<self>
+PLAIN	to	<self>
+PLAIN	Louis	<self>
+PLAIN	and	<self>
+PLAIN	Hattie	<self>
+PUNCT	(	sil
+PLAIN	Flatt	<self>
+PUNCT	)	sil
+PLAIN	Wiswesser	<self>
+PLAIN	in	<self>
+DATE	1914	nineteen fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Anamorphs	<self>
+PLAIN	of	<self>
+PLAIN	this	<self>
+PLAIN	genus	<self>
+PLAIN	include	<self>
+PLAIN	the	<self>
+PLAIN	Arthrobotrys	<self>
+PUNCT	,	sil
+PLAIN	Dactylella	<self>
+PUNCT	,	sil
+PLAIN	Dicranidion	<self>
+PUNCT	,	sil
+PLAIN	Dwayaangam	<self>
+PUNCT	,	sil
+PLAIN	Helicoon	<self>
+PUNCT	,	sil
+PLAIN	Monacrosporium	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	Trinacrium	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Cathrine	<self>
+PLAIN	Hovdahl	<self>
+PLAIN	Vik	<self>
+PLAIN	was	<self>
+PLAIN	director	<self>
+PLAIN	shortly	<self>
+PLAIN	before	<self>
+PLAIN	present	<self>
+PLAIN	director	<self>
+PLAIN	Pontus	<self>
+PLAIN	Kyander	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	GB	g b
+PLAIN	Historical	<self>
+LETTERS	GIS	g i s
+PUNCT	/	sil
+PLAIN	University	<self>
+PLAIN	of	<self>
+PLAIN	Portsmouth	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Iraq	<self>
+PLAIN	After	<self>
+PLAIN	the	<self>
+PLAIN	Muslim	<self>
+PLAIN	Conquest	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Academy	<self>
+PLAIN	of	<self>
+PLAIN	Television	<self>
+PLAIN	Arts	<self>
+VERBATIM	&	and
+PLAIN	Sciences	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Michael	<self>
+LETTERS	W.	w
+PLAIN	Suleiman	<self>
+PUNCT	(	sil
+DATE	1965	nineteen sixty five
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	ship	<self>
+PLAIN	remained	<self>
+PLAIN	at	<self>
+PLAIN	Wellington	<self>
+PLAIN	until	<self>
+DATE	1 November	the first of november
+PLAIN	at	<self>
+PLAIN	which	<self>
+PLAIN	time	<self>
+PLAIN	she	<self>
+PLAIN	got	<self>
+PLAIN	underway	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	New	<self>
+PLAIN	Hebrides	<self>
+PLAIN	Islands	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	8 November 2014	the eighth of november twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	film	<self>
+PLAIN	ran	<self>
+PLAIN	for	<self>
+CARDINAL	200	two hundred
+PLAIN	days	<self>
+PLAIN	in	<self>
+PLAIN	Kerala	<self>
+PLAIN	and	<self>
+PLAIN	was	<self>
+PLAIN	the	<self>
+PLAIN	biggest	<self>
+PLAIN	hit	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	year	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Quick's	<self>
+PLAIN	dominance	<self>
+PLAIN	earns	<self>
+PLAIN	him	<self>
+LETTERS	NHL's	n h l's
+PUNCT	'	sil
+PLAIN	First	<self>
+PLAIN	Star	<self>
+PUNCT	'	sil
+PUNCT	"	sil
+PUNCT	(	sil
+PLAIN	Press	<self>
+PLAIN	release	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	White	<self>
+LETTERS	A.	a
+PLAIN	Davis	<self>
+PLAIN	Printers	<self>
+PUNCT	,	sil
+PLAIN	seattle	<self>
+PLAIN	washington	<self>
+PUNCT	,	sil
+DATE	1905	nineteen o five
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	casino	<self>
+PLAIN	is	<self>
+PLAIN	designed	<self>
+PLAIN	by	<self>
+PLAIN	mr	mister
+PLAIN	Burns	<self>
+PLAIN	himself	<self>
+PUNCT	,	sil
+PLAIN	as	<self>
+PLAIN	the	<self>
+PLAIN	proposals	<self>
+PLAIN	he	<self>
+PLAIN	received	<self>
+PLAIN	were	<self>
+PLAIN	not	<self>
+PLAIN	to	<self>
+PLAIN	his	<self>
+PLAIN	liking	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Commission	<self>
+PLAIN	provided	<self>
+PLAIN	oversight	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+LETTERS	U.S.	u s
+PLAIN	displaced	<self>
+PLAIN	persons	<self>
+PLAIN	organization	<self>
+PLAIN	from	<self>
+DATE	June 25, 1948	june twenty fifth nineteen forty eight
+PLAIN	through	<self>
+DATE	August 31, 1952	august thirty first nineteen fifty two
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	July 14, 2015	july fourteenth twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	May 20, 2013	may twentieth twenty thirteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Some	<self>
+PLAIN	have	<self>
+PLAIN	died	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	whereabouts	<self>
+PLAIN	of	<self>
+PLAIN	others	<self>
+PLAIN	is	<self>
+PLAIN	unknown	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+DATE	12 February 2012	the twelfth of february twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Find	<self>
+PLAIN	a	<self>
+PLAIN	Credit	<self>
+PLAIN	Union	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	February's	<self>
+PLAIN	stars	<self>
+PUNCT	:	sil
+PLAIN	Smith	<self>
+PUNCT	,	sil
+PLAIN	Karlsson	<self>
+PUNCT	,	sil
+PLAIN	Stamkos	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	25 April 2012	the twenty fifth of april twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	first	<self>
+PLAIN	station	<self>
+PLAIN	was	<self>
+PLAIN	brought	<self>
+PLAIN	into	<self>
+PLAIN	operation	<self>
+PLAIN	by	<self>
+PLAIN	the	<self>
+PLAIN	North	<self>
+PLAIN	Metropolitan	<self>
+PLAIN	Electric	<self>
+PLAIN	Power	<self>
+PLAIN	Supply	<self>
+PLAIN	Co	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Barbara	<self>
+PLAIN	was	<self>
+PLAIN	then	<self>
+PLAIN	recorded	<self>
+PLAIN	in	<self>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PUNCT	,	sil
+PLAIN	Los	<self>
+PLAIN	Angeles	<self>
+PLAIN	and	<self>
+PLAIN	London	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Madras	<self>
+PLAIN	Government	<self>
+PLAIN	Press	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	However	<self>
+PUNCT	,	sil
+PLAIN	only	<self>
+PLAIN	the	<self>
+PLAIN	best	<self>
+PLAIN	eleven	<self>
+PLAIN	round	<self>
+PLAIN	results	<self>
+PLAIN	were	<self>
+PLAIN	counted	<self>
+PLAIN	towards	<self>
+PLAIN	each	<self>
+PLAIN	driver's	<self>
+PLAIN	championship	<self>
+PLAIN	total	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Each	<self>
+PLAIN	variation	<self>
+PLAIN	had	<self>
+PLAIN	a	<self>
+PLAIN	Colt	<self>
+PLAIN	model	<self>
+PLAIN	number	<self>
+PUNCT	,	sil
+PLAIN	meant	<self>
+PLAIN	for	<self>
+PLAIN	internal	<self>
+PLAIN	identification	<self>
+PLAIN	usage	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	X	<self>
+VERBATIM	-	sil
+LETTERS	TRA	t r a
+PLAIN	Contemporary	<self>
+PLAIN	Art	<self>
+PLAIN	Quarterly	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	December 28, 1929	december twenty eighth nineteen twenty nine
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	connecting	<self>
+PLAIN	drawing	<self>
+PLAIN	room	<self>
+PLAIN	linked	<self>
+PLAIN	the	<self>
+PLAIN	ballroom	<self>
+PLAIN	via	<self>
+PLAIN	a	<self>
+PLAIN	further	<self>
+PLAIN	anteroom	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	former	<self>
+PLAIN	conservatory	<self>
+PUNCT	,	sil
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	great	<self>
+PLAIN	hall	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	23 September 1861	the twenty third of september eighteen sixty one
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+DATE	1960	nineteen sixty
+PLAIN	Chevrolet	<self>
+PLAIN	Suburban	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Sang	<self>
+PLAIN	Froid	<self>
+PUNCT	(	sil
+DATE	2000	two thousand
+PUNCT	)	sil
+PUNCT	(	sil
+PLAIN	Cold	<self>
+PLAIN	Blood	<self>
+PUNCT	)	sil
+PLAIN	Actual	<self>
+PLAIN	flavor	<self>
+PLAIN	is	<self>
+PLAIN	cherry	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Croatian	<self>
+PLAIN	Scientific	<self>
+PLAIN	Bibliography	<self>
+PUNCT	—	sil
+PLAIN	Bibliographic	<self>
+PLAIN	record	<self>
+PLAIN	number	<self>
+PUNCT	:	sil
+CARDINAL	342396	three hundred forty two thousand three hundred ninety six
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	After	<self>
+PLAIN	exiting	<self>
+PLAIN	the	<self>
+PLAIN	pits	<self>
+PUNCT	,	sil
+PLAIN	he	<self>
+PLAIN	caught	<self>
+PLAIN	and	<self>
+PLAIN	passed	<self>
+PLAIN	Prost	<self>
+PUNCT	(	sil
+PLAIN	who	<self>
+PLAIN	was	<self>
+PLAIN	dealing	<self>
+PLAIN	with	<self>
+PLAIN	an	<self>
+PLAIN	electrical	<self>
+PLAIN	problem	<self>
+PUNCT	)	sil
+PLAIN	on	<self>
+PLAIN	lap	<self>
+CARDINAL	67	sixty seven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	On	<self>
+DATE	3 August	the third of august
+PUNCT	,	sil
+PLAIN	he	<self>
+PLAIN	left	<self>
+PLAIN	with	<self>
+PLAIN	his	<self>
+PLAIN	father	<self>
+PLAIN	for	<self>
+PLAIN	Europe	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	lies	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	west	<self>
+PLAIN	of	<self>
+PLAIN	Devon	<self>
+PLAIN	Island	<self>
+PLAIN	and	<self>
+PLAIN	at	<self>
+PLAIN	its	<self>
+PLAIN	greatest	<self>
+PLAIN	length	<self>
+PLAIN	is	<self>
+PLAIN	about	<self>
+MEASURE	113 km	one hundred thirteen kilometers
+PUNCT	(	sil
+MEASURE	70 mi	seventy miles
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	The	<self>
+PLAIN	Zoology	<self>
+PLAIN	of	<self>
+PLAIN	British	<self>
+PLAIN	India	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Archived	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	on	<self>
+DATE	3 November 2014	the third of november twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Research	<self>
+PLAIN	has	<self>
+PLAIN	shown	<self>
+PLAIN	that	<self>
+PLAIN	they	<self>
+PLAIN	can	<self>
+PLAIN	provide	<self>
+PLAIN	a	<self>
+PLAIN	sizable	<self>
+PLAIN	increase	<self>
+PLAIN	in	<self>
+PLAIN	efficiency	<self>
+PUNCT	,	sil
+PLAIN	even	<self>
+PLAIN	at	<self>
+PLAIN	their	<self>
+PLAIN	current	<self>
+PLAIN	unoptimized	<self>
+PLAIN	state	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	film	<self>
+PLAIN	is	<self>
+PLAIN	now	<self>
+PLAIN	considered	<self>
+PLAIN	lost	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	hypothesis	<self>
+PLAIN	has	<self>
+PLAIN	been	<self>
+PLAIN	borne	<self>
+PLAIN	out	<self>
+PLAIN	by	<self>
+PLAIN	recent	<self>
+PLAIN	phylogenetic	<self>
+PLAIN	and	<self>
+PLAIN	morphological	<self>
+PLAIN	studies	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	married	<self>
+PLAIN	Mary	<self>
+PLAIN	Adelaide	<self>
+PUNCT	,	sil
+PLAIN	only	<self>
+PLAIN	surviving	<self>
+PLAIN	daughter	<self>
+PLAIN	of	<self>
+PLAIN	Sir	<self>
+PLAIN	William	<self>
+PLAIN	Compton	<self>
+PLAIN	Domvile	<self>
+PUNCT	,	sil
+ORDINAL	3rd	third
+PLAIN	Baronet	<self>
+PUNCT	(	sil
+PLAIN	see	<self>
+PLAIN	Domvile	<self>
+PLAIN	Baronets	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	On	<self>
+PLAIN	the	<self>
+PLAIN	week	<self>
+PLAIN	ending	<self>
+DATE	April 10, 2010	april tenth twenty ten
+PUNCT	,	sil
+PUNCT	"	sil
+PLAIN	Reverse	<self>
+PLAIN	Cowgirl	<self>
+PUNCT	"	sil
+PLAIN	debuted	<self>
+PLAIN	at	<self>
+VERBATIM	#	number
+CARDINAL	75	seventy five
+PLAIN	on	<self>
+PLAIN	the	<self>
+LETTERS	US	u s
+PLAIN	Billboard	<self>
+PLAIN	Hot	<self>
+CARDINAL	100	one hundred
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	National	<self>
+PLAIN	Power	<self>
+PLAIN	Transmission	<self>
+PLAIN	CorporationPower	<self>
+PLAIN	Generation	<self>
+PLAIN	Corporation	<self>
+PLAIN	no	<self>
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Center	<self>
+PLAIN	Ryan	<self>
+PLAIN	Potulny	<self>
+PLAIN	and	<self>
+PLAIN	Right	<self>
+PLAIN	Wing	<self>
+PLAIN	Matthew	<self>
+PLAIN	Ford	<self>
+PLAIN	Sign	<self>
+PLAIN	with	<self>
+PLAIN	Washington	<self>
+PUNCT	/	sil
+PLAIN	Hershey	<self>
+PUNCT	"	sil
+PUNCT	(	sil
+PLAIN	Press	<self>
+PLAIN	release	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	International	<self>
+PLAIN	Union	<self>
+PLAIN	for	<self>
+PLAIN	Conservation	<self>
+PLAIN	of	<self>
+PLAIN	Nature	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	CenturyLink	<self>
+PLAIN	Field	<self>
+PLAIN	has	<self>
+PLAIN	hosted	<self>
+PLAIN	two	<self>
+LETTERS	U.S.	u s
+PLAIN	Open	<self>
+PLAIN	Cup	<self>
+PLAIN	tournament	<self>
+PLAIN	finals	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	ITV	i t v
+PLAIN	Studios	<self>
+PLAIN	Another	<self>
+LETTERS	DVD	d v d
+PLAIN	will	<self>
+PLAIN	be	<self>
+PLAIN	released	<self>
+PLAIN	in	<self>
+DATE	September 2010	september twenty ten
+PLAIN	entitled	<self>
+PLAIN	Cartoon	<self>
+PLAIN	Mashup	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Povijest	<self>
+LETTERS	hr	h r
+PLAIN	vata	<self>
+PUNCT	,	sil
+VERBATIM	knj	k n j
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	New	<self>
+PLAIN	Zealand	<self>
+PLAIN	Ministry	<self>
+PLAIN	of	<self>
+PLAIN	Education	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	center	<self>
+PLAIN	hosts	<self>
+PLAIN	pre	<self>
+PLAIN	game	<self>
+PLAIN	events	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	Seahawks	<self>
+PLAIN	and	<self>
+PLAIN	Mariners	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+LETTERS	SRK's	s r k's
+PLAIN	Temptations	<self>
+PLAIN	Reloaded	<self>
+DATE	2008	two thousand eight
+PLAIN	kick	<self>
+PLAIN	starts	<self>
+PUNCT	!	sil
+PUNCT	"	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	18 December 2010	the eighteenth of december twenty ten
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Correspondingly	<self>
+PLAIN	almost	<self>
+PLAIN	all	<self>
+PLAIN	these	<self>
+PLAIN	terms	<self>
+PUNCT	(	sil
+PLAIN	or	<self>
+PLAIN	as	<self>
+PLAIN	I	<self>
+PLAIN	believe	<self>
+PUNCT	:	sil
+PLAIN	all	<self>
+PLAIN	of	<self>
+PLAIN	them	<self>
+PUNCT	!	sil
+<eos>	<eos>
+PLAIN	One	<self>
+PLAIN	such	<self>
+PLAIN	application	<self>
+PLAIN	could	<self>
+PLAIN	be	<self>
+PLAIN	to	<self>
+PLAIN	paint	<self>
+PLAIN	the	<self>
+PLAIN	nanotubes	<self>
+PLAIN	onto	<self>
+PLAIN	the	<self>
+PLAIN	plane	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	31 January 2016	the thirty first of january twenty sixteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Alfred	<self>
+PLAIN	Lord	<self>
+PLAIN	Tennyson	<self>
+PUNCT	:	sil
+PLAIN	A	<self>
+PLAIN	Memoir	<self>
+PLAIN	by	<self>
+PLAIN	his	<self>
+PLAIN	Son	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	is	<self>
+PLAIN	how	<self>
+PLAIN	Obi	<self>
+PLAIN	Wan	<self>
+PLAIN	Kenobi	<self>
+PLAIN	describes	<self>
+PLAIN	Darth	<self>
+PLAIN	Vader	<self>
+PLAIN	in	<self>
+PLAIN	Return	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Jedi	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kobenhavn	<self>
+PUNCT	,	sil
+PLAIN	serie	<self>
+CARDINAL	6	six
+PUNCT	,	sil
+PLAIN	number	<self>
+CARDINAL	4	four
+PLAIN	:	to
+CARDINAL	1	one
+CARDINAL	-231	minus two hundred thirty one
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Census	<self>
+PLAIN	of	<self>
+PLAIN	Population	<self>
+PLAIN	and	<self>
+PLAIN	Housing	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	wooden	<self>
+PLAIN	door	<self>
+PLAIN	with	<self>
+PLAIN	reliefs	<self>
+PLAIN	of	<self>
+PLAIN	women's	<self>
+PLAIN	heads	<self>
+PLAIN	dates	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+ORDINAL	19th	nineteenth
+PLAIN	century	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	ITN	i t n
+PLAIN	News	<self>
+PUNCT	(	sil
+DATE	1978-07-27	the twenty seventh of july nineteen seventy eight
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Archived	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	on	<self>
+DATE	8 August 2012	the eighth of august twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Great	<self>
+PLAIN	Race	<self>
+PUNCT	(	sil
+PLAIN	Hornsby	<self>
+PUNCT	:	sil
+PLAIN	The	<self>
+PLAIN	Berghouse	<self>
+PLAIN	Floyd	<self>
+PLAIN	Tuckey	<self>
+PLAIN	Publishing	<self>
+PLAIN	Group	<self>
+PLAIN	Pty	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Leigh	<self>
+PLAIN	Rayment's	<self>
+PLAIN	Peerage	<self>
+PLAIN	Pages	<self>
+PLAIN	Lundy	<self>
+PUNCT	,	sil
+PLAIN	Darryl	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Human	<self>
+PLAIN	Resources	<self>
+PLAIN	received	<self>
+PLAIN	generally	<self>
+PLAIN	positive	<self>
+PLAIN	reviews	<self>
+PLAIN	from	<self>
+PLAIN	critics	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	per	<self>
+PLAIN	capita	<self>
+PLAIN	income	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	town	<self>
+PLAIN	was	<self>
+MONEY	$15,634	fifteen thousand six hundred thirty four dollars
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	National	<self>
+PLAIN	Park	<self>
+PLAIN	Service	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Strasbourg	<self>
+PUNCT	:	sil
+PLAIN	le	<self>
+PLAIN	Palais	<self>
+PLAIN	universitaire	<self>
+PLAIN	a	<self>
+CARDINAL	130	one hundred thirty
+LETTERS	ans	a n s
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Archived	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+PLAIN	original	<self>
+PLAIN	on	<self>
+DATE	2009-06-17	the seventeenth of june two thousand nine
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	name	<self>
+PLAIN	eski	<self>
+PLAIN	hisar	<self>
+PLAIN	means	<self>
+PUNCT	"	sil
+PLAIN	old	<self>
+PLAIN	fortress	<self>
+PUNCT	"	sil
+PLAIN	in	<self>
+PLAIN	Turkish	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+PLAIN	on	<self>
+DATE	2015-06-03	the third of june twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	She	<self>
+PLAIN	was	<self>
+PLAIN	interred	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	family	<self>
+PLAIN	grave	<self>
+PLAIN	at	<self>
+PLAIN	the	<self>
+PLAIN	Cimetiere	<self>
+PLAIN	de	<self>
+PLAIN	Bagneux	<self>
+PLAIN	in	<self>
+PLAIN	southwest	<self>
+PLAIN	Paris	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	JoAnn	<self>
+PLAIN	Williford	<self>
+PLAIN	and	<self>
+PLAIN	Jim	<self>
+PLAIN	Sumner	<self>
+PUNCT	(	sil
+DATE	September 1981	september nineteen eighty one
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Tree	<self>
+PLAIN	View	<self>
+PLAIN	is	<self>
+PLAIN	also	<self>
+PLAIN	specialized	<self>
+PLAIN	to	<self>
+PLAIN	handle	<self>
+PLAIN	document	<self>
+PLAIN	type	<self>
+PLAIN	definition	<self>
+PUNCT	(	sil
+LETTERS	XML	x m l
+LETTERS	DTD	d t d
+PUNCT	)	sil
+PLAIN	and	<self>
+LETTERS	XML	x m l
+PLAIN	schema	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Tomislavci	<self>
+PUNCT	(	sil
+PLAIN	Serbian	<self>
+PLAIN	Cyrillic	<self>
+PUNCT	:	sil
+VERBATIM	Т	sil
+VERBATIM	о	sil
+VERBATIM	м	sil
+VERBATIM	и	sil
+VERBATIM	с	sil
+VERBATIM	л	sil
+VERBATIM	а	sil
+VERBATIM	в	sil
+VERBATIM	ц	sil
+VERBATIM	и	sil
+PUNCT	)	sil
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	village	<self>
+PLAIN	located	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	Backa	<self>
+PLAIN	Topola	<self>
+PLAIN	municipality	<self>
+PUNCT	,	sil
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	North	<self>
+PLAIN	Backa	<self>
+PLAIN	District	<self>
+PLAIN	of	<self>
+PLAIN	Serbia	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	An	<self>
+PLAIN	account	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PUNCT	"	sil
+PLAIN	Osler	<self>
+PLAIN	bequest	<self>
+PUNCT	"	sil
+PUNCT	,	sil
+PLAIN	a	<self>
+PLAIN	collection	<self>
+PLAIN	of	<self>
+PLAIN	Withering's	<self>
+PLAIN	lettersJ	<self>
+PLAIN	K	<self>
+PLAIN	Aronson	<self>
+PUNCT	(	sil
+DATE	1985	nineteen eighty five
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	University	<self>
+PLAIN	of	<self>
+PLAIN	Oklahoma	<self>
+PLAIN	Press	<self>
+PUNCT	,	sil
+PLAIN	Norman	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+PLAIN	addition	<self>
+PUNCT	,	sil
+PLAIN	LaGrange	<self>
+PLAIN	College	<self>
+PLAIN	began	<self>
+PLAIN	offering	<self>
+PLAIN	online	<self>
+PLAIN	courses	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	Spring	<self>
+DATE	2013	twenty thirteen
+PLAIN	term	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Aztecs	<self>
+PUNCT	,	sil
+PLAIN	Maya	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	Their	<self>
+PLAIN	Predecessors	<self>
+PUNCT	:	sil
+PLAIN	Archaeology	<self>
+PLAIN	of	<self>
+PLAIN	Mesoamerica	<self>
+PUNCT	(	sil
+ORDINAL	3rd	third
+PLAIN	ed	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Martha	<self>
+PLAIN	Wainwright	<self>
+PLAIN	Discography	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Bodo	<self>
+PLAIN	Skull	<self>
+PLAIN	and	<self>
+PLAIN	Jaw	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Starratt	<self>
+PUNCT	,	sil
+PLAIN	Kirk	<self>
+PUNCT	(	sil
+DATE	February 14, 2015	february fourteenth twenty fifteen
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+DATE	2016	twenty sixteen
+PLAIN	Chevrolet	<self>
+PLAIN	Suburban	<self>
+PLAIN	Earns	<self>
+PLAIN	Four	<self>
+PLAIN	Star	<self>
+PLAIN	Safety	<self>
+PLAIN	Rating	<self>
+PLAIN	From	<self>
+PLAIN	Federal	<self>
+PLAIN	Government	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Her	<self>
+PUNCT	"	sil
+PLAIN	signature	<self>
+PLAIN	move	<self>
+PUNCT	"	sil
+PLAIN	is	<self>
+PLAIN	transforming	<self>
+PLAIN	men	<self>
+PLAIN	into	<self>
+PLAIN	various	<self>
+PLAIN	animals	<self>
+PUNCT	,	sil
+PLAIN	like	<self>
+PLAIN	when	<self>
+PLAIN	she	<self>
+PLAIN	turned	<self>
+PLAIN	Odysseus's	<self>
+PLAIN	men	<self>
+PLAIN	into	<self>
+PLAIN	pigs	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Protest	<self>
+PLAIN	Held	<self>
+PLAIN	In	<self>
+PLAIN	Kentville	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	26 December 2014	the twenty sixth of december twenty fourteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Rayker	<self>
+PLAIN	and	<self>
+PLAIN	Ewan	<self>
+PLAIN	arrive	<self>
+PLAIN	and	<self>
+PLAIN	storm	<self>
+PLAIN	the	<self>
+PLAIN	house	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	27 October 2013	the twenty seventh of october twenty thirteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Ministry	<self>
+PLAIN	of	<self>
+PLAIN	Culture	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Republic	<self>
+PLAIN	of	<self>
+PLAIN	Slovenia	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Library	<self>
+PLAIN	Journal	<self>
+CARDINAL	107	one hundred seven
+PUNCT	(	sil
+CARDINAL	7	seven
+PUNCT	)	sil
+PUNCT	:	sil
+CARDINAL	747	seven hundred forty seven
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	With	<self>
+PLAIN	the	<self>
+PLAIN	change	<self>
+PLAIN	to	<self>
+DIGIT	855 	eight five five
+PLAIN	cartridges	<self>
+PUNCT	,	sil
+PLAIN	they	<self>
+PLAIN	either	<self>
+PLAIN	received	<self>
+CARDINAL	1	one
+VERBATIM	-	sil
+PLAIN	IN	<self>
+CARDINAL	7	seven
+PLAIN	twist	<self>
+PLAIN	barrel	<self>
+PLAIN	or	<self>
+PLAIN	complete	<self>
+PLAIN	upper	<self>
+PLAIN	receiver	<self>
+PLAIN	assembly	<self>
+PLAIN	replacements	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	As	<self>
+PLAIN	of	<self>
+DATE	February 2014	february twenty fourteen
+PUNCT	,	sil
+PLAIN	the	<self>
+DATE	2014	twenty fourteen
+PLAIN	Tahoe	<self>
+PLAIN	was	<self>
+PLAIN	the	<self>
+PLAIN	top	<self>
+PLAIN	ranked	<self>
+PLAIN	Affordable	<self>
+PLAIN	Large	<self>
+LETTERS	SUV	s u v
+PLAIN	in	<self>
+LETTERS	U.S.	u s
+PLAIN	News	<self>
+VERBATIM	&	and
+PLAIN	World	<self>
+PLAIN	Report's	<self>
+PLAIN	rankings	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	In	<self>
+DATE	1982	nineteen eighty two
+PUNCT	,	sil
+PLAIN	she	<self>
+PLAIN	opened	<self>
+PLAIN	her	<self>
+PLAIN	own	<self>
+PLAIN	law	<self>
+PLAIN	practice	<self>
+PUNCT	,	sil
+PLAIN	dealing	<self>
+PLAIN	mainly	<self>
+PLAIN	with	<self>
+PLAIN	personal	<self>
+PLAIN	injury	<self>
+PLAIN	and	<self>
+PLAIN	family	<self>
+PLAIN	law	<self>
+PLAIN	cases	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Gallery	<self>
+PUNCT	:	sil
+PLAIN	Grand	<self>
+PLAIN	opening	<self>
+PLAIN	for	<self>
+PLAIN	Pinnacle	<self>
+PLAIN	tower	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Rafi	<self>
+PLAIN	realizes	<self>
+PLAIN	how	<self>
+PLAIN	deep	<self>
+PLAIN	David's	<self>
+PLAIN	love	<self>
+PLAIN	must	<self>
+PLAIN	be	<self>
+PLAIN	for	<self>
+PLAIN	him	<self>
+PLAIN	to	<self>
+PLAIN	make	<self>
+PLAIN	such	<self>
+PLAIN	a	<self>
+PLAIN	sacrifice	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	29 January 2012	the twenty ninth of january twenty twelve
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	tale	<self>
+PLAIN	of	<self>
+PLAIN	two	<self>
+PLAIN	climates	<self>
+PLAIN	Baltimore	<self>
+PLAIN	and	<self>
+PLAIN	Phoenix	<self>
+PLAIN	urban	<self>
+LETTERS	LTER	l t e r
+PLAIN	sites	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Band	<self>
+PLAIN	member	<self>
+PLAIN	David	<self>
+PLAIN	Nixon	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	philosophy	<self>
+PLAIN	professor	<self>
+PLAIN	at	<self>
+PLAIN	the	<self>
+PLAIN	University	<self>
+PLAIN	of	<self>
+PLAIN	Washington	<self>
+PUNCT	,	sil
+PLAIN	Bothell	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	During	<self>
+PLAIN	World	<self>
+PLAIN	War	<self>
+CARDINAL	II	two
+PLAIN	the	<self>
+PLAIN	passenger	<self>
+PLAIN	numbers	<self>
+PLAIN	peaked	<self>
+PLAIN	at	<self>
+DECIMAL	35.5 million	thirty five point five million
+PLAIN	annually	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Aired	<self>
+PLAIN	on	<self>
+PLAIN	cable	<self>
+PLAIN	channel	<self>
+PLAIN	Justice	<self>
+PLAIN	Central	<self>
+PLAIN	and	<self>
+LETTERS	ABC	a b c
+PLAIN	stations	<self>
+PUNCT	,	sil
+PLAIN	it	<self>
+PLAIN	is	<self>
+PLAIN	the	<self>
+PLAIN	fifth	<self>
+PLAIN	courtroom	<self>
+PLAIN	series	<self>
+PLAIN	from	<self>
+PLAIN	Entertainment	<self>
+PLAIN	Studios	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	eventually	<self>
+PLAIN	eroded	<self>
+PLAIN	right	<self>
+PLAIN	through	<self>
+PLAIN	to	<self>
+PLAIN	create	<self>
+PLAIN	an	<self>
+PLAIN	arch	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	History	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	Massachusetts	<self>
+PLAIN	DYS	<self>
+PUNCT	"	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	New	<self>
+PLAIN	York	<self>
+PLAIN	Times	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Romans	<self>
+PLAIN	trowed	<self>
+PLAIN	lighted	<self>
+PLAIN	arrows	<self>
+PLAIN	at	<self>
+PLAIN	wooden	<self>
+PLAIN	houses	<self>
+PUNCT	,	sil
+PLAIN	burned	<self>
+PLAIN	the	<self>
+PLAIN	city	<self>
+PUNCT	,	sil
+PLAIN	conquered	<self>
+PLAIN	it	<self>
+PLAIN	and	<self>
+PLAIN	destroyed	<self>
+PLAIN	it	<self>
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	US	u s
+PLAIN	Copyright	<self>
+PLAIN	Office	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Her	<self>
+PLAIN	duties	<self>
+PLAIN	included	<self>
+PLAIN	researching	<self>
+PLAIN	and	<self>
+PLAIN	drafting	<self>
+PLAIN	speeches	<self>
+PLAIN	for	<self>
+PLAIN	Chief	<self>
+PLAIN	Justice	<self>
+PLAIN	William	<self>
+LETTERS	H.	h
+PLAIN	Rehnquist	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Daokhi	<self>
+PLAIN	Agor	<self>
+PUNCT	(	sil
+PLAIN	A	<self>
+PLAIN	design	<self>
+PLAIN	representing	<self>
+PLAIN	stool	<self>
+PLAIN	of	<self>
+PLAIN	a	<self>
+PLAIN	hen	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+LETTERS	IUCN	i u c n
+PLAIN	Red	<self>
+PLAIN	List	<self>
+PLAIN	of	<self>
+PLAIN	Threatened	<self>
+PLAIN	Species	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	Pinnacles	<self>
+PUNCT	,	sil
+PLAIN	el	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Retrieved	<self>
+DATE	May 25, 2015	may twenty fifth twenty fifteen
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Taylor	<self>
+PLAIN	earned	<self>
+PLAIN	all	<self>
+PLAIN	state	<self>
+PLAIN	honors	<self>
+PLAIN	in	<self>
+PLAIN	football	<self>
+PLAIN	and	<self>
+PLAIN	basketball	<self>
+PLAIN	at	<self>
+PLAIN	Ann	<self>
+PLAIN	Arbor	<self>
+PLAIN	High	<self>
+PLAIN	School	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	At	<self>
+PLAIN	last	<self>
+PLAIN	they	<self>
+PLAIN	got	<self>
+PLAIN	an	<self>
+PLAIN	answer	<self>
+PLAIN	from	<self>
+PLAIN	Mablethorpe	<self>
+PUNCT	,	sil
+PLAIN	a	<self>
+PLAIN	cottage	<self>
+PLAIN	such	<self>
+PLAIN	as	<self>
+PLAIN	they	<self>
+PLAIN	wished	<self>
+PLAIN	for	<self>
+PLAIN	thirty	<self>
+PLAIN	shillings	<self>
+PLAIN	a	<self>
+PLAIN	week	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Wu	<self>
+PLAIN	Cheng'en	<self>
+PUNCT	,	sil
+PLAIN	translation	<self>
+PLAIN	Meir	<self>
+PLAIN	Shahar	<self>
+PUNCT	,	sil
+PLAIN	Monkey	<self>
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	Magic	<self>
+PLAIN	Gourd	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	He	<self>
+PLAIN	was	<self>
+PLAIN	consecrated	<self>
+PLAIN	on	<self>
+DATE	6 July 1823	the sixth of july eighteen twenty three
+PLAIN	by	<self>
+PLAIN	Daniel	<self>
+PLAIN	Murray	<self>
+PUNCT	,	sil
+PLAIN	Archbishop	<self>
+PLAIN	of	<self>
+PLAIN	Dublin	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	This	<self>
+PLAIN	proved	<self>
+PLAIN	to	<self>
+PLAIN	be	<self>
+PLAIN	a	<self>
+PLAIN	mistake	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kansas	<self>
+PLAIN	Medical	<self>
+PLAIN	Society	<self>
+MONEY	$1	one dollar
+PUNCT	,	sil
+DIGIT	0003	o o o three
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Young	<self>
+PUNCT	,	sil
+PLAIN	Renée	<self>
+PUNCT	(	sil
+DATE	May 1, 2003	may first two thousand three
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	also	<self>
+PLAIN	houses	<self>
+PLAIN	industries	<self>
+PLAIN	like	<self>
+PLAIN	steel	<self>
+PUNCT	,	sil
+PLAIN	tinplate	<self>
+PUNCT	,	sil
+PLAIN	cement	<self>
+PLAIN	and	<self>
+PLAIN	flour	<self>
+PLAIN	mills	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	At	<self>
+PLAIN	Suffolk	<self>
+PLAIN	Downs	<self>
+PLAIN	on	<self>
+DATE	July 7, 1947	july seventh nineteen forty seven
+PUNCT	,	sil
+PLAIN	Stymie	<self>
+PLAIN	became	<self>
+PLAIN	the	<self>
+PLAIN	first	<self>
+PLAIN	horse	<self>
+PLAIN	ever	<self>
+PLAIN	to	<self>
+PLAIN	eclipse	<self>
+PLAIN	the	<self>
+MONEY	$700,000	seven hundred thousand dollars
+PLAIN	earnings	<self>
+PLAIN	mark	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Live	<self>
+PLAIN	Chat	<self>
+PUNCT	:	sil
+PLAIN	Should	<self>
+PLAIN	You	<self>
+PLAIN	Have	<self>
+PLAIN	More	<self>
+PLAIN	Kids	<self>
+PUNCT	?	sil
+PUNCT	"	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	fourth	<self>
+PLAIN	one	<self>
+PLAIN	was	<self>
+PLAIN	built	<self>
+PLAIN	upstream	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Hill	<self>
+PLAIN	and	<self>
+PLAIN	Wang	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	The	<self>
+PLAIN	cinema	<self>
+PLAIN	was	<self>
+PLAIN	previously	<self>
+PLAIN	known	<self>
+PLAIN	as	<self>
+PLAIN	the	<self>
+PLAIN	Bijou	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	There	<self>
+PLAIN	is	<self>
+PLAIN	no	<self>
+PLAIN	post	<self>
