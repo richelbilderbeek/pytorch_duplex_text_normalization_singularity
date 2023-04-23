@@ -13,10 +13,8 @@ From: pytorch/pytorch:latest
     apt-get -y install git
 
     git clone https://github.com/NVIDIA/NeMo /opt/NeMo --depth 1
-    ls
-    echo $PWD
-    cp $PWD/validation_10000.txt /opt/NeMo/examples/nlp/duplex_text_normalization
-    cp $PWD/train_10000.txt /opt/NeMo/examples/nlp/duplex_text_normalization
+    wget https://raw.githubusercontent.com/richelbilderbeek/pytorch_duplex_text_normalization_singularity/master/validation_10000.txt /opt/NeMo/examples/nlp/duplex_text_normalization
+    wget https://raw.githubusercontent.com/richelbilderbeek/pytorch_duplex_text_normalization_singularity/master/train_10000.txt /opt/NeMo/examples/nlp/duplex_text_normalization
 
 %runscript
 echo "'pytorch.sif' running with arguments '$@'"
