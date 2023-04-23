@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Build the Singularity container called `ticket_272562.sif`
+# Build the Singularity container called `pytorch.sif`
 # from the Singularity recipe `Singularity` (which is a default
 # name for a Singularity recipe)
 #
@@ -10,3 +10,4 @@
 #
 #
 sudo -E singularity build pytorch.sif Singularity
+
