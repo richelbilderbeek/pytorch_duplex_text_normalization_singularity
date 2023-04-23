@@ -10,7 +10,7 @@ From: pytorch/pytorch:latest
     echo 'export LANG=en_US.UTF-8 LANGUAGE=C LC_ALL=C LC_CTYPE=C LC_COLLATE=C  LC_TIME=C LC_MONETARY=C LC_PAPER=C LC_MEASUREMENT=C' >> $SINGULARITY_ENVIRONMENT
     
     apt-get -y update
-    apt-get -y install git
+    apt-get -y install git wget
 
     git clone https://github.com/NVIDIA/NeMo /opt/NeMo --depth 1
     wget https://raw.githubusercontent.com/richelbilderbeek/pytorch_duplex_text_normalization_singularity/master/validation_10000.txt /opt/NeMo/examples/nlp/duplex_text_normalization
