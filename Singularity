@@ -11,6 +11,9 @@ From: pytorch/pytorch:latest
 
     apt-get -y update
     apt-get -y install git wget gcc-12
+    gcc --version
+    apt-get -y install gcc
+    gcc --version
 
     pip install Cython 
     pip install pytorch-lightning omegaconf nemo_toolkit[all]
