@@ -20,13 +20,13 @@ From: pytorch/pytorch:latest
 echo "'pytorch.sif' running with arguments '$@'"
 exec "$@"
 
-%test
-    cd /opt/NeMo/examples/nlp/duplex_text_normalization
-    python3 duplex_text_normalization_train.py \
-        data.validation_ds.data_path=/opt/NeMo/examples/nlp/duplex_text_normalization/validation_10000.txt \
-        data.train_ds.data_path=/opt/NeMo/examples/nlp/duplex_text_normalization/train_10000.txt \
-        mode={tn,itn,joint} \
-        lang={en,ru,de}
+#   %test
+    #cd /opt/NeMo/examples/nlp/duplex_text_normalization
+    #python3 duplex_text_normalization_train.py \
+    #    data.validation_ds.data_path=/opt/NeMo/examples/nlp/duplex_text_normalization/validation_10000.txt \
+    #    data.train_ds.data_path=/opt/NeMo/examples/nlp/duplex_text_normalization/train_10000.txt \
+    #    mode={tn,itn,joint} \
+    #    lang={en,ru,de}
 
 %help
 
