@@ -34,6 +34,5 @@ jobs:
       - name: Show help of container
         run: singularity run-help pytorch.sif
 
-#      - name: Run container
-#        run: ./run_container.sh
-
+      - name: Run container
+        run: ./run_singularity_container.sh
