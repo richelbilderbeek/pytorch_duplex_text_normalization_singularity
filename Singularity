@@ -10,7 +10,7 @@ From: pytorch/pytorch:latest
     echo 'export LANG=en_US.UTF-8 LANGUAGE=C LC_ALL=C LC_CTYPE=C LC_COLLATE=C  LC_TIME=C LC_MONETARY=C LC_PAPER=C LC_MEASUREMENT=C' >> $SINGULARITY_ENVIRONMENT
 
     apt-get -y update
-    apt-get -y install git wget gcc-12
+    apt-get -y install git wget gcc-11
     gcc --version
     apt-get -y install gcc
     gcc --version
