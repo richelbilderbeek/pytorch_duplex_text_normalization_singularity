@@ -1,0 +1,39 @@
+on:
+  push:
+  pull_request:
+
+name: build_singularity
+
+jobs:
+  build_singularity:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        singularity_version:
+          - '3.7.4'
+    container:
+      image: quay.io/singularity/singularity:v${{ matrix.singularity_version }}
+      options: --privileged
+
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Show singularity version
+        run: singularity version
+
+      - name: Build Container
+        run: ./build_singularity_container.sh
+
+      - name: Test container, must detect PLINKs
+        run: singularity test pytorch.sif
+
+      - name: Show help of container
+        run: singularity run-help pytorch.sif
+
+#      - name: Run container
+#        run: ./run_container.sh
+
